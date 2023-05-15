@@ -1,0 +1,4 @@
+< 402380:"Power of Remembrance Menu"
+> 402380:"Remnant Crafting Menu"
+- 402380:"追忆力量选单"
+= 402380:""
