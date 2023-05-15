@@ -1,5 +1,5 @@
 > 15000511:"Remnant Crafting"
-= 15000511:""
+= 15000511:"遗物精炼"
 < 20011012:"Use two Golden Seeds to increase your number of flask uses?"
 > 20011012:"Use one Golden Seed to increase your number of flask uses?"
 - 20011012:"要使用２个黄金种子，增加圣杯瓶的使用次数吗？"
