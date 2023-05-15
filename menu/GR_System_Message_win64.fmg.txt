@@ -1,4 +1,4 @@
 < 400003:"At the end of the previous session, Quit Game or Return\nto Desktop might not have been selected from the System\nmenu. Please use either of these options when you wish\nto end your play session.\nFailure to end session using either of these options may\nresult in loss of progress."
 > 400003:"At the end of the previous session, Quit Game or Return\nto Desktop might not have been selected from the System\nmenu. Please use either of these options when you wish\nto end your play session.\n\nFailure to end session using either of these options may\nresult in loss of progress."
 - 400003:"前一次结束游戏时，\n您可能未从系统选单选择“结束游戏”或“返回桌面”。\n如果想结束游玩，\n请从系统选单选择“结束游戏”或“返回桌面”。\n\n如未选择“结束游戏”或“返回桌面”，\n有可能无法从结束游戏的进度继续游玩。"
-= 400003:""
+= 400003:"前一次结束游戏时，\n您可能未从系统选单选择“结束游戏”或“返回桌面”。\n如果想结束游玩，\n请从系统选单选择“结束游戏”或“返回桌面”。\n\n如未选择“结束游戏”或“返回桌面”，\n有可能无法从结束游戏的进度继续游玩。""
