@@ -1,4 +1,4 @@
 > 6800:"Inflicts soul burn"
-= 6800:""
+= 6800:"引发灵魂燃烧"
 > 6801:"Inflicts immolation"
-= 6801:""
+= 6801:"引发自燃"
