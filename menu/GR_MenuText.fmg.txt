@@ -133,7 +133,7 @@
 > 297140:"Glint Sorcerer"
 = 297140:"辉石法师"
 > 297141:"Underworld Mage"
-= 297141:"地下世界法师"
+= 297141:"地底法师"
 > 297142:"Fire Prophet"
 = 297142:"火焰先知"
 > 297143:"Fundamentalist"
