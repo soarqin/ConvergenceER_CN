@@ -17,7 +17,7 @@
 > 610020:"Stormhill Overlook"
 = 610020:"风暴山丘眺望处"
 > 610021:"Limgrave Minor Erdtree"
-= 610021:"林姆格福小黄金树"
+= 610021:"宁姆格福小黄金树"
 > 611013:"Weeping Peninsula Minor Erdtree"
 = 611013:"啜泣半岛小黄金树"
 > 620063:"West Liurnia Minor Erdtree"

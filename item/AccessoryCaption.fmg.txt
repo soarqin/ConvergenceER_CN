@@ -71,7 +71,7 @@
 - 2020:"采取奇特手段偷袭的刺客们拥有的护符。\n参考刚蜕皮的蝎子制成，\n蝎螯夹着火色的心脏。\n\n能提升火属性攻击力，但降低减伤率。"
 = 2020:"采取奇特手段偷袭的刺客们拥有的护符。\n参考刚蜕皮的蝎子制成，\n蝎螯夹着火色的心脏。\n\n能提升12.5%火属性攻击力，但降低10%减伤率。"
 > 2021:"Carried by members of the clan of firemonks that worship the power of the fell flame.\n\nIncreases all fire damage by 5%."
-= 2021:"由崇拜恶堕火焰力量的火焰主教们携带。\n\n能提升5%火属性攻击力。"
+= 2021:"由崇拜恶堕火焰力量的火焰习武修士们携带。\n\n能提升5%火属性攻击力。"
 > 2022:"Carried by the merchants of the Lands Between as a treasured keepsake, this searing ember conjures images of a world engulfed in flame.\n\nIncreases all fire damage by 7.5%."
 = 2022:"交界地的商人们携带的珍贵遗物，灼热的余烬映射着被充满火焰的世界。\n\n能提升7.5%火属性攻击力。"
 > 2023:"Taken from the forge that houses the flame of a fell god, this small coal exemplifies the only power left in the world that could threaten the lineage of the Erdtree.\n\nIncreases all fire damage by 10%."

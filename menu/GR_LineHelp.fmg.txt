@@ -75,7 +75,7 @@
 > 297143:"Defender of the Golden Order, this\npriest remains devoted to the Erdtree.\nFocus: FTH - Holy Damage"
 = 297143:"黄金律法的卫道士，这位\n牧师依然信奉黄金树。\n专精：信仰 - 神圣伤害"
 > 297144:"Wild and unkempt, this monk is capable\nof conjuring and manipulating stone.\nFocus: FTH - Physical Damage"
-= 297144:"狂野而不修边幅，这个修道士能\n召唤和操纵碎石。\n专精：信仰 - 物理伤害"
+= 297144:"狂野而不修边幅，习武修士能\n召唤和操纵碎石。\n专精：信仰 - 物理伤害"
 > 297145:"Once a knight of Leyndell, this cleric can\ncall down the lightning of the ancients.\nFocus: FTH - Lightning Damage"
 = 297145:"曾为罗德尔骑士，这位牧师\n能召唤远古的闪电。\n专精：信仰 - 闪电伤害"
 > 297146:"Advocate for those that live in death,\nthis sorcerer calls spirits to their aid.\nFocus: INT/FTH - Holy Damage"
