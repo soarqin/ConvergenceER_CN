@@ -12,6 +12,8 @@
 = 122:"战技：野兽痛击\n\n用一连串残酷的斩击蹂躏你的敌人。\n攻击期间不会被轻易打断，最后一斩会击飞你的对手。"
 > 127:"Skill: Frenzyflame Thrust\n\nImbue the spear with the flame of frenzy and leap forwards, plunging it into the ground and setting off a maddening explosion. \nFollow up with a sweeping attack that coats the weapon in maddening flames, increasing damage for 30 seconds.\nThe skill inflicts the enemy with madness."
 = 127:"战技：癫火突刺\n\n为长矛注入癫火并向前跳跃刺入地面并引发令人发狂的爆炸。 \n接着进行一次横扫攻击，并将武器包裹在癫火中，增加伤害，持续30秒。\n该战技能使敌人发狂。"
+> 128:"Skill: Soporific Assault\n\n"
+= 128:"战技：催眠突袭\n\n"
 < 200:"Skill: Glintblade Phalanx\n\nSkill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust."
 > 200:"Skill: Primeval Cascade\n\nLift into the air as the axe charges with energy and then cleave three times, each sending out an arc of glint energy.\nFollow up with a strong attack to send another glint arc and finally plant the axe head into the ground causing an upheaval of power."
 - 200:"战技：辉剑圆阵\n\n侍奉卡利亚王室的魔法骑士们使用的战技。\n让魔力辉剑浮空围成半圆，自动攻击敌人。\n发动后接着使出重攻击，\n能向前大幅跨出、突刺攻击。"
