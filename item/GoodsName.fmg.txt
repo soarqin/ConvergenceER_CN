@@ -459,7 +459,7 @@
 > 6801:"Stone Throw"
 = 6801:"掷石"
 > 6811:"Gurranq's Upheaval"
-= 6811:"古兰格的地动"
+= 6811:"古兰格的隆起"
 > 6841:"Primal Regeneration"
 = 6841:"原始回生"
 < 6850:"Bestial Constitution"

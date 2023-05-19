@@ -171,7 +171,7 @@
 < 297156:"Cracked Pot"
 > 297156:"Heirloom Remnant"
 - 297156:"龟裂壶"
-= 297156:"传说遗物"
+= 297156:"祖传遗物"
 < 297157:"Stonesword Key"
 > 297157:"Enchanted Remnant"
 - 297157:"石剑钥匙"

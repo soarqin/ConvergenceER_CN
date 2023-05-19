@@ -69,7 +69,7 @@
 > 297140:"Trained at Raya Lucaria, this sorcerer is\na student of Glintstone and Carian sorcery.\nFocus: INT - Magic Damage"
 = 297140:"在雷亚卢卡利亚学院受训，\n擅长辉石和卡利亚魔法的学生。\n专精：智力 - 魔法伤害"
 > 297141:"Born in the ruins of a fallen empire, this mage\nemploys the frozen lightning of the dragonkin.\nFocus: INT - Lightning Damage"
-= 297141:"生于恶堕帝国废墟的法师，\n使用龙人的冰雷力量。\n专精：智力 - 闪电伤害"
+= 297141:"生于堕落帝国废墟的法师，\n使用龙人的冰雷力量。\n专精：智力 - 闪电伤害"
 > 297142:"Persecuted for apocalyptic visions, this \npriest now calls the power of the flame.\nFocus: FTH - Fire Damage"
 = 297142:"因世界末日的幻想而受到迫害，这位\n牧师擅长召唤火焰的力量。\n专精：信仰 - 火焰伤害"
 > 297143:"Defender of the Golden Order, this\npriest remains devoted to the Erdtree.\nFocus: FTH - Holy Damage"
