@@ -29,7 +29,7 @@
 < 212:"Skill: Earthshaker\n\nThrust armament into the ground, then gather strength to unleash an earth-shaking shockwave.\nFollow up with a strong attack to swing the armament in a sweeping strike."
 > 212:"Unique Skill: Call to Thunder\n\nLift the twinblade into the air to imbue with lightning, increasing lightning affinity damage for a short time.\nWhile affected, perform a heavy attack to call thunderbolts down upon foe and follow up to fire a lightning spear toward foes."
 - 212:"战技：撼地\n\n将武器刺入地面后，再向下使力\n产生冲击波，引发剧烈摇晃的战技。\n发动后接着使出重攻击，\n能回旋横扫攻击。"
-= 212:"专用战技：呼唤雷电\n\n将双刃举到空中灌注闪电，短时间内增加闪电属性伤害。\n然后用力挥舞召唤雷霆降临敌人并发射雷电长矛。"
+= 212:"专用战技：呼唤雷电\n\n将双刃举到空中灌注闪电，短时间内增加闪电属性攻击力。\n然后用力挥舞召唤雷霆降临敌人并发射雷电长矛。"
 < 216:"Skill: Thunderbolt\n\nSkill used by the capital's ancient dragon cult.\nRaise armament aloft to call down a bolt of lightning.\nCan be fired in rapid succession."
 > 216:"Skill: Ice Spikes\n\nSkill used by the warriors of Zamor.\nRaise armament aloft to fire ice shards from the head of the mace that then seek out foes, dealing damage and building frostbite.\nCan be fired in rapid succession."
 - 216:"战技：落雷\n\n王城古龙信仰的战技之一。\n武器指向天之后会蕴藏雷电，召唤落雷。\n可以连续施放。"

@@ -2945,7 +2945,7 @@
 = 8082000:"风暴兽人大弯刀"
 = 8082100:"神秘兽人大弯刀"
 > 8090000:"Three Finger Blade"
-= 8090000:"三指刃"
+= 8090000:"叁指刃"
 < 8110400:"Fire Holy Inferno Greatsword"
 > 8110400:"Glint Holy Inferno Greatsword"
 - 8110400:"火焰神火大弯刀"
