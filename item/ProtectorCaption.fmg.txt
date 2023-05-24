@@ -69,31 +69,31 @@
 < 80300:"Greaves worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIstvan is one of a few wizened Tarnished who survive to this day."
 > 80300:"Greaves worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIncreases STR and DEX by 1 and increases weapon damage by 1%.\n\nIstvan is one of a few wizened Tarnished who survive to this day."
 - 80300:"“古老骑士”伊修托邦的腿甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
-= 80300:"“古老骑士”伊修托邦的腿甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n提升1点力气和灵巧并提升1%武器攻击力。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。
+= 80300:"“古老骑士”伊修托邦的腿甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n提升1点力气和灵巧并提升1%武器攻击力。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
 < 81100:"Armor worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIstvan is one of a few wizened Tarnished who survive to this day."
 > 81100:"Armor worn by Old Knight Istvan.\nThe corroded metal is reinforced with rock-hard scales, making it highly effective against non-physical attacks.\n\nIncreases STR and DEX by 2 and increases weapon damage by 2%.\n\nIstvan is one of a few wizened Tarnished who survive to this day."
 - 81100:"“古老骑士”伊修托邦的铠甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
-= 81100:"“古老骑士”伊修托邦的铠甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n提升2点力气和灵巧并提升2%武器攻击力。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。
+= 81100:"“古老骑士”伊修托邦的铠甲。\n变质的金属部分以坚硬的鳞片修补，\n在抵御物理以外的攻击，表现不错。\n\n提升2点力气和灵巧并提升2%武器攻击力。\n\n伊修托邦是资历较深的褪色者之中，\n其中一位幸存者。"
 < 90000:"Hood of an Erdtree Capital perfumer.\n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives."
 > 90000:"Hood of an Erdtree Capital perfumer.\n\nIncreases ARC, END and VIG by 2, increases damage of perfumes by 2% and increases item discovery by 2%.\n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives."
 - 90000:"黄金树王城的调香师们穿戴的风帽。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
-= 90000:"黄金树王城的调香师们穿戴的风帽。\n\n提升2点感应、耐力和生命力，提升2%调香瓶伤害并提升2%道具发现率。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。
+= 90000:"黄金树王城的调香师们穿戴的风帽。\n\n提升2点感应、耐力和生命力，提升2%调香瓶伤害并提升2%道具发现率。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
 < 90100:"Robe of an Erdtree Capital perfumer.\n\nThe thick front apron embroidered with a depiction of the Erdtree is proof of mastery of the apothecarial arts, and its weight symbolizes the onus of both pride and responsibility."
 > 90100:"Robe of an Erdtree Capital perfumer.\n\nIncreases ARC, END and VIG by 4, increases damage of perfumes by 4% and increases item discovery by 4%.\n\nThe thick front apron embroidered with a depiction of the Erdtree is proof of mastery of the apothecarial arts, and its weight symbolizes the onus of both pride and responsibility."
 - 90100:"黄金树王城的调香师们穿戴的长袍。\n\n厚重的围裙上装饰着黄金树的刺绣，\n代表修毕药草学家密技的证明。\n围裙的沉重象征着荣誉与责任。"
-= 90100:"黄金树王城的调香师们穿戴的长袍。\n\n提升4点感应、耐力和生命力，提升4%调香瓶伤害并提升4%道具发现率。\n\n厚重的围裙上装饰着黄金树的刺绣，\n代表修毕药草学家密技的证明。\n围裙的沉重象征着荣誉与责任。
+= 90100:"黄金树王城的调香师们穿戴的长袍。\n\n提升4点感应、耐力和生命力，提升4%调香瓶伤害并提升4%道具发现率。\n\n厚重的围裙上装饰着黄金树的刺绣，\n代表修毕药草学家密技的证明。\n围裙的沉重象征着荣誉与责任。"
 < 90200:"Gloves of an Erdtree Capital perfumer.\n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives."
 > 90200:"Gloves of an Erdtree Capital perfumer.\n\nIncreases ARC, END and VIG by 2, increases damage of perfumes by 2% and increases item discovery by 2%. \n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives."
 - 90200:"黄金树王城的调香师们穿戴的手套。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
-= 90200:"黄金树王城的调香师们穿戴的手套。\n\n提升2点感应、耐力和生命力，提升2%调香瓶伤害并提升2%道具发现率。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。
+= 90200:"黄金树王城的调香师们穿戴的手套。\n\n提升2点感应、耐力和生命力，提升2%调香瓶伤害并提升2%道具发现率。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
 < 90300:"Sarong of an Erdtree Capital perfumer.\n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives."
 > 90300:"Sarong of an Erdtree Capital perfumer.\n\nIncreases ARC, END and VIG by 2, increases damage of perfumes by 2% and increases item discovery by 2%. \n\nIn times past, the role of perfumer was much respected; a blessed apothecary in the eyes of the many. But after entering the battlefields of the Shattering they performed no such role, trading their aromatics for poisons and explosives."
 - 90300:"黄金树王城的调香师们穿戴的腰巾。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
-= 90300:"黄金树王城的调香师们穿戴的腰巾。\n\n提升2点感应、耐力和生命力，提升2%调香瓶伤害并提升2%道具发现率。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。
+= 90300:"黄金树王城的调香师们穿戴的腰巾。\n\n提升2点感应、耐力和生命力，提升2%调香瓶伤害并提升2%道具发现率。\n\n调香师原为备受崇敬的药草学家，\n在破碎战争时被送往战场，职责也逐渐变质──\n香药化为毒，亦化为火药。"
 < 91100:"Robe of an Erdtree Capital perfumer.\n\nThe thick front apron embroidered with a depiction of the Erdtree is proof of mastery of the apothecarial arts, and its weight symbolizes the onus of both pride and responsibility."
 > 91100:"Robe of an Erdtree Capital perfumer.\n\nIncreases ARC, END and VIG by 4, increases damage of perfumes by 4% and increases item discovery by 4%.\n\nThe thick front apron embroidered with a depiction of the Erdtree is proof of mastery of the apothecarial arts, and its weight symbolizes the onus of both pride and responsibility."
 - 91100:"黄金树王城的调香师们穿戴的长袍。\n\n厚重的围裙上装饰着黄金树的刺绣，\n代表修毕药草学家密技的证明。\n围裙的沉重象征着荣誉与责任。"
-= 91100:"黄金树王城的调香师们穿戴的长袍。\n\n提升4点感应、耐力和生命力，提升4%调香瓶伤害并提升4%道具发现率。\n\n厚重的围裙上装饰着黄金树的刺绣，\n代表修毕药草学家密技的证明。\n围裙的沉重象征着荣誉与责任。
+= 91100:"黄金树王城的调香师们穿戴的长袍。\n\n提升4点感应、耐力和生命力，提升4%调香瓶伤害并提升4%道具发现率。\n\n厚重的围裙上装饰着黄金树的刺绣，\n代表修毕药草学家密技的证明。\n围裙的沉重象征着荣誉与责任。"
 < 100000:"Hat of a traveling perfumer of no renown.\n\nAn associate of a healer, he is said to be in search of new aromatics and flower gardens, in hopes of treating Misbegotten, Omen, and all those seen as impure."
 > 100000:"Hat of a traveling perfumer of no renown.\n\nIncreases ARC, END and VIG by 1 and increases item discovery by 2%.\n\nAn associate of a healer, he is said to be in search of new aromatics and flower gardens, in hopes of treating Misbegotten, Omen, and all those seen as impure."
 - 100000:"无名的旅行调香师穿戴的帽子。\n\n据说那名男性是治愈者的同伴，\n为了寻找新的香药与花园而踏上旅程。\n他们试图治疗混种、恶兆之子等等\n各种的玷污现象。"
