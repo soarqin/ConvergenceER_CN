@@ -29,7 +29,7 @@
 < 297130:"A knight exiled from their homeland to\nwander. A solid, armor-clad origin."
 > 297130:"Once a perfumer of some renown prior \nto the shattering, specializing in crafting.\nFocus: ARC - Crafting"
 - 297130:"受祖国放逐的流浪骑士\n身穿金属盔甲，稳如泰山"
-= 297130:"在毁灭之前曾经是一位\n知名调香师，擅长精炼。\n专精：感应 - 精炼"
+= 297130:"在毁灭之前曾经是一位\n知名调香师，擅长制作道具。\n专精：感应 - 制作道具"
 < 297131:"A nomad warrior who fights wielding two\nblades at once. An origin of exceptional\ntechnique."
 > 297131:"Hailing from the north and wielding a greataxe, \nthis warrior desires combat above all else.\nFocus: STR - Melee Combat"
 - 297131:"游牧民族的双刀剑士\n身手十分灵巧"
