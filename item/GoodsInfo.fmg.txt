@@ -311,7 +311,7 @@
 - 6060:"大幅提升火属性减伤率"
 = 6060:"增加减伤率"
 > 6070:"The power to unleash the Fell God"
-= 6070:"释放堕落之神的力量"
+= 6070:"释放恶神的力量"
 > 6111:"Conjure an enormous orb of flame that launches into the sky, crashing down afterwards"
 = 6111:"召唤一个巨大的火球飞向天空，然后坠落"
 > 6130:"Call a massive orb of flame that hurtles toward enemies with incredible force"
