@@ -2332,7 +2332,7 @@
 < 34090000:"Formless sacred seal bestowed by the maiden of the Three Fingers. Enhances incantations of the frenzied flame.\n\nThis seal is the mark of the Lord of Frenzied Flame. Scales incantations using strength, dexterity, intelligence, and faith all together."
 > 34090000:"Formless sacred seal used by the followers of the Three Fingers.\nGreater Frenzy Affinity\nPhysical - Moderate\nMagic - Good\nFire - Optimal\nLightning - Moderate\nHoly - Weak\n"
 - 34090000:"叁指女巫赠予的虚幻圣印记。\n能强化癫火的祷告。\n\n此为癫火之王的证明。\n能以力气、灵巧、智力、信仰\n加成祷告的威力。"
-= 34090000:"叁指追随者使用的虚幻圣印记。\n上级癫火祷告加成\n物理 - 中等\n魔法 - 良好\n火 - 最佳\n雷 - 中等\n圣 - 弱"
+= 34090000:"侍奉叁指之人使用的虚幻圣印记。\n上级癫火祷告加成\n物理 - 中等\n魔法 - 良好\n火 - 最佳\n雷 - 中等\n圣 - 弱"
 > 34100000:"A sacred seal used by Godslayer acolytes.\nLesser Godslayer Affinity\nPhysical - Weak\nMagic - Moderate\nFire - Good\nLightning - Moderate\nHoly - Optimal\n"
 = 34100000:"狩猎神祇僧侣使用的圣印记。\n次级狩猎神祇祷告加成\n物理 - 弱\n魔法 - 中等\n火 - 良好\n雷 - 中等\n圣 - 最佳"
 > 34110000:"A sacred seal used by wielders of the Giantsflame.\nLesser Giantsflame Affinity\nPhysical - Moderate\nMagic - Weak\nFire - Optimal\nLightning - Good\nHoly - Moderate\n"
