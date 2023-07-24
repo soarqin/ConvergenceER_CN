@@ -1419,7 +1419,7 @@
 > 13042100:"A spiked iron tube attached by a chain wielded by Mad Pumpkin Heads.\n\nEspecially large for a flail, wielding it requires more strength than it does dexterity."
 = 13042100:"将带刺的铁块以锁链相连手柄的武器。\n发狂南瓜头士兵的武器。\n\n在连枷类武器中属于大型，\n挥舞时比起灵巧，更要求力气。"
 > 13050000:"Part of the newly minted religious iconography of the Mohgwyn Dynasty, the blood-smoke this flail produces serves as both a source of corruption and of purification."
-= 13050000:"作为蒙格温王朝新铸造的宗教图腾的一部分，这种连枷产生的血烟既是腐败的来源，也是净化的来源。"
+= 13050000:"作为蒙格温王朝新铸造的宗教圣像的一部分，这种连枷产生的血烟既是腐败的来源，也是净化的来源。"
 > 13060000:"Crafted before the days of Rykard's ascendancy by the ancient cult of Eiglay, this flail exudes the primordial power of the magma of Mt. Gelmir."
 = 13060000:"在拉卡德统治之前由古老的艾格蕾教派制作，这连枷散发着格密尔火山熔岩的原始力量。"
 > 14001300:"A thick, heavy blade attached to a handle. A versatile, standard weapon\n\nCapable of powerful attacks thanks to the weighty blade, these weapons are also regarded for their powerful charge attacks."
