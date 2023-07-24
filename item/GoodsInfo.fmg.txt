@@ -527,7 +527,7 @@
 > 7361:"Conjure a large incarnation of the frenzied flame into the sky above the caster"
 = 7361:"在施法者上方的天空中召唤一个巨大的癫火化身"
 > 7370:"Temporarily open a gateway into the realm of the Flame of Frenzy"
-= 7370:"暂时打开一扇通往癫火王国的大门"
+= 7370:"暂时打开一扇通往癫火领域的大门"
 > 7380:"The form of a perfect vessel, bereft of all humanity"
 = 7380:"一个失去人性的完美容器"
 > 7381:"The true form of the Lord of the Frenzied Flame, chaos incarnate"
