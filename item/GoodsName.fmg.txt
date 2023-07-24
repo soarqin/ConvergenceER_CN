@@ -917,7 +917,7 @@
 > 8817:"Note: Path of the Fundamentalist"
 = 8817:"说明：原教徒之路"
 > 8818:"Note: Path of the Bestial Devout"
-= 8818:"说明：野兽教徒之路"
+= 8818:"说明：野兽虔信者之路"
 > 8819:"Note: Path of the Dragon Cultist"
 = 8819:"说明：龙信徒之路"
 > 8820:"Note: Path of the Godskin Celebrant"
