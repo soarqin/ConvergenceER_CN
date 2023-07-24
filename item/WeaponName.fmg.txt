@@ -6815,7 +6815,7 @@
 - 18111200:"神秘守卫剑枪"
 = 18111200:"熔岩守卫剑枪"
 > 18120000:"Glaive of the Ancients"
-= 18120000:"癫狂守卫剑枪"
+= 18120000:"先祖剑刃戟"
 < 18130400:"Fire Vulgar Militia Shotel"
 > 18130400:"Glint Vul死亡守卫剑枪gar Militia Shotel"
 - 18130400:"火焰恶兵钩剑"
