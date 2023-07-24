@@ -139,7 +139,7 @@
 > 297143:"Fundamentalist"
 = 297143:"原教徒"
 > 297144:"Bestial Devout"
-= 297144:"野兽教徒"
+= 297144:"野兽虔信者"
 > 297145:"Dragon Cultist"
 = 297145:"龙骑士"
 > 297146:"Necromancer"
