@@ -750,7 +750,7 @@
 < 2200000:"Miquellan Knight's Sword"
 > 2200000:"Fell Flame Sword"
 - 2200000:"米凯拉骑士剑"
-= 2200000:"黑焰之剑"
+= 2200000:"恶焰之剑"
 < 2210400:"Fire Cane Sword"
 > 2210400:"Glint Cane Sword"
 - 2210400:"火焰手杖剑"
