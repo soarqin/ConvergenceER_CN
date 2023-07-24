@@ -2258,7 +2258,7 @@
 < 33060000:"Glintstone staff styled as a scepter. A gift once given to the demi-humans to foster peace, it can be wielded even by those of low intelligence.\n\nSneered at by fools in the academy."
 > 33060000:"An hexed wooden bough, spawned by the spread of blight.\nLesser Death Affinity\nPhysical - Weak\nMagic - Moderate\nFire - Moderate\nLightning - Good\nHoly - Optimal\n"
 - 33060000:"缀以权杖装饰的辉石杖。\n过去用来怀柔亚人们所赠予的物品，\n智力不高的人也能使用。\n\n学院中的人将此手杖视为笑话。"
-= 33060000:"枯萎病蔓延形成的，被诅咒的木枝。\n次级死亡魔法加成\n物理 - 弱\n魔法 - 中等\n火 - 中等\n雷 - 良好\n圣 - 最佳"
+= 33060000:"枯萎病蔓延形成的，被诅咒的枝桠。\n次级死亡魔法加成\n物理 - 弱\n魔法 - 中等\n火 - 中等\n雷 - 良好\n圣 - 最佳"
 < 33120000:"Staff of a sorcerer-miner who extracts glintstone from crystal tunnels. The staff itself is a tool used to mine, and the ferrule is also embedded with a glintstone.\n\nBoosts the power of Stonedigger sorceries."
 > 33120000:"Staff of a miner who extracts glintstone from tunnels.\nLesser Gravity Affinity\nPhysical - Optimal\nMagic - Moderate\nFire - Good\nLightning - Moderate\nHoly - Weak\n"
 - 33120000:"结晶坑道的辉石矿工们使用的手杖。\n手杖本身是挖石用的工具，\n顶端嵌入坚硬的辉石。\n\n特别能强化挖石的魔法。"
