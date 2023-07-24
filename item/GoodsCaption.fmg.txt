@@ -1029,7 +1029,7 @@
 > 8825:"The Perfumer favors Light to medium armor and primarily uses Arcane.\nThe notable armor sets for the Perfumer are:\n\nDepraved Perfumer Set - Shaded Castle\nOmenkiller Set - Perfumer's Ruins\nPerfumer Set - Leyndell"
 = 8825:"调香师喜欢轻甲和中甲，主要使用感应。\n值得注意的套装有：\n\n堕落调香师套装 - 日荫城\n恶兆猎人套装 - 调香师的废墟\n调香套装 - 王城罗德尔"
 > 8826:"The Prisoner favors no particular attribute or damage type.\nThe notable armor sets for the Prisoner are:\n\nDrake Knight Set - Farum Azula\nEccentric Set - Found after defeating Witch-Hunter Jerren\nAll-Knowing Set - Leyndell"
-= 8826:"囚犯没有特别需要的属性或伤害类型。\n值得注意的套装有：\n\n龙信徒套装 - 法姆·亚兹拉\n奇异骑士套装 - 击败“魔女猎人”杰廉\n百智套装 - 王城罗德尔"
+= 8826:"囚犯没有特别需要的属性或伤害类型。\n值得注意的套装有：\n\n龙骑士套装 - 法姆·亚兹拉\n奇异骑士套装 - 击败“魔女猎人”杰廉\n百智套装 - 王城罗德尔"
 < 10101:"Stone used to smith a variety of armaments. A large shard found in plenty.\n\nStrengthens armaments up to +6.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere."
 > 10101:"Stone used to smith a variety of armaments. A large shard found in plenty.\n\nStrengthens armaments up to +3.\n\nSmithing stone is found throughout the Lands Between, and mining galleries built to excavate it can be found everywhere."
 - 10101:"在交界地用来锻造各类武器的石头，\n其中十分常见的大碎片。\n\n能将武器强化至＋６。\n\n锻造石遍布整个交界地，\n各处皆有为了开采它而挖掘的坑道。"
