@@ -77,7 +77,7 @@
 < 701:"Skill: Vow of the Indomitable\n\nSkill of the ancient warriors of the Erdtree.\nHold shield aloft to imbue yourself with golden power, granting momentary invincibility."
 > 701:"Unique Skill: Whirling Iceblades\n\nChannel frost magic to suspend the twinblade in mid air and cause it to spin horizontally.\nThose it touches will suffer successive magic attacks that build frostbite."
 - 701:"战技：无敌\n\n黄金树的古老战士们使用的战技。\n高举盾牌，让黄金力量充满全身，\n能够瞬间呈现无敌状态。"
-= 701:"专属战技：旋舞冰刃\n\n引导寒冰魔法将双刃悬浮在半空中并水平旋转。\n接触到的人将遭受连续的魔法攻击并累积冻伤。"
+= 701:"专属战技：旋舞冰刃\n\n引导寒冰魔法将双刃悬浮在半空中并水平旋转。\n接触到的人将遭受连续的魔力属性攻击并累积冻伤。"
 < 850:"Skill: White Shadow's Lure\n\nHold armament in a brief, silent prayer to create a white shadow.\nThe apparition lures in foes of human build who are not in combat, drawing their aggression. Effective on demi-humans even if they are already in a combat state."
 > 850:"Skill: Flowing Piercer\n\nTemporarily transforms armament into its liquid form.\nSwing the armament like a whip to perform a piercing thrust in front of you."
 - 850:"战技：白影诱惑\n\n对着武器发愿，在自身前方形成白色影子。\n能吸引非战斗状态，为人类之身的敌人注意，\n引诱对方攻击的战技。但对上亚人时，\n即使对方在战斗状态，也具有诱敌效用。"
