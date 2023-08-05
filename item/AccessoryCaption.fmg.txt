@@ -67,7 +67,7 @@
 > 2011:"Given in a ritual of induction, these crests were held by those committed to transformation.\n\nIncreases all lighting damage by 5%."
 = 2011:"在引导仪式上授予的，献身于转化之人持有的纹章。\n\n能提升5%雷属性攻击力。"
 > 2012:"Once given to the dragon Lanseax by the demigod Godwyn as a token of affection and trust.\n\nIncreases all lightning damage by 7.5%."
-= 2012:"半神葛德文作为亲近与信任的礼物赠予兰斯桑克斯。\n\n能提升7.5%雷属性攻击力。"
+= 2012:"作为亲近与信任的信物，半神葛德文将之赠予兰斯桑克斯。\n\n能提升7.5%雷属性攻击力。"
 > 2013:"A hardened scale of gravel stone peeled from the corpse of the ancient dragon Gransax just after his defeat in Leyndell.\n\nIncreases all lightning damage by 10%."
 = 2013:"古龙古兰桑克斯在罗德尔战败后，其尸体上剥落的一块坚硬碎石鳞片。\n\n能提升10%雷属性攻击力。"
 < 2020:"A talisman carried by assassins who strike unseen.\nPatterned on a scorpion freshly shed of its exoskeleton, its claws seizing a heart that burns with fire.\n\nRaises fire attack power, but lowers damage negation."
