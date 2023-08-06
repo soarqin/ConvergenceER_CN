@@ -21,7 +21,7 @@
 > 1095:"Mimic Heirloom"
 = 1095:"仿生的传说"
 > 2011:"Dragonkin Crest"
-= 2011:"龙人纹章"
+= 2011:"龙纹章"
 > 2012:"Chime of Godwyn"
 = 2012:"葛德文的钟"
 > 2013:"Scale of Gransax"

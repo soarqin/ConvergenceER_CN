@@ -17,7 +17,7 @@
 < 903575000:"Godskin Duo"
 > 903575000:"Seera, Blade of the Ancients"
 - 903575000:"神皮双人组"
-= 903575000:"“先祖之剑”希拉"
+= 903575000:"“古龙之剑”希拉"
 > 904260306:"Frenzied Burial Watchdog"
 = 904260306:"发狂归树看门犬"
 < 904290310:"Bloodhound Knight"
