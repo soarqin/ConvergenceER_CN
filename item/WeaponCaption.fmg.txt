@@ -981,7 +981,7 @@
 > 10100000:"A double-headed polearm with large fan-shaped blades. Thought to be from a distant kingdom, this weapon slices through flesh with ease but requires great finesse to wield effectively."
 = 10100000:"这件双手长柄武器镶有庞大的扇形斧刃。这是被认为来自遥远王国的武器，可以轻松切开血肉，但要将之挥舞的话则需要高超的技巧。"
 > 10110000:"A strong wooden staff with gold-shod tips. This weapon strikes with powerful concussive force and its light weight allows for nuanced acrobatic techniques."
-= 10110000:"两端镶金的坚固木棒。这件武器具有强大的冲击力，重量很轻，可以展现细致而精妙的技巧/"
+= 10110000:"两端镶金的坚固木棒。这件武器具有强大的冲击力，重量很轻，可以展现细致而精妙的技巧。"
 > 11001300:"An iron bludgeon with sharp protrusions.\n\nStriking attacks have few drawbacks, potent as they are at breaking through guards and stances. Most suited to head on slugging matches."
 = 11001300:"顶端附有尖刺的打击武器。\n\n打击属性的攻击通用性佳，\n具有容易突破敌人防御，\n或是让敌人失去平衡的优点。\n适合用在面对面互殴。"
 > 11001400:"An iron bludgeon with sharp protrusions.\n\nStriking attacks have few drawbacks, potent as they are at breaking through guards and stances. Most suited to head on slugging matches."
