@@ -1,4 +1,0 @@
-< 85000:"Ash of War: White Shadow's Lure"
-> 85000:"Ash of War: Flowing Piercer"
-- 85000:"战灰：白影诱惑"
-= 85000:"战灰：流体锥"
