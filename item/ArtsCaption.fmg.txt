@@ -11,7 +11,7 @@
 - 122:"战技：风暴袭击\n\n史东薇尔的风暴战技之一。\n缠绕着风暴向前跳，将武器向下刺。\n突刺攻击后也会形成风暴。"
 = 122:"专属战技：野兽痛击\n\n用一连串残酷的斩击蹂躏你的敌人。\n攻击期间不会被轻易打断，最后一斩会击飞你的对手。"
 > 126:"Unique Skill: Storm Stance\n\nHold to assume a ready stance. Follow up with a light attack to perform an overhead slam that generates a whirlwind that pushes you back a few steps or follow up with a strong attack to twirl the halberd over your head and then leap forward and slam downward generating a whilwind on impact."
-= 126:"专属战技：风暴之姿\摆出架势。接着发动轻攻击，会高举武器进行猛击，同时产生一道会将你推后几步的旋风；或者接着发动重攻击，会高举戟进行旋转，再向前跃出并向下猛击，同时产生一道旋风。"
+= 126:"专属战技：风暴之姿\n摆出架势。接着发动轻攻击，会高举武器进行猛击，同时产生一道会将你推后几步的旋风；或者接着发动重攻击，会高举戟进行旋转，再向前跃出并向下猛击，同时产生一道旋风。"
 > 127:"Unique Skill: Spear of Frenzy\n\nImbue the spear with the flame of frenzy and leap forwards, plunging it into the ground and setting off a maddening explosion. \nFollow up with a sweeping attack that coats the weapon in maddening flames, increasing damage for 30 seconds.\nThe skill inflicts the enemy with madness."
 = 127:"专属战技：癫狂之矛\n\n为长矛注入癫火并向前跳跃刺入地面并引发令人发狂的爆炸。 \n接着进行一次横扫攻击，并将武器包裹在癫火中，增加伤害，持续30秒。\n该战技能使敌人发狂。"
 > 128:"Unique Skill: Soporific Assault\n\nLunge forward with a thrusting attack that enchants the spear with mystical sleep energy and then follow up with another skill attack to perform a wide swipe that releases a purple mist that causes sleep build-up.\n"
