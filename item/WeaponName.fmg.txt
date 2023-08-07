@@ -10578,7 +10578,7 @@
 < 33060000:"Demi-Human Queen's Staff"
 > 33060000:"Blighted Branch"
 - 33060000:"亚人女王杖"
-= 33060000:"枯萎树枝"
+= 33060000:"咒死之枝"
 < 33200000:"Academy Glintstone Staff"
 > 33200000:"Dragon Student Staff"
 - 33200000:"学院辉石杖"

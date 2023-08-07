@@ -9,7 +9,7 @@
 > 902500510:"Dakk, Starcaller Lord"
 = 902500510:"“唤星领主”达克"
 > 902500601:"Blighted Nox Ancestor"
-= 902500601:"枯萎的诺克斯先祖"
+= 902500601:"咒死的诺克斯先祖"
 < 903400310:"Frenzied Duelist"
 > 903400310:"Frenzied Troll"
 - 903400310:"发狂斗士"
