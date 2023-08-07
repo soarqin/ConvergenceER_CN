@@ -477,7 +477,7 @@
 < 6400:"Incantation of the Two Fingers' faithful.\n\nProduces a shockwave that knocks back nearby foes.\nCharging increases the size of the shockwave.\n\nHark, Tarnished! If you truly walk in faith, you must be prepared to reject all else."
 > 6400:"An incantation of the Golden Order.\n\nProduces a shockwave that knocks back nearby foes.\nCharging increases the size of the shockwave.\n\nHark, Tarnished! If you truly walk in faith, you must be prepared to reject all else.\n"
 - 6400:"双指信徒们的祷告。\n\n能形成弹飞周围人物的冲击波。\n借由蓄力能增加冲击波的幅度。\n\n褪色者啊，既然全然信任指引，\n就请您拒绝其他一切事物。"
-= 6400:"黄金律法的祷告。\n\n能形成弹飞周围人物的冲击波。\n借由蓄力能增加冲击波的幅度。\n\n\u褪色者啊，既然全然信任指引，\n就请您拒绝其他一切事物。"
+= 6400:"黄金律法的祷告。\n\n能形成弹飞周围人物的冲击波。\n借由蓄力能增加冲击波的幅度。\n\n褪色者啊，既然全然信任指引，\n就请您拒绝其他一切事物。"
 < 6410:"Superior Erdtree Worship incantation.\n\nProduces a golden shockwave that knocks back nearby foes.\nCharging increases the size of the shockwave.\n\nThis incantation was discovered when the Elden Ring was shattered, and it was feared as a sign of the Erdtree's wrath."
 > 6410:"An incantation of the Golden Order.\n\nProduces a golden shockwave that knocks back nearby foes.\nCharging increases the size of the shockwave.\n\nThis incantation was discovered when the Elden Ring was shattered, and it was feared as a sign of the Erdtree's wrath.\n"
 - 6410:"黄金树信仰的其中一种祷告。\n属于高阶祷告。\n\n能形成弹飞周围人物的黄金冲击波。\n借由蓄力能增加冲击波的幅度。\n\n在艾尔登法环破碎之际发现的祷告。\n人们深信这代表着黄金树之怒。"
@@ -653,8 +653,7 @@
 < 7031:"Superior incantation of Dragon Communion.\nChannels the power of Ekzykes, the Decaying.\n\nTransforms caster into a dragon to spew scarlet rot breath from above.\nCharging extends duration. This incantation can be cast while jumping.\n\nEkzykes, Dragon Communion Revenger, did not forget his hatred even as he succumbed to the scarlet rot."
 > 7031:"Superior incantation of the servants of rot, acquired by rites of the Dragon Communion.\nChannels the power of Ekzykes, the Decaying.\n\nTransforms caster into a dragon to spew scarlet rot breath from above, dealing physical damage and causing rot build up. Charging extends duration. This incantation can be cast while jumping.\n\nEkzykes, Dragon Communion Revenger, did not forget his hatred even as he succumbed to the scarlet rot.\n"
 - 7031:"其中一种龙飨祷告。属于高阶祷告。\n能展现“步入腐败”艾格基斯的力量。\n\n能将自身化为龙，从空中喷出猩红腐败吐息。\n借由蓄力能延长喷出吐息的时间。\n在跳跃期间也能使用。\n\n“龙飨复仇者”艾格基斯\n即使受猩红腐败侵蚀，也不忘心中的仇恨。"
-= 7031:"腐败仆从的高级祷告，由龙
-飨仪式获得。\n能展现“步入腐败”艾格基斯的力量。\n\n能将自身化为龙，从空中喷出猩红腐败吐息。\n借由蓄力能延长喷出吐息的时间。\n在跳跃期间也能使用。\n\n“龙飨复仇者”艾格基斯\n即使受猩红腐败侵蚀，也不忘心中的仇恨。"
+= 7031:"腐败仆从的高级祷告，由龙飨仪式获得。\n能展现“步入腐败”艾格基斯的力量。\n\n能将自身化为龙，从空中喷出猩红腐败吐息。\n借由蓄力能延长喷出吐息的时间。\n在跳跃期间也能使用。\n\n“龙飨复仇者”艾格基斯\n即使受猩红腐败侵蚀，也不忘心中的仇恨。"
 < 7200:"Incantation of the servants of rot.\n\nSecretes countless sticky threads, launching them forwards.\n\nA technique of the pale pests who crawl through the lands afflicted by scarlet rot; the abandoned children of the goddess.\n\"Do you have an interest in rot incantations?\""
 > 7200:"Incantation of the servants of rot.\n\nSecretes countless sticky threads, launching them forwards, dealing physical damage.\n\nA technique of the pale pests who crawl through the lands afflicted by scarlet rot; the abandoned children of the goddess.\n"
 - 7200:"意图侍奉腐败的人物执行的祷告。\n\n能分泌大量具粘性的丝线，朝前方释放。\n\n在猩红腐败之地蠕动的惨白虫群的招式。\n虫群是女神的弃子。\n\n……您对腐败祷告有兴趣吗？"
