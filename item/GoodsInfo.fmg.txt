@@ -51,7 +51,7 @@
 < 4370:"Summon a magic mass that sprays projectiles over area"
 > 4370:"Summons a powerful wisp of frozen lightning that rains down a continuous stream of cragbolts"
 - 4370:"放出浮空魔力块，再大范围降下魔力球"
-= 4370:"放出一道强大的冰雷，源源不断倾泻雷霆碎片下"
+= 4370:"放出一道强大的冰雷，源源不断倾泻雷霆碎片"
 < 4390:"Creates sigil that forms a projectile glintblade after delay"
 > 4390:"Creates a frozen lightning wisp overhead that fires an enemy-seeking bolt after a delay"
 - 4390:"在自身头上画出魔法阵，形成延后现形的辉剑"

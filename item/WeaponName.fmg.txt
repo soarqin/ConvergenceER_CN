@@ -5184,7 +5184,7 @@
 = 14112100:"密契活祭品斧"
 < 14130000:"Burial Axe"
 > 14130000:"Axe of Fell Prophecy"
-= 14130000:"黑预言斧"
+= 14130000:"恶焰预言斧"
 < 14130600:"Lightning Burial Axe"
 > 14130600:"Gravity Burial Axe"
 = 14130600:"重力埋葬斧"

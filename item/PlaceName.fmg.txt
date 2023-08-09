@@ -11,7 +11,7 @@
 > 130011:"Heart of the Storm"
 = 130011:"风暴之心"
 > 130012:"Dragon's Rest"
-= 130012:"龙的栖息处"
+= 130012:"龙之安息处"
 > 130013:"Dragonlord's Annex"
 = 130013:"龙王偏殿"
 > 610020:"Stormhill Overlook"
