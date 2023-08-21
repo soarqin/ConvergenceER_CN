@@ -34,6 +34,8 @@
 = 145:"专用战技：贯心\n\n将武器反手撩起，再猛地向前刺出；衔接重攻击后，可以进行低身挥扫猛击。"
 > 146:"Unique Skill: Underworld Conduit\n\nSheath the weapon causing frozen lightning to imbue it and then perform a double slash attack and then follow up with another skill attack to perform a forward stab that explodes with frozen lightning. While imbued, the weapon has increased lightning damage."
 = 146:"专用战技：地底世界之导引\n\n收刀入鞘，将冰雷灌注其中，接着使出二连斩；衔接发动战技后，可以向前刺出并释放爆炸的冰雷。刀刃灌有冰雷的时候，武器的雷属性攻击力会得到提升。"
+> 148:"Unique Skill: Whirling Slice\n\nPerform a sequence of three spinning slash attacks while moving forward."
+= 148:"专用战技：旋风斩\n\n向前移动并连续进行三次回旋斩击。"
 < 200:"Skill: Glintblade Phalanx\n\nSkill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust."
 > 200:"Unique Skill: Primeval Cascade\n\nLift into the air as the axe charges with energy and then cleave three times, each sending out an arc of glint energy.\nFollow up with a strong attack to send another glint arc and finally plant the axe head into the ground causing an upheaval of power."
 - 200:"战技：辉剑圆阵\n\n侍奉卡利亚王室的魔法骑士们使用的战技。\n让魔力辉剑浮空围成半圆，自动攻击敌人。\n发动后接着使出重攻击，\n能向前大幅跨出、突刺攻击。"

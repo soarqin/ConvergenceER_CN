@@ -87,7 +87,7 @@
 > 2031:"A symbol from the time before the establishment of the Golden Order when the grace of the Erdtree extended to all in the Lands Between.\n\nIncreases all holy damage by 5%."
 = 2031:"黄金律法建立前的时代，黄金树的恩典笼罩整片交界地时的象征。\n能提升5%圣属性攻击力。"
 < 2060:"A talisman depicting a spear and a soldier.\nEnhances the counterattacks that are unique to thrusting weapons.\n\nSpears are standard weapons for soldiers in the Lands Between. They made it possible to respond to a ferocious foe with an equally ferocious counterattack."
-> 2060:"A talisman depicting a spear and a soldier.\nEnhances the counterattacks that are unique to thrusting weapons and boosts guarding ability.\n\nSpears are standard weapons for soldiers in the Lands Between. They made it possible to respond to a ferocious foe with an equally ferocious counterattack."
+> 2060:"A talisman depicting a spear and a soldier.\nEnhances the guard attacks that are unique to thrusting weapons and boosts guarding ability.\n\nSpears are standard weapons for soldiers in the Lands Between. They made it possible to respond to a ferocious foe with an equally ferocious counterattack."
 - 2060:"以矛与士兵的形象制成的护符。\n能强化突刺攻击特有的反击攻击。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
 = 2060:"以矛与士兵的形象制成的护符。\n能强化突刺攻击特有的反击攻击并提升防御能力。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
 < 2150:"A talisman depicting three iron arrows.\nCarried by soldiers long ago.\n\nRaises attack power of arrows and bolts."
