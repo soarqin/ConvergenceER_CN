@@ -863,7 +863,7 @@
 < 573100:"Armor of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nWorn by the knight Siluria and her men.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations."
 > 573100:"Armor of the Crucible Knights who served Godfrey, the first Elden Lord.\n\nIncreases FTH by 4, END by 2 and increases all physical damage by 2%.\n\nWorn by the knight Siluria and her men.\n\nHolds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations."
 - 573100:"侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的铠甲。\n\n属于骑士志留亚与其部下的防具。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
-= 573100:"侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的铠甲。\n\n提升4点信仰、2点耐力并提升2%物理攻击力。\n\n属于骑士奥陶琵斯与其部下的防具。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
+= 573100:"侍奉“初始之王”葛孚雷的\n熔炉骑士们穿戴的铠甲。\n\n提升4点信仰、2点耐力并提升2%物理攻击力。\n\n属于骑士志留亚与其部下的防具。\n\n蕴含初始黄金树──生命熔炉的力量，\n能强化熔炉百相的祷告。"
 < 580000:"The giant blue glintstone crown worn by Lusat, primeval current sorcerer.\n\nThis crown replaced Lusat's brain and skull altogether, and now, removed from his body, it is all but dead. What power remains within raises the potency of Lusat's primeval current sorceries at the cost of additional FP consumption."
 > 580000:"The giant blue glintstone crown worn by Lusat, primeval current sorcerer.\n\nIncreases Mind by 2, reduces FP cost of sorcery by 2% and recovers 1 FP per second.\n\nThis crown replaced Lusat's brain and skull altogether, and now, removed from his body, it is all but dead."
 - 580000:"“起源魔法师”卢瑟特的\n巨大蓝色辉石头冠。\n\n替换、取代大脑与头盖骨的头冠，\n在离开原主人之后，几乎陷入死亡状态。\n能提升卢瑟特的起源魔法威力，\n但是会增加消耗的专注值。"
