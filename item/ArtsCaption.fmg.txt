@@ -49,7 +49,7 @@
 > 181:"Unique Skill: Umbral Stance\n\nSheathe blade, holding it at the hip in a composed stance.\nRelease the stance to perform a parry. Or follow up with a normal attack to perform an invisible forward slash, or follow up a strong attack to temporarily disappear and strike forward and then release a series of circular slashes around you."
 = 181:"专用战技：暗影姿态\n\n收刀入腰间刀鞘，摆出架式后静止不动。\n解除姿态时进行一次格挡，或者接着发动普通攻击施展无形的前劈，或者接着发动重攻击暂时消失然后前劈，并在周围释放一系列环形斩击。"
 > 182:"Unique Skill: Virtuous Consecration\n\nPerform a sweeping strike that enchants the ground in front of you with holy power that then bursts upwards, follow up with a heavy attack to lunge forward with a piercing attack of the hammer's spike."
-= 182:"专用战技：正义圣裁\n\n进行一次横扫攻击，为面前的地面注入神圣的力量，然后向上爆发，接着发动重攻击向前猛冲并使用锤子上的尖刺进行穿刺攻击。"
+= 182:"专用战技：高洁圣裁\n\n进行一次横扫攻击，为面前的地面注入神圣的力量，然后向上爆发，接着发动重攻击向前猛冲并使用锤子上的尖刺进行穿刺攻击。"
 < 200:"Skill: Glintblade Phalanx\n\nSkill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust."
 > 200:"Unique Skill: Primeval Cascade\n\nLift into the air as the axe charges with energy and then cleave three times, each sending out an arc of glint energy.\nFollow up with a strong attack to send another glint arc and finally plant the axe head into the ground causing an upheaval of power."
 - 200:"战技：辉剑圆阵\n\n侍奉卡利亚王室的魔法骑士们使用的战技。\n让魔力辉剑浮空围成半圆，自动攻击敌人。\n发动后接着使出重攻击，\n能向前大幅跨出、突刺攻击。"
