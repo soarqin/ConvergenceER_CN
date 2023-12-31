@@ -3,7 +3,7 @@
 > 121850:"Boss Resurrection Altar"
 = 121850:"Boss复活圣坛"
 > 138650:"Stormcaller Curtis"
-= 138650:"唤醒者柯蒂斯"
+= 138650:"风暴使者柯蒂斯"
 > 138660:"Necromancer Domo"
 = 138660:"死灵术士多摩"
 > 138670:"Glint Sorceress Bree"
