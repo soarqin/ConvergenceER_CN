@@ -78,3 +78,7 @@
 = 650012:"北巨人山顶小黄金树"
 > 651004:"Consecrated Snowfield Minor Erdtree"
 = 651004:"化圣雪原小黄金树"
+< 6110600:"Isolated Merchant's Shack"
+> 6110600:"Collector Merchant's Shack"
+- 6110600:"隐居商人的破屋"
+= 6110600:"收集者商人的破屋"
