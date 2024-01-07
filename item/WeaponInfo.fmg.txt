@@ -1,0 +1,2 @@
+> 50250000:"Animal bone arrow, gust knocks enemies away"
+= 50250000:"用阵风击退敌人的兽骨箭"
