@@ -110,7 +110,7 @@
 = 904810660:"雪山山妖"
 > 904810661:"Albinauric Wolf Rider"
 = 904810661:"白金狼骑射手"
-> 904810662:"Devoted Nightmaiden"
+> 904810662:"Devoted Night Maiden"
 = 904810662:"虔诚的黑夜女巫"
 > 904810663:"Nox Insect Cavalry"
 = 904810663:"诺克斯蚁骑士"
