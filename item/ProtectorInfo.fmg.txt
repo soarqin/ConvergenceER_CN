@@ -22,6 +22,8 @@
 = 800300:"为了小型庆典而制的长裤"
 > 890200:"Prisoner chains"
 = 890200:"囚犯链铐"
+> 920000:"Headdress made from wildflowers"
+= 920000:"用野花做的头饰"
 > 960200:"Gloves of Tanith, Lady of the Volcano Manor"
 = 960200:"火山官邸的主人塔妮丝的手套"
 < 963200:"Noble's waistcloth woven with sturdy fabric"

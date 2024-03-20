@@ -1,3 +1,5 @@
+> 160200:"Tarnished Wrap"
+= 160200:"褪色者护膝"
 > 220200:"Page Gloves"
 = 220200:"随从手套"
 > 250200:"Nomadic Merchant's Gloves"
