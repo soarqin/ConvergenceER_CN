@@ -259,7 +259,7 @@
 > 910000167:"Scion of the Sealed God"
 = 910000167:"封印之神后裔"
 > 910000168:"Dyru, Scavenger King"
-= 910000168:"“食腐之王”迪鲁"
+= 910000168:"“剥尸王”迪鲁"
 > 910000169:"Einar, Ice Guardian"
 = 910000169:"“冰之守卫”艾纳尔"
 > 910000170:"Spiritshaper Caimar"
