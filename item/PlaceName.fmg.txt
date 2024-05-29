@@ -27,7 +27,7 @@
 < 120206:"Ancestral Woods"
 > 120206:"Nokron Overlook"
 - 120206:"祖灵森林"
-= 120206:"远眺诺克隆恩处"
+= 120206:"诺克隆恩眺望处"
 > 120210:"Nokron Minor Erdtree"
 = 120210:"诺克隆恩小黄金树"
 > 120306:"Deeproot Depths Minor Erdtree"
