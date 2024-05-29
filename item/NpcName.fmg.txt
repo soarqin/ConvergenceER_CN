@@ -25,7 +25,7 @@
 > 138677:"Frost Witch Dino"
 = 138677:"冰霜女巫狄诺"
 > 138678:"Ainrun the Mystic"
-= 138678:"“神秘者”艾恩伦"
+= 138678:"“密契使者”艾恩伦"
 > 160110:"Erdtree Transporter"
 = 160110:"黄金树传送门"
 < 180102:"Nomadic Merchant"
