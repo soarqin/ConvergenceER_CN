@@ -245,7 +245,7 @@
 - 5010:"引发灵火爆炸，大范围燃烧四周"
 = 5010:"向敌人发射一个弧线飞弹，造成灵火的爆炸"
 > 5011:"Summons a legion of vengeful spirits that chase down foes, dealing holy damage"
-= 5011:"召唤一群复仇灵魂，追逐敌人，造成神圣伤害"
+= 5011:"召唤一群复仇灵魂，追逐敌人，造成圣属性"
 > 5012:"Strike your staff into the ground to conjure a series of ghostflame explosions around you. Hold to increase duration."
 = 5012:"将杖击向地面，在周围召唤一系列灵火爆炸。按住可以增加持续时间"
 > 5021:"Sends out a blighted projectile toward foes which curses the enemy upon impact."
