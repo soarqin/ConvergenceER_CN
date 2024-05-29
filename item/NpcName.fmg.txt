@@ -23,7 +23,7 @@
 > 138676:"Dragon Cultist Seki"
 = 138676:"龙信徒瑟奇"
 > 138677:"Frost Witch Dino"
-= 138677:"冰霜女巫狄诺"
+= 138677:"冰霜巫师狄诺"
 > 138678:"Ainrun the Mystic"
 = 138678:"“密契使者”艾恩伦"
 > 160110:"Erdtree Transporter"

@@ -1229,7 +1229,7 @@
 > 8813:"Note: Path of the Necromancer"
 = 8813:"说明：死灵术士之路"
 > 8814:"Note: Path of the Frost Witch"
-= 8814:"说明：冰冷巫师之路"
+= 8814:"说明：冰霜巫师之路"
 > 8815:"Note: Path of the Aberrant Heretic"
 = 8815:"说明：异端者之路"
 > 8816:"Note: Path of the Flame Prophet"
