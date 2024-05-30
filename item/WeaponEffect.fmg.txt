@@ -1,6 +1,6 @@
 > 1013:"Boosts potency of fire spells"
-= 1013:"能提升火属性魔法的威力"
+= 1013:"能提升火属性法术的威力"
 > 6800:"Inflicts soul burn"
 = 6800:"引发灵魂燃烧"
 > 6801:"Inflicts immolation"
-= 6801:"引发自燃"
+= 6801:"引发燔祭"
