@@ -16,7 +16,9 @@
 * 把两个文件复制到Convergence的`mod\msg\zhoCN`(如果没有这个目录则需要自己创建，大小写不敏感)下即可
 
 ## 贡献者
-* [KrukaL](https://github.com/KrukaL): 1.2的大量翻译修正以及1.3绝大多数词条的翻译，没有他大家不可能快玩到这个完整的翻译版本
+* [KrukaL](https://github.com/KrukaL)
+  + 1.2的大量翻译修正以及1.3绝大多数词条的翻译，没有他大家不可能快玩到这个完整的翻译版本
+  + 1.4.2之后提供了大量翻译问题的修正
 
 ## 鸣谢
 * [Convergence MOD for Elden Ring](https://www.nexusmods.com/eldenring/mods/3419): 原MOD
