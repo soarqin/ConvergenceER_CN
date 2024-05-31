@@ -475,7 +475,7 @@
 = 3182100:"剑身笔直的大剑。\n重量较重，通常以双手共持使用，\n拥有力气的人能以单手挥舞。\n\n能以沉重剑身挥舞攻击，\n也能使劲突刺攻击，战术应用上极为弹性。"
 > 3230000:"The sword of Hadea, first of the crucible. Adorned with ancient runes, and worn from use in countless battles, this weapon channels the ancient power of creation.\n\n\"I shall never again don the armor of my kin, I shall never again hide behind my birthright.\""
 = 3230000:"首席熔炉骑士哈迪亚的剑。装饰着古老的卢恩，在无数次战斗中磨损，这把武器引导着古老的创造之力。\n\n“我永远不会再穿上我族人的盔甲，我永远不会再躲在我与生俱来的权利之后。”"
-> 3240000:"A weighty executioner's sword, wrought by the king of the Misbegotten, Dyru.\n\nDespite its obvious age and wear, the blade remains perfected honed.\n\n"
+> 3240000:"A weighty executioner's sword, wrought by the king of the Misbegotten, Dyru.\n\nDespite its obvious age and wear, the blade remains perfectly honed.\n\n"
 = 3240000:"一把沉重的行刑剑，由“剥尸王”迪鲁打造。\n\n尽管年代久远且磨损严重，但剑刃依然完美无缺。"
 > 4001300:"A coarse iron lump of an ultra greatsword.\nMows down foes by utilizing its incredible weight.\n\nThough handling it likely requires the wielder to have surpassed the realm of the merely human, it is precisely for this reason the weapon is used to slaughter even inhuman foes."
 = 4001300:"巨大又粗犷的铁块剑。\n重量极重，能借此横扫敌人。\n\n超越人类挥舞极限的武器，\n也因此能用来杀害非人之物。"
