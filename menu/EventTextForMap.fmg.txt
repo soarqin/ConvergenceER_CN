@@ -1,5 +1,5 @@
-> 4002:"Seek Dyru, Einar, Godrick, Renalla or Regal Ancestor Spirit."
-= 4002:"找到迪鲁、艾纳尔、葛瑞克、蕾娜菈或者祖灵之王。"
+> 4002:"Seek Dyru, Einar, Godrick or Renalla."
+= 4002:"找到迪鲁、艾纳尔、葛瑞克或者蕾娜菈。"
 > 4003:"Seek Radahn, Rykard, Astel or Caimar."
 = 4003:"找到拉塔恩、拉卡德、艾丝缇或者凯玛。"
 > 4004:"Seek Mohg, Malenia, Scion of the Sealed God, Fortissax or Placidusax."
