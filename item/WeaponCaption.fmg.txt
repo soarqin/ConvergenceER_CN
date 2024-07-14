@@ -2150,7 +2150,7 @@
 > 21012100:"A caestus with the rivets replaced by blood loss-inducing spikes.\n\nFist weapons come in pairs, and two-handing this weapon will equip it to both hands."
 = 21012100:"将铁铆钉改嵌入铁棘刺的搏击手套。\n铁棘刺具有引发出血的效果。\n\n拳头武器是两个一组，\n以双手共持就能左右手各自装备。"
 > 21020000:"A relic of Daergraf, former high priest of the fallen empire and champion of the underworld. These fists, made in the shape of his chief inspiration, were among the first artifacts that successfully channeled the power of the mighty Dragonkin."
-= 21020000:"前堕落帝国大祭司和地下世界勇士达尔格拉夫的遗物。 这些拳头主要是根据他的灵感而制成的，是成功引导强大龙人力量的首批神器之一。"
+= 21020000:"前失落帝国大祭司兼地下世界勇士达尔格拉夫的遗物。 这些拳头主要是根据他的灵感而制成的，是成功引导强大龙人力量的首批神器之一。"
 > 21071300:"Iron manifer of spherical shape. Big Boggart the blackguard's weapon of choice.\n\nNot a weapon to be taken lightly, as its weighty blows shatter bones with ease."
 = 21071300:"将浑圆的铁球套在手上的武器。\n别称“愚弄巨妖”的流氓持有的武器。\n\n挥出的攻击十分沉重，能轻易打碎骨头。\n不能太掉以轻心。"
 > 21071400:"Iron manifer of spherical shape. Big Boggart the blackguard's weapon of choice.\n\nNot a weapon to be taken lightly, as its weighty blows shatter bones with ease."
