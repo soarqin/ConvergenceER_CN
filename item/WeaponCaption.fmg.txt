@@ -999,7 +999,7 @@
 > 10040000:"A twinblade of ancient origin, crafted by powerful frost magic. While the snow witches did not wield such vulgar weaponry themselves, they were known to arm those that they deemed as worthy protectors."
 = 10040000:"一把古老的双头剑，由强大的冰冷魔法打造。虽然雪魔女自己并不使用这种粗陋的武器，但众所周知，她们会武装那些她们认为有价值的守护者。"
 > 10060000:"Twinblade symbolizing twins Miquella and Malenia.\nMiquella and his sister were born from an\ninseparable fate.\n\nThe blades contain the Runes of both\nAbundance and Decay."
-= 10060000:"象征着米凯拉和玛莲妮亚的双头剑。\n米凯拉和他的妹妹天生就有着密不可分的命运。\n\n剑刃上有着丰饶和腐败的符文。"
+= 10060000:"象征着米凯拉和玛莲妮亚的双头剑。\n米凯拉和他的妹妹天生就有着密不可分的命运。\n\n剑刃上有着丰饶和腐败的卢恩。"
 < 10070000:"Twinblade that contain the power of the\nRune of Abundance.\nThe holy power within the blade can\ncall upon part of Miquella's own strength."
 > 10070000:"The weapon that Godwyn the Golden took into battle. This abnormally long twinblade is crafted of golden gravelstone, showing the unification of the Dragon Cult. A fearsome symbol of the supremacy of the golden lineage."
 = 10070000:"“黄金”葛德文在战场上使用的武器。这把拥有不同寻常长度的双头剑由金色碎石打造，体现了龙信仰的一致。这乃是黄金血统至高无上的惊人象征。"

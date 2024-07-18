@@ -65,7 +65,7 @@
 > 186:"Unique Skill: Valiant Upheaval\n\nSlam the axe down into the ground creating cracks in the earth and then violently rip upward sending chunks of stone flying around you."
 = 186:"专用战技：英勇激变\n\n用斧头猛击地面，在地面产生裂缝，然后猛烈地向上撕裂，让大块石头在你周围飞舞。"
 > 187:"Unique Skill: Kindred's Upheaval\n\nSlam the axe down into the ground creating cracks in the earth infusing with the rune of death and then violently rip upward sending chunks of deadly stone flying around you. This attack causes enemy's HP to rapidly drain away."
-= 187:"专用战技：眷属激变\n\n用斧头猛击地面，在大地上产生裂缝，注入死亡符文后猛烈向上撕裂，让致命的石头在你周围飞舞。攻击会导致敌人的生命值被迅速抽干。"
+= 187:"专用战技：眷属激变\n\n用斧头猛击地面，在大地上产生裂缝，注入死亡卢恩后猛烈向上撕裂，让致命的石头在你周围飞舞。攻击会导致敌人的生命值被迅速抽干。"
 > 194:"Unique Skill: Virulent Slice\n\nSlash with a poison-infused blade in a wide arc, follow up with another skill attack to perform a second slash.\nIf either strike lands on a poisoned foe, it will deal significant damage."
 = 194:"专用战技：致命切割\n\n用注入毒药的刀刃发动弧形斩击，再次发动以进行第二次斩击。\n如果击中已经中毒的敌人，会造成重大伤害。"
 < 200:"Skill: Glintblade Phalanx\n\nSkill used by the enchanted knights who served the Carian royal family. Form an arch of magic glintblades overhead, which will attack foes automatically. Follow up with a strong attack to chain this skill into a lunging thrust."
