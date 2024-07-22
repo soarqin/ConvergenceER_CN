@@ -1,0 +1,4 @@
+< 11025:"Eliminates all FP consumption"
+> 11025:"Halves all FP consumption"
+- 11025:"所有专注值的消耗都归零"
+= 11025:"所有专注值的消耗都减半"

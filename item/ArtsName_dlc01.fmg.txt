@@ -1,0 +1,6 @@
+> 5200:"Lord of Light Stance"
+= 5200:""
+< 5240:"White Light Charge"
+> 5240:"Cosmic Burst"
+- 5240:"白光突袭"
+= 5240:""

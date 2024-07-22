@@ -1,0 +1,6 @@
+< 6800:"Causes eternal sleep buildup (<?sleepATKpwr?>) "
+> 6800:"Inflicts soul burn"
+- 6800:"累积永眠量表（<?sleepATKpwr?>）"
+= 6800:""
+> 6802:"Causes eternal sleep buildup (<?sleepATKpwr?>) "
+= 6802:""
