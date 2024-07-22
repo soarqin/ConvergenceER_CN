@@ -1,7 +1,7 @@
 < 2004310:"An old sorcery of the Carian royal family.\n\nCreates a sigil overhead, from which three enemy-seeking glintblades appear after a brief delay.\nThis sorcery can be used while in motion. Charging increases the delay.\n\nThe prototypical form of sword-phalanx sorceries saw a different subsequent refinement in the realm of shadow."
 > 2004310:"An old sorcery of the denizens of the underworld.\n\nCreates a sigil overhead, from which three enemy-seeking cragbolts appear after a brief delay.\nThis sorcery can be used while in motion. Applies frostbite. Charging increases the delay.\n\nThe prototypical form of sword-phalanx sorceries saw a different subsequent refinement in the realm of shadow."
 - 2004310:"卡利亚王室的古老魔法。\n\n能在自身头上画出魔法阵，\n形成延后现形、飞向敌人的三只辉剑。\n可以走动施展，借由蓄力能延后辉剑形成的时间。\n\n辉剑圆阵类魔法的原型，在幽影之地独立发展。"
-= 2004310:""
+= 2004310:"地底世界居民的古老魔法。\n\n能在自身头上画出魔法阵，\n形成延后现形、飞向敌人的三只岩矢。\n可以走动施展，累积冻伤量表，借由蓄力能延后辉剑形成的时间。\n\n辉剑圆阵类魔法的原型，在幽影之地独立发展。"
 < 2004500:"Glintstone sorcery of Count Ymir, High Priest.\nOne of the finger sorceries said to have been discovered in a hallowed ruin.\n\nFlings a magic nail that crumbles during flight.\nCharging increases potency.\n\nCount Ymir boasts that this is mere child's play, an echo of a greater truth."
 > 2004500:"Glintstone sorcery of Count Ymir, High Priest.\nOne of the finger sorceries said to have been discovered in a hallowed ruin.\n\nFlings a magic nail that crumbles during flight.\nDeals exceptional poise damage. Charging increases potency.\n\nCount Ymir boasts that this is mere child's play, an echo of a greater truth."
 - 2004500:"“大祭司”尤弥尔的辉石魔法。\n据说是在神秘遗迹发现的其中一种指头魔法。\n\n能释放迸裂飞去的魔力指爪。\n借由蓄力能提升威力。\n\n尤弥尔不以为意地表示：\n\u3000这不过是让人思索真相用的小把戏。"
