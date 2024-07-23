@@ -1,6 +1,6 @@
 > 5200:"Unique Skill: Lord of Light Stance\n\nHold the swords close to your body to assume a prepared stance and then perform a light attack deliver a slashing attack accompanied by columns of light. Additional input allows for up to two follow-up attacks. Or follow up with a heavy attack to leap forward to deliver a downward slash at the speed of light."
-= 5200:"专用战技：光之王架势\n\n将两把剑紧贴身体进入准备架势。接着使出轻攻击，能释放伴随光柱的斩击，可连续发动两次追击。接着使出重攻击，能以光速前跳并进行下落斩击。"
+= 5200:"专用战技：光之王的架势\n\n举起两把武器，摆出架势。轻攻击会使出伴随光柱的连续斩击；再度发动，能使出最多两次的追击。使出重攻击，会跳起后光速下砍。"
 < 5240:"Unique Skill: White Light Charge\n\nSummons white light from the crevice in the weapon's ancient meteoric ore, using its power for a charging attack which pierces foes. Additional input causes the light to explode."
 > 5240:"Unique Skill: Cosmic Burst\n\nSummons a gravitational void from the crevice in the weapon's ancient meteoric ore, using its power for a charging attack which pierces foes. Additional input causes the void to explode."
 - 5240:"专用战技：白光突袭\n\n从古铁陨石的裂缝形成白色光芒，\n再顺势展开突袭，贯穿敌人的战技。\n再次发动，能引爆光芒。"
-= 5240:"专用战技：宇宙爆发\n\n从古铁陨石的裂缝形成引力虚空，\n再顺势展开突袭，贯穿敌人的战技。\n再次发动，能引爆虚空。"
+= 5240:"专用战技：宇宙暴\n\n从古铁陨石的裂缝形成重力虚空，\n再顺势展开突袭，贯穿敌人的战技。\n再次发动，能引爆虚空。"

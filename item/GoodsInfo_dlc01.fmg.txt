@@ -1,4 +1,4 @@
 < 2004310:"Creates sigil that forms three projectile glintblades after delay"
 > 2004310:"Creates sigil that forms three projectile cragbolts after delay"
 - 2004310:"在自身头上画出魔法阵，形成延后现形的三只辉剑"
-= 2004310:"在自身头上画出魔法阵，形成延后现形的三只岩矢"
+= 2004310:"在自身头上画出魔法阵，形成延后现形的三道冰雷"

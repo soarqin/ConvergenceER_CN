@@ -111,7 +111,7 @@
 < 309:"Thops's Barrier"
 > 309:"Cragbolt Slam"
 - 309:"托普斯的力场"
-= 309:"碎石震击"
+= 309:"冰雷震击"
 < 400:"Through and Through"
 > 400:"Titanic Shot"
 - 400:"贯穿射击"
