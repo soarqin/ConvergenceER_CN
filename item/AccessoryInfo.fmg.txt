@@ -103,7 +103,7 @@
 < 2190:"Enhances roars and breath attacks"
 > 2190:"Increases all physical damage by 12.5% but reduces defenses of all types by 10%"
 - 2190:"能强化咆哮与吐息"
-= 2190:"物理伤害提会提升12.5%，但各属性减伤率均会降低10%"
+= 2190:"物理伤害会提升12.5%，但各属性减伤率均会降低10%"
 < 2200:"Enhances guard counters"
 > 2200:"Enhances guard counters and boosts guarding ability."
 - 2200:"能强化防御反击"

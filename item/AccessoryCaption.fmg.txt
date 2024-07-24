@@ -103,7 +103,7 @@
 < 2190:"A bronze medallion depicting a roaring giant.\nEnhances roars and breath attacks.\n\nIn ancient times, the giants were mortal enemies of the Erdtree. Their bellowing roars desolated nature, triggered avalanches, and whipped up storms of flame."
 > 2190:"Once buried in a barrow on Stormhill, this relic depicts the visage of the king of the giants before the war that humbled his people.\n\nIncreases all physical damage by 12.5% but reduces defenses of all types by 10%."
 - 2190:"以嘶吼巨人的形象制成的青铜链坠。\n能强化咆哮与吐息。\n\n在远古时代，巨人是黄金树的宿敌。\n据说巨人轰然的咆哮能破坏自然──\n譬如引发雪崩，或召来火焰暴风雨。"
-= 2190:"这件古物曾埋葬于风暴山丘的古墓中，描绘了巨人战败前、其君王的容貌。\n\n物理伤害提会提升12.5%，但各属性减伤率均会降低10%。"
+= 2190:"这件古物曾埋葬于风暴山丘的古墓中，描绘了巨人战败前、其君王的容貌。\n\n物理伤害会提升12.5%，但各属性减伤率均会降低10%。"
 < 2200:"A talisman depicting a curved sword and a swordsman.\nEnhances guard counters.\n\nIt is said that a blind swordsman was the originator of this technique—the art of allowing one's opponent to strike so as to leave them vulnerable to a well-timed reply."
 > 2200:"A talisman depicting a curved sword and a swordsman.\nEnhances guard counters and boosts guarding ability.\n\nIt is said that a blind swordsman was the originator of this technique; the art of allowing one's opponent to strike so as to leave them vulnerable to a well-timed reply."
 - 2200:"以曲剑与剑士的形象制成的护符。\n能强化防御反击。\n\n那体现险中求胜的杰出剑术，\n据说是在过去，盲眼剑士领悟的技术。"
