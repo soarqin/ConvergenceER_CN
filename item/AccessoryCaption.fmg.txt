@@ -161,7 +161,7 @@
 < 4040:"Talisman depicting a golden ancient dragon.\nBoosts holy damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections."
 > 4040:"\nBoosts holy damage negation by 30%.\n\nWhat was her prayer? Her wish, her confession?\nThere is no one left to answer, and Marika never returned home again."
 - 4040:"绘有黄金古龙图案的护符。\n能提升圣属性减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
-= 4040:"被剪断的金黄色编发。\n玛莉卡女王献给祖母的供品。\n能提升30%圣属性减伤率。\n\n没有人知道玛莉卡为了什么而祈祷、许愿，\n又或是，为了什么而忏悔。\n能确定的是从那之后，祂不曾再回去故乡。"
+= 4040:"被剪断的金黄色编发。\n玛莉卡女王献给祖母的供品。\n\n能提升30%圣属性减伤率。\n\n没有人知道玛莉卡为了什么而祈祷、许愿，\n又或是，为了什么而忏悔。\n能确定的是从那之后，祂不曾再回去故乡。"
 < 4050:"Talisman depicting a pearlescent ancient dragon.\nBoosts non-physical damage negation.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections."
 > 4050:"Talisman depicting a pearlescent ancient dragon.\nBoosts non-physical damage negation by 10%.\n\nThe ancient dragons, who ruled in the prehistoric era before the Erdtree, would protect their lord as a wall of living rock.\nAnd so it is that the shape of the dragon has become symbolic of all manner of protections."
 - 4050:"绘有珍珠色古龙图案的护符。\n能提升物理以外的减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
