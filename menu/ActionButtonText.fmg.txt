@@ -7,7 +7,7 @@
 > 3305:"Extinguish flame"
 = 3305:"熄灭火焰"
 > 4015:"You cannot open this door without the <?gdsparam@8020?>"
-= 4015:"没有<?gdsparam@8020>，不能打开此门。"
+= 4015:"没有<?gdsparam@8020?>，不能打开此门。"
 > 7271:"Examine ledger"
 = 7271:"检查盖板"
 > 7275:"Examine portal"
