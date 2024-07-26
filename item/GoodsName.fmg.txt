@@ -245,7 +245,7 @@
 - 2030:"照明石"
 = 2030:"照明石 "
 > 2965:"Remembrance of the Crucible's Betrayer"
-= 2965:"熔炉叛逆者的追忆"
+= 2965:"熔炉背叛者的追忆"
 > 2966:"Remembrance of the Godskin Matriarch"
 = 2966:"神皮女族长的追忆"
 > 2967:"Remembrance of the Scion of the Sealed God"

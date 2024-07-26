@@ -2490,7 +2490,7 @@
 > 34200000:"A sacred seal used by ancestral mystics.\n<u>Lesser</u> Mystic Affinity\nPhysical - <font color=\"#FFA500\">Moderate</font>\nMagic - <font color=\"#3CC35A\">Optimal</font>\nFire - <font color=\"#FFFF00\">Good</font>\nLightning - <font color=\"#FFA500\">Moderate</font>\nHoly - <font color=\"#F94449\">Weak</font>\n"
 = 34200000:"祖灵密契师使用的圣印记。\n<u>次级</u>密契祷告加成\n物理 - <font color=\"#FFA500\">中等</font>\n魔力 - <font color=\"#3CC35A\">最佳</font>\n火 - <font color=\"#FFFF00\">良好</font>\n雷 - <font color=\"#FFA500\">中等</font>\n圣 - <font color=\"#F94449\">弱</font>"
 > 50360000:"Arrow whittled from animal bones. The tip is daubed with a maddening tincture. Afflicts targets with madness.\n\nCraftable item. The fletching adds distance to the arrow's flight."
-= 50360000:"在箭头涂上发狂药膏的兽骨箭。\n具有引发异常状态发狂的效果。\n\n能够制作的其中一项道具。\n附上箭羽之后，提升了飞翔距离。"
+= 50360000:"在箭头涂上药膏的兽骨箭。\n具有引发异常状态发狂的效果。\n\n能够制作的其中一项道具。\n附上箭羽之后，提升了飞翔距离。"
 > 50370000:"Arrow whittled from animal bones. The tip is daubed with a maddening tincture. Afflicts targets with madness.\n\nCraftable item."
 = 50370000:"在箭头涂上发狂药膏的兽骨箭。\n具有引发异常状态发狂的效果。\n\n能够制作的其中一项道具。"
 > 50380000:"Arrow whittled from animal bones. The tip is daubed with a blighted tincture. Afflicts targets with death blight.\n\nCraftable item. The fletching adds distance to the arrow's flight."
