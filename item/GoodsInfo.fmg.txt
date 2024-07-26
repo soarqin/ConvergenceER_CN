@@ -660,7 +660,7 @@
 > 7421:"Release a projectile at an enemy that, inflicts a curse that temporarily blinds them"
 = 7421:"向敌人发射一个飞弹，造成诅咒使他们暂时失明"
 > 7422:"Release a projectile at an enemy that inflicts a curse causing sleep build up over time"
-= 7422:"向敌人发射一个飞弹，造成诅咒导致随着时间逐渐积累睡眠量表"
+= 7422:"向敌人发射一个飞弹，造成诅咒导致随着时间逐渐积累催眠量表"
 > 7430:"Release a projectile at an enemy that temporarily makes them an ally"
 = 7430:"向敌人发射飞弹使其暂时成为盟友"
 > 7431:"Release a projectile at an enemy that inflicts them with a curse making them weaker"

@@ -21,7 +21,7 @@
 > 127:"Unique Skill: Spear of Frenzy\n\nImbue the spear with the flame of frenzy and leap forwards, plunging it into the ground and setting off a maddening explosion. \nFollow up with a sweeping attack that coats the weapon in maddening flames, increasing damage for 30 seconds.\nThe skill inflicts the enemy with madness."
 = 127:"专用战技：癫狂之矛\n\n为长矛注入癫火并向前跳跃刺入地面并引发令人发狂的爆炸。 \n接着进行一次横扫攻击，并将武器包裹在癫火中，增加伤害，持续30秒。\n该战技能使敌人发狂。"
 > 128:"Unique Skill: Soporific Assault\n\nLunge forward with a thrusting attack that enchants the spear with mystical sleep energy and then follow up with another skill attack to perform a wide swipe that releases a purple mist that causes sleep build-up.\n"
-= 128:"战技：催眠突袭\n\n向前进行冲刺攻击，同时为长矛附上神秘的睡眠之力。可以衔接发动战技，会进行大范围挥击并释放紫色烟雾，使睡眠量表累积。"
+= 128:"战技：催眠突袭\n\n向前进行冲刺攻击，同时为长矛附上神秘的催眠之力。可以衔接发动战技，会进行大范围挥击并释放紫色烟雾，使催眠量表累积。"
 > 129:"Unique Skill: Evisceration\n\nStrike out with a devastating series of slashing attacks in front of you.\n"
 = 129:"专用战技：剖心\n\n在面前进行一系列毁灭性的猛烈攻击。"
 > 132:"Unique Skill: Osian's Fury\n\nPerform a leaping downward slam attack and then follow up with a another skill attack to perform a powerful spinning swipe."

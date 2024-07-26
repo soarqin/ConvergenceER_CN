@@ -51,7 +51,7 @@
 < 1180:"Raises focus"
 > 1180:"Grants immunity to sleep"
 - 1180:"能提升理智度"
-= 1180:"能免疫睡眠"
+= 1180:"能免疫催眠"
 < 1191:"Greatly raises vitality"
 > 1191:"Grants immunity to death"
 - 1191:"能大幅提升抗死度"

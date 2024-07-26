@@ -913,7 +913,7 @@
 > 7421:"Blinding Veil"
 = 7421:"致盲面纱"
 > 7422:"Call to Slumber"
-= 7422:"呼唤睡眠"
+= 7422:"呼唤催眠"
 > 7430:"Bewitch"
 = 7430:"蛊惑"
 > 7431:"Psychic Corrosion"

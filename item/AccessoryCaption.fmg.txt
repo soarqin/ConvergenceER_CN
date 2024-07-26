@@ -51,7 +51,7 @@
 < 1180:"An accoutrement worn by the ancestral followers.\nRaises focus.\n(Focus governs resistance to sleep and madness.)\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit."
 > 1180:"An accoutrement worn by the ancestral followers.\nGrants immunity to sleep.\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit."
 - 1180:"祖灵之民的装饰品。\n能提升理智度。\n（理智度是对催眠、发狂的抵抗力。）\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
-= 1180:"祖灵之民的装饰品。\n能免疫异常状态睡眠。\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
+= 1180:"祖灵之民的装饰品。\n能免疫异常状态催眠。\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
 < 1191:"A fetid, overgrown cyst taken from facial flesh.\nGreatly raises vitality.\n(Vitality governs resistance to the effects of Death.)\n\nIt is said that this cyst came from the corrupted visage of one unable to die a true Death. Indeed, it comes from the Prince of Death, scion of the golden bough and First of the Dead among the demigods."
 > 1191:"A fetid, overgrown cyst taken from facial flesh.\nGrants immunity to death.\n\nIt is said that this cyst came from the corrupted visage of one unable to die a true Death. Indeed, it comes from the Prince of Death, scion of the golden bough and First of the Dead among the demigods."
 - 1191:"腥臭化脓的恶性人面脓疮。\n能大幅提升抗死度。\n\n据说那是死王子的脸──\n半神之中的初始死者、黄金之子，\n那心有罣碍，受尽玷污的遗容。"
