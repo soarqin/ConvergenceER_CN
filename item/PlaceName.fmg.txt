@@ -1,3 +1,5 @@
+> 12013:"Cave of the Naturalborn"
+= 12013:"弃子的洞窟"
 > 90001:"<font color=\"#3AE400\">Alive</font>"
 = 90001:"<font color=\"#3AE400\">存活</font>"
 > 90002:"<font color=\"#928977\">Dead</font>"

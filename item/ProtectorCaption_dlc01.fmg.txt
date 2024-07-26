@@ -1,0 +1,2 @@
+> 5340000:"Head of the embodiment of the Frenzied Flame. \n\nIncreases fire damage by 5% while doing continuous madness buildup on the player.\nAdditionally raises attack power when madness is triggered in the vicinity by 10%.\n\n\"The depths of your foolishness!\""
+= 5340000:"癫火化身的头部装备。\n\n提升5%火属性攻击力，同时在玩家身上持续积累发狂量表。\n此外，当附近引发发狂时，提升10%攻击力。\n\n“你的愚蠢之深！”"

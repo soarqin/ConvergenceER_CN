@@ -235,6 +235,6 @@
 - 401001:"©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc."
 = 401001:"©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. "
 < 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc."
-> 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. / Convergence Ver. 2.0.1"
+> 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. / Convergence Ver. 2.0.2"
 - 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc."
-= 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. / Convergence Ver. 2.0.1"
+= 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. / Convergence Ver. 2.0.2"
