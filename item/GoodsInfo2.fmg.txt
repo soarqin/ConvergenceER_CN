@@ -25,7 +25,7 @@
 > 11042:"Temporarily boosts intelligence/arcane"
 = 11042:"暂时提升智力和感应"
 > 11043:"Temporarily boosts faith/arcane"
-= 11043:"暂时提升智力和感应"
+= 11043:"暂时提升信仰和感应"
 > 11044:"Placeholder Text"
 = 11044:"占位符"
 > 11045:"Placeholder Text"
