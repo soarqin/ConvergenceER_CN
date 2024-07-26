@@ -1,2 +1,2 @@
 > 5340000:"Head of the embodiment of the Frenzied Flame. \n\nIncreases fire damage by 5% while doing continuous madness buildup on the player.\nAdditionally raises attack power when madness is triggered in the vicinity by 10%.\n\n\"The depths of your foolishness!\""
-= 5340000:"癫火之王具现化的头部。\n\n在玩家自身持续累积发狂量表时，能提升5%火属性伤害。\n周围人物触发异常状态发狂时，能额外提升10%攻击力。\n\n\u3000……一群蠢人！"
+= 5340000:"癫火之王具现化的头部。\n\n提升5%火属性伤害，同时玩家自身会持续积累发狂量表。\n周围人物触发异常状态发狂时，能额外提升10%攻击力。\n\n\u3000……一群蠢人！"
