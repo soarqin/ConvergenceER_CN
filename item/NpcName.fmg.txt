@@ -5,7 +5,7 @@
 > 121860:"Training Grounds Statue"
 = 121860:"训练场雕像"
 > 138650:"Stormcaller Curtis"
-= 138650:"风暴召唤者柯蒂斯"
+= 138650:"风暴呼唤者柯蒂斯"
 > 138660:"Necromancer Domo"
 = 138660:"死灵术士多摩"
 > 138670:"Glint Sorceress Bree"
