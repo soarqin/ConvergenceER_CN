@@ -5,7 +5,7 @@
 < 106:"Skill: Stamp (Upward Cut)\n\nBrace armament and step into a low stance that prevents recoil from most enemy attacks.\nFollow up with a strong attack for an upward strike."
 > 106:"Skill: Stamp\n\nBrace armament and step into a low stance that prevents recoil from most enemy attacks.\nFollow up with a light attack for a sweeping strike or follow up with a strong attack for an upward strike."
 - 106:"战技：箭步（上砍）\n\n举起武器摆出架式，稳住姿势压低身形，\n瞬间提升强韧度的战技。\n发动后接着使出重攻击，能上砍攻击。"
-= 106:"战技：箭步\n\n举起武器摆出架式，稳住姿势压低身形，\n瞬间提升强韧度的战技。\n发动后接着使出轻攻击，能能回旋斩；\n接着使出重攻击，能上砍攻击。"
+= 106:"战技：箭步\n\n举起武器摆出架式，稳住姿势压低身形，\n瞬间提升强韧度的战技。\n发动后接着使出轻攻击，能回旋斩；\n接着使出重攻击，能上砍攻击。"
 < 108:"Skill: Blood Tax\n\nBlood Oath skill granted by the Lord of Blood.\nTwist to build power, then unleash a flurry of thrusts that rob the target of both their blood and their HP."
 > 108:"Skill: Briar Assault\n\nAnimate the hammer with writhing briars and launch into a series of wild attacks.\nEach strike recovers HP and the final strike sends briars of punishment outwards in front of you."
 - 108:"战技：鲜血征收\n\n鲜血君王分享的力量，血盟战技之一。\n旋身之后，使出多重的突刺连击。\n能夺取受攻击对象的鲜血与血量。"
