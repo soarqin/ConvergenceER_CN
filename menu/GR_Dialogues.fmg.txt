@@ -2,7 +2,3 @@
 > 236202:"Acquire <?itemName?> in exchange for remnant"
 - 236202:"将用追忆交换<?itemName?>。"
 = 236202:"将用遗物交换<?itemName?>。"
-> 241014:"A new map has been found"
-= 241014:"获取新地图"
-> 241105:"A new map has been found"
-= 241105:"获取新地图"

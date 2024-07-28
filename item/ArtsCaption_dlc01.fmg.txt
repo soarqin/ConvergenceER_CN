@@ -1,3 +1,7 @@
+< 5030:"Unique Skill: Darkness\n\nRaise the sword aloft and cleave surroundings with darkness. Deals holy damage and temporarily reduces holy damage negation."
+> 5030:"Unique Skill: Darkness\n\nRaise the sword aloft and cleave surroundings with darkness. Deals magic damage and temporarily reduces magic damage negation."
+- 5030:"专用战技：黑暗\n\n将剑举至半空，以黑暗横扫周围的战技。\n给予敌人圣属性伤害的同时，\n也能暂时降低对方的圣属性减伤率。"
+= 5030:"专用战技：黑暗\n\n将剑举至半空，以黑暗横扫周围的战技。\n给予敌人魔力属性伤害的同时，\n也能暂时降低对方的魔力属性减伤率。"
 > 5200:"Unique Skill: Lord of Light Stance\n\nHold the swords close to your body to assume a prepared stance and then perform a light attack deliver a slashing attack accompanied by columns of light. Additional input allows for up to two follow-up attacks. Or follow up with a heavy attack to leap forward to deliver a downward slash at the speed of light."
 = 5200:"专用战技：光之王的架势\n\n举起两把武器，摆出架势。轻攻击会使出伴随光柱的连续斩击；再度发动，能使出最多两次的追击。使出重攻击，会跳起后光速下砍。"
 < 5240:"Unique Skill: White Light Charge\n\nSummons white light from the crevice in the weapon's ancient meteoric ore, using its power for a charging attack which pierces foes. Additional input causes the light to explode."
