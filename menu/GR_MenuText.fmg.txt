@@ -225,6 +225,6 @@
 - 400000:"DARK SOULS<?kgicon@2202?> Ⅲ NETWORK TEST VER. uses Havok<?kgicon@2203?>\n<?kgicon@2201?>Copyright 1999-2015. Havok.com Inc. (or its licensors). All Rights Reserved. See www.havok.com for details."
 = 400000:"DARK SOULS<?kgicon@2202?> Ⅲ NETWORK TEST VER. uses Havok<?kgicon@2203?>\n<?kgicon@2201?>Copyright 1999-2015. Havok.com Inc. (or its licensors). All Rights Reserved. See www.havok.com for details."
 < 401002:"ELDEN RING™ & ©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc."
-> 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. / Convergence Ver. 2.0.2"
+> 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. / Convergence Ver. 2.0.3"
 - 401002:"ELDEN RING™ & ©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc.."
-= 401002:"ELDEN RING™ & ©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc. / Convergence Ver. 2.0.2"
+= 401002:"ELDEN RING™ & ©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc. / Convergence Ver. 2.0.3"
