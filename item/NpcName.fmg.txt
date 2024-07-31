@@ -15,7 +15,7 @@
 > 138672:"Darkmoon Knight Oroboro"
 = 138672:"“暗月骑士”乌洛波洛"
 > 138673:"Volcanist Dist"
-= 138673:"火山术士迪斯特"
+= 138673:"火山学者迪斯特"
 > 138674:"Snuppet, Servant of Rot"
 = 138674:"腐败仆从斯拿佩"
 > 138675:"Nox Oracle Sadia"
