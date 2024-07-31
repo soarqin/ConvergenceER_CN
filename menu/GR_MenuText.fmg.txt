@@ -109,7 +109,7 @@
 > 297114:"Frost Witch"
 = 297114:"冰霜巫师"
 > 297115:"Aberrant Heretic"
-= 297115:"背道异端"
+= 297115:"悖逆异端"
 > 297116:"Blood Initiate"
 = 297116:"鲜血学徒"
 > 297117:"Servant of Rot"
