@@ -897,7 +897,7 @@
 > 7401:"Dream Siphon"
 = 7401:"噩梦吸取"
 > 7402:"Spirit Vapor"
-= 7402:"灵雾"
+= 7402:"灵魂水雾"
 > 7410:"Dream Cloak"
 = 7410:"噩梦斗篷"
 > 7411:"Phantom Pain"
