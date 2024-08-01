@@ -3383,7 +3383,7 @@
 > 10032100:"Mystic Twinned Knight Swords"
 = 10032100:"密契骑士双头剑"
 > 10040000:"Frozen Twinshards"
-= 10040000:"冰冷双生碎片"
+= 10040000:"冰冷双刃"
 < 10060000:"Abundance and Decay Twinblade"
 > 10060000:"Caimar's Battlestaff"
 - 10060000:"丰饶与腐败双刃剑"
