@@ -1,2 +1,6 @@
 /stage/*/
 /stage/*.bak
+/*/*/*/*.txt
+/*/*/*/*.xml
+*.zip
+*.7z
