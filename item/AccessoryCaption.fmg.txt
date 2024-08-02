@@ -95,7 +95,7 @@
 < 2060:"A talisman depicting a spear and a soldier.\nEnhances the counterattacks that are unique to thrusting weapons.\n\nSpears are standard weapons for soldiers in the Lands Between. They made it possible to respond to a ferocious foe with an equally ferocious counterattack."
 > 2060:"A talisman depicting a spear and a soldier.\nEnhances the guard attacks that are unique to thrusting weapons and boosts guarding ability.\n\nSpears are standard weapons for soldiers in the Lands Between. They made it possible to respond to a ferocious foe with an equally ferocious counterattack."
 - 2060:"以矛与士兵的形象制成的护符。\n能强化突刺攻击特有的反击攻击。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
-= 2060:"以矛与士兵的形象制成的护符。\n能强化突刺攻击特有的反击攻击，并提升防御能力。。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
+= 2060:"以矛与士兵的形象制成的护符。\n能强化突刺攻击特有的反击攻击，并提升防御能力。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
 < 2150:"A talisman depicting three iron arrows.\nCarried by soldiers long ago.\n\nRaises attack power of arrows and bolts."
 > 2150:"A talisman composed of fletched and iron arrows.\n\nIncreases the effective range of bows and raises attack power of arrows and bolts."
 - 2150:"以三支铁箭的形象制成的护符。\n古老士兵们的物品。\n\n能提升射出箭、弩箭时的攻击力。"
