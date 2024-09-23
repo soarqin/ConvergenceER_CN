@@ -1,1 +1,0 @@
-@tools\fmgcarry.exe origin\engUS\menu_dlc02 mod\engUS\menu_dlc02 origin\zhoCN\menu_dlc02 
