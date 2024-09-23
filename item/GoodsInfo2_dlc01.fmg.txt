@@ -1,0 +1,4 @@
+< 2015010:"Found by hunting horned beasts in ancient ruins of Rauh"
+> 2015010:"Found by hunting horned beasts in ancient ruins"
+- 2015010:"于古遗迹，有机会在有角的野兽身上获得"
+= 2015010:"于古遗迹，有机会在有角的野兽身上获得"

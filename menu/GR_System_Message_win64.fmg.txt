@@ -14,3 +14,7 @@
 > 401401:"<font size=\"32\">Offline Mode</font>\nConvergence: Elden Ring has automatically launched in Offline Mode, \nthis means you are unable to connect to online play. \nThis is to ensure the safety of your account.\n "
 - 401401:"检测到作弊行为，\n将返回标题画面。"
 = 401401:"<font size=\"32\">离线模式</font>\n艾尔登法环 Convergence Mod 已自动触发离线模式，\n这意味着您无法在线连接游玩。\n这是为了确保您账户的安全。\n "
+< 401402:"A connection error occurred.\nReturning to title menu."
+> 401402:"Inappropriate activity detected.\nReturning to title menu."
+- 401402:"发生联机问题，\n将返回标题画面。"
+= 401402:"检测到作弊行为，将返回标题画面。"
