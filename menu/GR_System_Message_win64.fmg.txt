@@ -17,4 +17,4 @@
 < 401402:"A connection error occurred.\nReturning to title menu."
 > 401402:"Inappropriate activity detected.\nReturning to title menu."
 - 401402:"发生联机问题，\n将返回标题画面。"
-= 401402:"检测到作弊行为，将返回标题画面。"
+= 401402:"检测到作弊行为，\n将返回标题画面。"
