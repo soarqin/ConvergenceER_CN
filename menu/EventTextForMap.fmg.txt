@@ -45,7 +45,7 @@
 > 60085:"The duplicated weapon has been added to your inventory."
 = 60080:"复制武器已添加进置物包。"
 > 60090:"There were no weapons equipped to duplicate, nothing happened."
-= 60090:"没有可复制的装备中武器。无事发生。"
+= 60090:"没有可复制的装备武器。无事发生。"
 > 208020:"Used <?gdsparam@8020?>"
 = 208020:"已使用<?gdsparam@8020?>。"
 > 208138:"Used <?gdsparam@8138?>"
