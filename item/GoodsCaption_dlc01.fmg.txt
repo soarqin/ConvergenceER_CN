@@ -29,7 +29,7 @@
 < 2000600:"Craftable item prepared using a capacious cracked pot.\nScorching gas rock is sealed inside in a powdered form.\n\nThrow at enemies to disperse a searing cloud of heat, dealing continuous heavy damage to those caught inside for a short duration."
 > 2000600:"Craftable item prepared using a capacious cracked pot.\nA goodly amount of materials is sealed inside.\n\nThrow at enemies to disperse a searing cloud of heat, dealing continuous heavy damage to those caught inside for a short duration."
 - 2000600:"使用大龟裂壶制作的其中一项道具。\n大壶内封着敲碎的高温燃气石。\n\n能丢向敌人，产生强烈热气，\n给予接触到的人物大幅火属性伤害。\n热气会在原地短暂停留。"
-= 2000600:"使用大龟裂壶制作的其中一项道具。\n大壶内封着敲碎的高温燃气石。\n\n能丢向敌人，产生强烈热气，\n给予接触到的人物大幅火属性伤害。\n热气会在原地短暂停留。
+= 2000600:"使用大龟裂壶制作的其中一项道具。\n大壶内封着敲碎的高温燃气石。\n\n能丢向敌人，产生强烈热气，\n给予接触到的人物大幅火属性伤害。\n热气会在原地短暂停留。"
 < 2000620:"Craftable item prepared using a capacious cracked pot.\nA cocktail of Frenzied Flame materials is sealed inside.\n\nThrow at enemies to cause a large buildup of madness.\n\nThe flame of frenzy burns the eyes, but tranquility follows in its wake. May this pot bring salvation to those it strikes."
 > 2000620:"Craftable item prepared using a capacious cracked pot.\nA goodly amount of materials is sealed inside.\n\nThrow at enemies to cause a large buildup of madness.\n\nThe flame of frenzy burns the eyes, but tranquility follows in its wake. May this pot bring salvation to those it strikes."
 - 2000620:"使用大龟裂壶制作的其中一项道具。\n大壶内封着各种混和的癫火材料。\n\n能丢向敌人，大幅累积发狂量表。\n\n癫火烧熔双眼，带来心灵平静──\n此为给予救赎的壶。"
