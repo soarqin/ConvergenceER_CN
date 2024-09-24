@@ -9,6 +9,6 @@
 > 4015:"You cannot open this door without the <?gdsparam@8020?>"
 = 4015:"未持有<?gdsparam@8020?>，无法打开此门。"
 > 7271:"Examine ledger"
-= 7271:"查看记录"
+= 7271:"查看书册"
 > 7275:"Examine portal"
 = 7275:"查看传送门"
