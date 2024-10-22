@@ -74,6 +74,8 @@
 = 62021:"密契"
 > 63051:"Usable on small melee armaments"
 = 63051:"能在小型的近战武器使用"
+> 63062:"Usable on small and medium swords (daggers excepted), light greatswords, katanas, and axes"
+= 63062:"可以用于小型与中型剑类（不含短剑）、轻大剑、太刀、斧类"
 < 236210:"Usable Remembrances"
 > 236210:"Usable Items"
 - 236210:"可使用的追忆"
@@ -151,7 +153,7 @@
 < 297137:"Prisoner"
 > 297137:"Vanguard"
 - 297137:"囚犯"
-= 297137:"先锋"
+= 297137:"前锋"
 < 297138:"Confessor"
 > 297138:"Marksman"
 - 297138:"密使"
@@ -225,6 +227,8 @@
 - 400000:"DARK SOULS<?kgicon@2202?> Ⅲ NETWORK TEST VER. uses Havok<?kgicon@2203?>\n<?kgicon@2201?>Copyright 1999-2015. Havok.com Inc. (or its licensors). All Rights Reserved. See www.havok.com for details."
 = 400000:"DARK SOULS<?kgicon@2202?> Ⅲ NETWORK TEST VER. uses Havok<?kgicon@2203?>\n<?kgicon@2201?>Copyright 1999-2015. Havok.com Inc. (or its licensors). All Rights Reserved. See www.havok.com for details."
 < 401002:"ELDEN RING™ & ©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc."
-> 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. / Convergence Ver. 2.0.3"
+> 401002:"ELDEN RING™ & ©2022 BANDAI NAMCO Entertainment Inc. / ©2022 FromSoftware, Inc. / Convergence Ver. 2.1"
 - 401002:"ELDEN RING™ & ©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc.."
-= 401002:"ELDEN RING™ & ©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc. / Convergence Ver. 2.0.3"
+= 401002:"ELDEN RING™ & ©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc. / Convergence Ver. 2.1"
+
+

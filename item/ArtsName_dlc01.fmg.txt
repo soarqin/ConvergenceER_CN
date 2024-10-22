@@ -4,3 +4,7 @@
 > 5240:"Cosmic Burst"
 - 5240:"白光突袭"
 = 5240:"宇宙暴"
+< 5540:"Horn Calling: Storm"
+> 5540:"Tempest Cleave"
+- 5540:"角降临之风暴"
+= 5540:"风暴劈击"

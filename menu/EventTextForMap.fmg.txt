@@ -52,3 +52,17 @@
 = 208138:"已使用<?gdsparam@8138?>。"
 > 408001:"The path to the Lichdragon has opened."
 = 408001:"通向死龙的道路已经开放。"
+
+> 4020:"Vanilla/Non-Convergence Character detected.\nYour game experience is likely to be unstable.\nIt is recommended to create a new character."
+= 4020:"检测到普通游戏/非 CER Mod 角色。\n您可能无法获得稳定的游戏体验。\n建议创建新角色。"
+> 4021:"Outdated Convergence Character detected.\nYour game experience is likely to be unstable.\nIt is recommended to create a new character or start New Game+."
+= 4021:"检测到过时的 CER Mod 角色。\n您可能无法获得稳定的游戏体验。\n建议创建新角色。"
+> 4201:"Seek my twin"
+= 4201:"寻找我的孪生亲人"
+
+> 20701:"Ensnared in a transporter trap!"
+= 20701:"触发传送陷阱！"
+> 20800:"Sealed by the Erdtree Sentinel Duo"
+= 20800:"受到双大树守卫的封印"
+> 20801:"A seal near an old entrance into Leyndell has been broken"
+= 20801:"罗德尔附近一处古老入口的封印已经解除"

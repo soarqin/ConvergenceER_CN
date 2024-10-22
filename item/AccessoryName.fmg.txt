@@ -78,3 +78,5 @@
 > 6100:"Entwining Umbilical Cord"
 - 6100:"[ERROR]纠缠脐带"
 = 6100:"纠缠脐带"
+> 4130:"Sigil of Freedom"
+= 4130:"自由印记"

@@ -14,3 +14,7 @@
 > 85000:"Ash of War: Flowing Piercer"
 - 85000:"战灰：白影诱惑"
 = 85000:"战灰：流体锥"
+> 80300:"Ash of War: Assassin’s Feint"
+= 80300:"战灰：刺客佯攻"
+> 80400:"Ash of War: Flame Arc"
+= 80400:"战灰：火焰弧"

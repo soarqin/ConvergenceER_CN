@@ -178,3 +178,5 @@
 > 5050:"Critical hits restore HP and FP"
 - 5050:"使出致命一击能恢复血量"
 = 5050:"使出致命一击能恢复血量和专注值"
+> 4130:"Negates slowing effects and increases movement speed"
+= 4130:"无视减速效果，并提升移动速度"
