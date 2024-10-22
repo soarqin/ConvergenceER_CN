@@ -671,7 +671,7 @@
 = 8500000:"融泥骑士挥舞的武器。\n以大量人骨排列成拱门状，\n再硬化融泥，形成刀锋的大柴刀。"
 
 > 60520000:"A technique in the style of the Dryleaf Arts but mouldering with undeath and the rancorous spirits of necromancy.\n\nPerhaps a result of the meddling of putrescent sorcerers, many such oddities are hidden in the dark places of the Land of Shadows."
-= 60520000:"类似落叶流的技艺，却因唤起的咒魂和不死者而衰朽。\n\n或许这正是墓地魔法师进行干预的结果。在幽影之地的暗处，还潜藏着许多类似的东西。"
+= 60520000:"与落叶流相近，却与死灵术的咒魂和不死为伍，因而迈入腐朽的技艺。\n\n或许这正是墓地魔法师干预的结果。在幽影之地的暗处，还隐藏着许多类似的异物。"
 
 > 66530000:"A great katana of unique design, once wrought by the Tempestcallers exiled by the Erdtree.\n\nA weapon considered heretical to the Golden Order, it was once a great boon to the forces of Stormveil."
-= 66530000:"造型奇特的大太刀，曾由为黄金树所流放的烈风召唤者持有。\n\n这种武器曾在史东薇尔军的手中发挥巨大用处，而被黄金律法视作异端。"
+= 66530000:"造型奇特的大太刀，原属于被黄金树一方流放的暴风召唤者。\n\n这种武器被黄金律法视作异端。但在史东薇尔军队的手中，它曾大放异彩。"
