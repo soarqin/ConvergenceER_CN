@@ -170,7 +170,7 @@
 = 4050:"绘有珍珠色古龙图案的护符。\n能提升10%物理以外的减伤率。\n\n在黄金树尚未出现的史前时代，\n据说古龙是那时代的主宰，\n也是保护王的铜墙铁壁。\n因此龙的图案被视为各种庇佑的象征。"
 > 4120:"Grants immunity to environmental lava damage.\n\nA locket depicting an image of Rykard after his grand transformation. Imbued with the ancient power of Gelmir, this crest is held by those who have forsworn all kinship with the erdtree."
 = 4120:"能免疫熔岩地形伤害。\n\n描绘了拉卡德转变后形象的挂坠。这枚徽章注入了格密尔的古老力量，由那些宣誓放弃与黄金树联系的人持有。"
-> 4130:"A talisman of the ancient stormcallers, venerating the freedom of the winds.\n\nPrevents the wearer from being slowed by environmental impediments and increases movement speed by 3%.\n\nThe eternal sky was seen as a god to the old inhabitants of Stormveil, they called upon it in war as in all aspects of life. "
+> 4130:"A talisman of the ancient stormcallers, venerating the freedom of the winds.\n\nPrevents the wearer from being slowed by environmental impediments and increases movement speed by 3%.\n\nThe eternal sky was seen as a god to the old inhabitants of Stormveil, they called upon it in war as in all aspects of life."
 = 4130:"古代的烈风召唤者持有的护符，是为敬奉自由无羁的风。\n\n佩戴者不会因地形而减速，同时移动速度会提升3%。\n\n史东薇尔的古代居民将永恒的天穹视作神明。在战争及各类日常场合中，他们都会向天空祝祷。"
 < 5010:"A cerulean-colored talisman patterned after an Erdtree seed.\nBoosts FP restoration from the Flask of Cerulean Tears.\n\nThe Erdtree was once perfect and eternal, and thus was it believed that Erdtree seeds could not exist."
 > 5010:"Talisman depicting the blessed boon that is a droplet of the blue, luminescent sap of the Erdtree.\n\nGrants 1 FP recovery per second.\n\nIt was once thought that the blessed sap of the Erdtree would drip from its boughs forever—but that age of plenty swiftly came to a close, and with time, the Erdtree became more an object of faith."

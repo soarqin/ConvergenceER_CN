@@ -108,7 +108,7 @@
 > 2200:"Enhances guard counters and boosts guarding ability."
 - 2200:"能强化防御反击"
 = 2200:"能强化防御反击，并提升防御能力"
-< 2220:"Raises potency of arts employing perfume "
+< 2220:"Raises potency of arts employing perfume"
 > 2220:"Raises potency of perfume items"
 - 2220:"能提升调香术的威力"
 = 2220:"能提升调香类物品的威力"

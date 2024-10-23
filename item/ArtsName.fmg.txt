@@ -48,7 +48,7 @@
 = 148:"旋风斩"
 > 160:"Hoarfrost Stomp"
 = 160:"冻霜踏地"
-> 165:"Impaling Vapors "
+> 165:"Impaling Vapors"
 = 165:"水雾突刺"
 > 177:"Blighted Summoning"
 = 177:"唤起凋亡"

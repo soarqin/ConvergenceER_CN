@@ -670,7 +670,7 @@
 = 640035:"红狮子门房"
 > 650011:"South Mountaintops Minor Erdtree"
 = 650011:"巨人山顶南部小黄金树"
-> 650012:"North Mountaintops Minor Erdtree "
+> 650012:"North Mountaintops Minor Erdtree"
 = 650012:"巨人山顶北部小黄金树"
 > 650013:"Rold Reliquary"
 = 650013:"洛德圣匣"

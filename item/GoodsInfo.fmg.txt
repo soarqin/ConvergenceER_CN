@@ -442,7 +442,7 @@
 = 5260:"给身体注入风的精华"
 > 5261:"Alter the essence of your physical form into vapors."
 = 5261:"将自身物质形态的本质转化为气态"
-> 5270:"Launches a projectile of air at foes. Upon impact, the enemy will be affected by a curse that greatly inhibits their breathing. "
+> 5270:"Launches a projectile of air at foes. Upon impact, the enemy will be affected by a curse that greatly inhibits their breathing."
 = 5270:"向敌人发射气体飞弹。一旦被击中，敌人将受到诅咒的影响，极大地抑制他们的呼吸"
 > 5271:"Launches a projectile of air at foes. Upon impact, the enemy will be affected by a curse that slightly inhibits their breathing."
 = 5271:"向敌人发射气体飞弹。一旦被击中，敌人将受到诅咒的影响，轻微地抑制他们的呼吸"
