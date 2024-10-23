@@ -1,4 +1,5 @@
-< 402380:"With the Power of Remembrance menu, you can draw out the power of a remembrance's namesake.\n\nEach remembrance can provide one power. Once that power is claimed, the remembrance will be lost."
-> 402380:"With the Remnant Crafting menu, you can use remnants you find to craft Talismans and Physick Tears.\n\nEach remnant can be crafted into one item. Once that item is crafted, the remnant will be lost."
-- 402380:"在追忆力量选单，能透过追忆\n获得追忆之主拥有的力量。\n\n一个追忆能获得的力量只限一个。\n在获得力量之后，追忆会消失。"
-= 402380:"在遗物精炼选单，能透过遗物\n获得护符和灵药露滴。\n\n一个遗物能获得的物品只限一个。\n在精炼遗物之后，遗物会消失。"
+
+ < 402380:"With the Power of Remembrance menu, you can draw out the power of a remembrance's namesake.\n\nEach remembrance can provide one power. Once that power is claimed, the remembrance will be lost."
+ > 402380:"With the Remnant Crafting menu, you can use remnants you find to craft Talismans and Physick Tears.\n\nEach remnant can be crafted into one item. Once that item is crafted, the remnant will be lost."
+ - 402380:"在追忆力量选单，能透过追忆\n获得追忆之主拥有的力量。\n\n一个追忆能获得的力量只限一个。\n在获得力量之后，追忆会消失。"
+ = 402380:"在遗物精炼选单，能透过遗物\n获得护符和灵药露滴。\n\n一个遗物能获得的物品只限一个。\n在精炼遗物之后，遗物会消失。"

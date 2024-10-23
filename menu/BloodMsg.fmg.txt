@@ -1,2 +1,3 @@
-> 2013:"Ancestral Decay"
-= 2013:"先祖的凋零"
+
+ > 2013:"Ancestral Decay"
+ = 2013:"先祖的凋零"
