@@ -1079,7 +1079,7 @@
 > 8138:"A corroded key coated in rot.\n\nOpens a locked door in Fort Faroth."
 = 8138:"一把被腐败侵蚀的钥匙。\n\n用于打开法洛斯要塞上锁的门。"
 > 8139:"A key made of dull black stone.\n\nOpens a gate in Deeproot Depths."
-= 8139:"由深沉的黑石制成的钥匙。\n\n可以打开深根地层的大门。"
+= 8139:"由深沉的黑石制成的钥匙。\n\n可以打开深根底层的大门。"
 > 8230:"A treasure map torn apart now rejoined.\nFive markers note the page.\n<?gdsparam@8511?> - Prior to the Impassable Greatbridge to Redmane Castle\n<?gdsparam@8512?> - Next to the cemetery west of Caria Manor\n<?gdsparam@8513?> - Northeast of Saintsbridge in Limgrave\n<?gdsparam@8514?> - Within the village consumed by Frenzy in Liurnia\n<?gdsparam@8510?> - On the east side of Castle Morne Town"
 = 8230:"被重新拼在一起的破碎藏宝图。\n上面画有五个标记。\n<?gdsparam@8511?> - 红狮子城，不破大桥前方\n<?gdsparam@8512?> - 卡利亚城寨，西侧墓地附近\n<?gdsparam@8513?> - 宁姆格福，圣人桥东北方\n<?gdsparam@8514?> - 利耶尼亚，癫火村内\n<?gdsparam@8510?> - 摩恩城堡镇，东侧"
 > 8300:"A rune infused with the sacred power of the beasts.\n\nUse to learn several novice level Bestial incantations.\n"

@@ -816,7 +816,7 @@
 > 8138:"Opens a locked door in Fort Faroth."
 = 8138:"用于打开法洛斯要塞上锁的门"
 > 8139:"Opens a gate in Deeproot Depths"
-= 8139:"能打开深根地层的大门"
+= 8139:"能打开深根底层的大门"
 > 8230:"A fragmented map, pieced together\nExamine using <?keyicon@31?>"
 = 8230:"已经拼好的破碎地图\n按下<?keyicon@31?>来查看内容"
 > 8300:"Use to learn several novice level Bestial incantations"
