@@ -1048,7 +1048,7 @@
 > 8620:"Map of Limgrave’s targets of interest"
 = 8620:"宁姆格福目标点的地图"
 > 8621:"Map of Caelid’s targets of interest"
-= 8621:"盖立德目标点的地图"
+= 8621:"盖利德目标点的地图"
 > 8622:"Map of Liurnia’s targets of interest"
 = 8622:"利耶尼亚目标点的地图"
 > 8623:"Map of Altus Plateau’s targets of interest"
