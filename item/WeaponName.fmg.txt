@@ -3239,7 +3239,7 @@
 < 10060000:"Abundance and Decay Twinblade"
 > 10060000:"Caimar's Battlestaff"
 - 10060000:"丰饶与腐败双刃剑"
-= 10060000:"凯玛的战杖"
+= 10060000:"凯玛战杖"
 < 10070000:"Abundance Twinblade"
 > 10070000:"Godwyn's Cragblades"
 = 10070000:"葛德文的岩石剑"

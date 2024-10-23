@@ -359,7 +359,7 @@
 - 80200:"能赋予武器属性、战技的战灰。\n属性为“锋利”，战技如下：\n\n\u3000战技：潜雾猛禽\n\u3000压低身形，瞬间消失身影的战技。\n\u3000受到攻击时能长出猛禽翅膀，\n\u3000瞬间一跃而起。\n\n能在所有的近战武器使用。"
 = 80200:"能赋予武器战技的战灰。\n战技如下：\n\n\u3000战技：潜雾猛禽\n\u3000压低身形，瞬间消失身影的战技。\n\u3000受到攻击时能长出猛禽翅膀，\n\u3000瞬间一跃而起。\n\n能在所有的近战武器使用。"
 > 80300:"This Ash of War grants an armament the following skill:\n\n\"Perform skill to dodge an incoming attack. If an attack is dodged in this way, you will strike out instantly, dealing damage and a large amount of posture damage.\"\n\nUsable on swords and thrusting weapons (spears, polearms, and colossal weapons excepted)."
-= 80300:"能赋予武器战技的战灰。\n战技如下：\n\n战技：刺客佯攻\n发动战技以躲避来袭的攻击。若闪避成功，则会立刻发动反击，造成伤害及剧烈削韧。\n\n可用于剑类和突刺武器。（不含矛类、长柄武器及特大武器）"
+= 80300:"能赋予武器战技的战灰。\n战技如下：\n\n战技：刺客佯攻\n发动战技以躲避来袭的攻击。若闪避成功，则会立刻发动反击，造成伤害及剧烈削韧。\n\n可用于剑类和突刺武器。（不含矛类、长柄武器及特大型武器）"
 > 80400:"This Ash of War grants an armament the following skill:\n\n\"Flame Arc: Imbue the weapon with Messmer's Flame and perform a slash with both hands that is then followed by a large arc of flames. This skill can be followed up with another skill attack.\"\n\nUsable on small and medium swords (daggers excepted), light greatswords, katanas, and axes."
 = 80400:"能赋予武器战技的战灰。\n战技如下：\n\n战技：火焰弧\n将梅瑟墨之火注入武器，随后双手并用发动斩击，并释放出一道巨大的火焰弧。可以衔接发动一次战技。\n\n可用于小型及中型剑类（不含短剑）、轻大剑、太刀类、斧类。"
 < 85000:"This Ash of War grants an armament the Occult affinity and the following skill:\n\n\"White Shadow's Lure: Hold armament in a brief, silent prayer to create a white shadow. The apparition lures in foes of human build who are not in combat, drawing their aggression. Effective on demi-humans even if they are already in a combat state.\"\n\nUsable on all melee armaments."

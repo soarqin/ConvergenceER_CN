@@ -390,7 +390,7 @@
 > 138673:"Volcanist Dist"
 = 138673:"火山术士迪斯特"
 > 138674:"Snuppet, Servant of Rot"
-= 138674:"腐败仆从斯拿佩"
+= 138674:"腐败侍仆斯拿佩"
 > 138675:"Nox Oracle Sadia"
 = 138675:"诺克斯神谕官萨蒂亚"
 > 138676:"Dragon Cultist Seki"
