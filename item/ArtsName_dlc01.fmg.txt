@@ -2,7 +2,7 @@
 = 5200:"光之王的架势"
 < 5240:"White Light Charge"
 > 5240:"Cosmic Burst"
-- 5240:"็白光突袭"
+- 5240:"白光突袭"
 = 5240:"星空爆裂"
 < 5540:"Horn Calling: Storm"
 > 5540:"Tempest Cleave"
