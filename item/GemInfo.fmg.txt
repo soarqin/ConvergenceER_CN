@@ -1,5 +1,4 @@
-
- > 80300:"Grants affinities and skills to an armament"
- = 80300:"能向武器赋予属性、战技"
- > 80400:"Grants affinities and skills to an armament"
- = 80400:"能向武器赋予属性、战技"
+> 80300:"Grants affinities and skills to an armament"
+= 80300:"能向武器赋予属性、战技"
+> 80400:"Grants affinities and skills to an armament"
+= 80400:"能向武器赋予属性、战技"

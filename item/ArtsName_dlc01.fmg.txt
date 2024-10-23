@@ -1,11 +1,10 @@
-
- > 5200:"Lord of Light Stance"
- = 5200:"ๅไน็็ๆถๅฟ"
- < 5240:"White Light Charge"
- > 5240:"Cosmic Burst"
- - 5240:"็ฝๅ็ช่ขญ"
- = 5240:"ๆ็ฉบ็่ฃ"
- < 5540:"Horn Calling: Storm"
- > 5540:"Tempest Cleave"
- - 5540:"่ง้ไธดไน้ฃๆด"
- = 5540:"้ฃๆดๅๅป"
+> 5200:"Lord of Light Stance"
+= 5200:"光之王的架势"
+< 5240:"White Light Charge"
+> 5240:"Cosmic Burst"
+- 5240:"白光突袭"
+= 5240:"宇宙暴"
+< 5540:"Horn Calling: Storm"
+> 5540:"Tempest Cleave"
+- 5540:"角降临之风暴"
+= 5540:"风暴劈击"

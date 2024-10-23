@@ -1,5 +1,6 @@
-
- > 6800:"Inflicts soul burn"
- = 6800:"造成灵魂燃烧"
- > 6801:"Inflicts immolation"
- = 6801:"造成燔祭"
+> 1013:"Boosts potency of fire spells"
+= 1013:"能提升火属性法术的威力"
+> 6800:"Inflicts soul burn"
+= 6800:"造成灵魂燃烧"
+> 6801:"Inflicts immolation"
+= 6801:"造成燔祭"

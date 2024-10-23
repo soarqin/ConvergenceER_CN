@@ -1,5 +1,4 @@
-
- < 236202:"Acquire <?itemName?> in exchange for remembrance"
- > 236202:"Acquire <?itemName?> in exchange for remnant"
- - 236202:"将用追忆交换<?itemName?>。"
- = 236202:"将用遗物交换<?itemName?>。"
+< 236202:"Acquire <?itemName?> in exchange for remembrance"
+> 236202:"Acquire <?itemName?> in exchange for remnant"
+- 236202:"将用追忆交换<?itemName?>。"
+= 236202:"将用遗物交换<?itemName?>。"

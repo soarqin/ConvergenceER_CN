@@ -1,5 +1,6 @@
-
- < 280004:"Please check your settings. Keys bound to dedicated menu functionality cannot be used."
- > 280004:"Please check your settings. Keys with dedicated menu functionality cannot be bound to other functions."
- - 280004:"部分配置与选单的操作配置重复，请再次确认。"
- = 280004:"部分配置与选单的操作配置重复，请再次确认。"
+> 401131:"Shadow of the Erdtree"
+= 401131:"黄金树幽影"
+< 280004:"Please check your settings. Keys bound to dedicated menu functionality cannot be used."
+> 280004:"Please check your settings. Keys with dedicated menu functionality cannot be bound to other functions."
+- 280004:"部分配置与选单的操作配置重复，请再次确认。"
+= 280004:"部分配置与选单的操作配置重复，请再次确认。"

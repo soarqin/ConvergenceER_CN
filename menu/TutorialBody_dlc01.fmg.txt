@@ -1,5 +1,4 @@
-
- < 402610:"Consume Revered Spirit Ash to bolster your Revered Spirit Ash Blessing.\n\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow."
- > 402610:"Consume Revered Spirit Ash to bolster your Revered Spirit Ash Blessing.\n\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow"
- - 402610:"消耗灵灰，能加强“灵灰庇佑”。\n\n接受“灵灰庇佑”\n能强化受召唤灵魂与灵马的攻击力与减伤率，\n但有效范围仅限于幽影之地。"
- = 402610:"消耗灵灰，能加强“灵灰庇佑”。\n\n接受“灵灰庇佑”\n能强化受召唤灵魂与灵马的攻击力与减伤率，\n但有效范围仅限于幽影之地。"
+< 402610:"Consume Revered Spirit Ash to bolster your Revered Spirit Ash Blessing.\n\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow."
+> 402610:"Consume Revered Spirit Ash to bolster your Revered Spirit Ash Blessing.\n\nThe Revered Spirit Ash Blessing bolsters both summoned spirits' and spectral steed's abilities to deal and negate damage but has no influence outside the realm of shadow"
+- 402610:"消耗灵灰，能加强“灵灰庇佑”。\n\n接受“灵灰庇佑”\n能强化受召唤灵魂与灵马的攻击力与减伤率，\n但有效范围仅限于幽影之地。"
+= 402610:"消耗灵灰，能加强“灵灰庇佑”。\n\n接受“灵灰庇佑”\n能强化受召唤灵魂与灵马的攻击力与减伤率，\n但有效范围仅限于幽影之地。"

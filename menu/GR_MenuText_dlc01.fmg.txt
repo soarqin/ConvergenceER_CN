@@ -1,5 +1,4 @@
-
- > 63063:"Usable on swords and thrusting weapons (spears, polearms, and colossal weapons excepted)"
- = 63063:"能够用于剑类和穿刺武器（不含矛类、长柄武器及特大武器）"
- > 241355:"Dragonkin Dungeon"
- = 241355:"龙人监牢"
+> 63063:"Usable on swords and thrusting weapons (spears, polearms, and colossal weapons excepted)"
+= 63063:"能够用于剑类和穿刺武器（矛类、长柄武器及特大武器除外）"
+> 241355:"Dragonkin Dungeon"
+= 241355:"龙人监牢"

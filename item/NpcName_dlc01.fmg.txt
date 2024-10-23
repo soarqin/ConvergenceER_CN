@@ -1,5 +1,0 @@
-
- < 900000563:"Knight of the Solitary Gaol"
- > 900000563:"Night of  the Solitary Gaol"
- - 900000563:"ๅญค็ข้ชๅฃซ"
- = 900000563:"ๅญค็ข้ชๅฃซ"
