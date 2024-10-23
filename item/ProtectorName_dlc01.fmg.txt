@@ -1,7 +1,6 @@
-> 5340000:"Midra's Gaze"
-= 5340000:"米德拉的凝视"
-
 > 5252200:"Divine Beast Gauntlets"
 = 5252200:"神兽战士臂甲"
 > 5252300:"Divine Beast Greaves"
 = 5252300:"神兽战士腿甲"
+> 5340000:"Midra's Gaze"
+= 5340000:"米德拉的凝视"

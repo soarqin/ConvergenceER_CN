@@ -1,4 +1,3 @@
-
 < 200000:"This Ash of War grants no affinity to an armament, but imparts the following skill:\n\n\"Dryleaf Whirlwind: This skill represents the pinnacle of Dane's footwork-based martial artistry. Rise into the air with a series of spinning kicks before crashing down with one final strike. Imbues kicking attacks with energy, increasing their range.\"\n\nUsable on hand-to-hand weapons."
 > 200000:"This Ash of War grants an armament the following skill:\n\n\"Dryleaf Whirlwind: This skill represents the pinnacle of Dane's footwork-based martial artistry. Rise into the air with a series of spinning kicks before crashing down with one final strike. Imbues kicking attacks with energy, increasing their range.\"\n\nUsable on hand-to-hand weapons."
 - 200000:"能赋予武器属性、战技的战灰。\n没有能赋予的属性，战技如下：\n\n\u3000战技：落叶旋风脚\n\u3000丹恩流踢击术的奥义。\n\u3000连续回旋踢的同时身体上浮，最后下踢的战技。\n\u3000踢击会缠绕气，因此攻击范围较广。\n\n能在格斗术类武器使用。"
