@@ -20,6 +20,7 @@
   + 1.2的大量翻译修正以及1.3绝大多数词条的翻译，没有他大家不可能快玩到这个完整的翻译版本
   + 1.4.2之后提供了大量翻译问题的修正
   + 2.0.1之后的部分文本修正和大量翻译用词统一工作
+  + 2.1.0的全部翻译工作
 
 ## 鸣谢
 * [Convergence MOD for Elden Ring](https://www.nexusmods.com/eldenring/mods/3419): 原MOD
