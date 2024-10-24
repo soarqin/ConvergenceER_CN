@@ -1,5 +1,3 @@
-> 50250000:"Animal bone arrow, gust knocks enemies away"
-= 50250000:"用阵风击退敌人的兽骨箭"
 > 50360000:"Fletched bone arrow with maddening tincture tip"
 = 50360000:"在箭头涂上发狂药膏的兽骨羽毛箭"
 > 50370000:"Animal bone arrow with maddening tincture tip"
