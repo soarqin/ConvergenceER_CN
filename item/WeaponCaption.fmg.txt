@@ -260,7 +260,7 @@
 < 2200000:"Sword forged by servants of Miquella of the Haligtree, with a design modeled after those carried by Carian knights. Instead of glintstone however, amber from the Haligtree is embedded in the blade.\n\nA sumptuous piece, yet it has never been offered to any knight—an ill-starred sword with no master."
 > 2200000:"Sword forged by the giant smiths of the ancient world, with a design modeled for use by their more diminutive neighbors; the astrologers. Instead of glintstone however, red coals from the fell forge are embedded in the blade."
 - 2200000:"侍奉“圣树”米凯拉的人们，\n参考卡利亚骑士剑制成的武器。\n改以圣树琥珀嵌入原本辉石的位置。\n\n造型奢华的剑不曾赐予骑士，\n为无主的怀才不遇之剑。"
-= 2200000:"由古代世界的巨人铁匠锻造的剑，为体型较小的邻居——占星者使用而设计。剑身中嵌入的不是辉石，是来自失落大锅的红色余烬。"
+= 2200000:"由古代世界的巨人铁匠锻造的剑，为体型较小的邻居——占星者使用而设计。剑身中嵌入的不是辉石，是来自恶焰大锅的红色余烬。"
 > 2211300:"Beloved sword of an aged knight whose last quest was long behind him, repurposed into a walking stick. The tip is rather worn.\n\nThough bent of back and without the brawn required even to raise the sword aloft, still he wished to meet his end with weapon in hand."
 = 2211300:"退居幕后的年迈骑士\n将常用的剑改装成手杖的物品。\n剑尖部分有些磨损。\n\n身形驼背，连手臂也抬不高，\n还是想和剑共存亡。"
 > 2211400:"Beloved sword of an aged knight whose last quest was long behind him, repurposed into a walking stick. The tip is rather worn.\n\nThough bent of back and without the brawn required even to raise the sword aloft, still he wished to meet his end with weapon in hand."
