@@ -117,7 +117,7 @@
 > 904810656:"Colossal Finger Creeper"
 = 904810656:"巨大指虫"
 > 904810657:"Blighted Omen"
-= 904810657:"凋亡的恶兆之子"
+= 904810657:"咒死的恶兆之子"
 > 904810658:"Vulgar Militia Chief"
 = 904810658:"恶兵首领"
 > 904810659:"Grand Flame Prelate"

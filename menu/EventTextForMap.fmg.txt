@@ -19,7 +19,7 @@
 > 4019:"Elden Ring The Convergence cannot be played without the Shadow of the Erdtree installed.\nYou will have to (buy and) install it before proceeding."
 = 4019:"未安装黄金树幽影，无法游玩 Convergence Mod。\n购买并安装该 DLC 后，才可以运行本 Mod。"
 > 4020:"Vanilla/Non-Convergence Character detected.\nYour game experience is likely to be unstable.\nIt is recommended to create a new character."
-= 4020:"检测到普通游戏/非 Convergence Mod 角色。\n您可能无法获得稳定的游戏体验。\n建议创建新角色。"
+= 4020:"检测到普通游戏／非 Convergence Mod 角色。\n您可能无法获得稳定的游戏体验。\n建议创建新角色。"
 > 4021:"Outdated Convergence Character detected.\nYour game experience is likely to be unstable.\nIt is recommended to create a new character or start New Game+."
 = 4021:"检测到过时的 Convergence Mod 角色。\n您可能无法获得稳定的游戏体验。\n建议创建新角色，或开启新周目。"
 > 4201:"Seek my twin"
