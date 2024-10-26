@@ -5,7 +5,7 @@
 > 2006:"Pet"
 = 2006:"抚摸"
 > 2007:"Activate"
-= 2007:"激活"
+= 2007:"启用"
 > 2008:"Change Painting"
 = 2008:"变更画作"
 > 2015:"Exchange Golden Seeds"

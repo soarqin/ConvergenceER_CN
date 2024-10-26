@@ -2071,7 +2071,7 @@
 = 19040000:"专为战场铸造的笨重大镰刀。由于在战斗中反复使用，刀刃已经变钝；此外还非常沉重，可以在攻击敌人时造成更严重的打击。"
 < 19050000:"Scythe used both for collecting\nand offering up the dead.\nThe blade itself seems to be\na tortured, maddened thing."
 > 19050000:"Legend tells that this scythe was wielded by Rosus himself. As sometime guide for the dead, he also called upon them in times of need. \nThe blade now carries the sinister taint of deathblight, a portent for what awaits all who hope for peaceful repose.\n"
-= 19050000:"传说这把镰刀是罗泽司本人所使。作为死者的向导，他有时也会在需要的时候召唤他们。\n如今剑刃携带着凋亡的邪恶诅咒，这是所有冀望平静长眠的死者们的凶兆。"
+= 19050000:"传说这把镰刀是罗泽司本人所使。作为死者的向导，他有时也会在需要的时候召唤他们。\n如今剑刃携带着咒死的邪恶诅咒，这是所有冀望平静长眠的死者们的凶兆。"
 > 19070000:"A triple-bladed scythe infused with Scarlet Rot.\n\nOnce used by a fallen combatant of the festival, the blades have become a part of the now rotten landscape of Caelid."
 = 19070000:"注入了猩红腐败力量的三刃镰刀。\n\n在战斗祭典中阵亡的战士曾挥舞这把武器，而今它已成为盖利德的腐败景观的一部分。"
 > 20001300:"A leather whip. Not originally used for combat, but as an instrument of pain.\n\nThough its supple attacks cannot be thwarted by parrying or even guarding, it is incapable of dealing critical hits."
