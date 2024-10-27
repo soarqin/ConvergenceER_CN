@@ -75,7 +75,7 @@
 > 297141:"Born in the ruins of a fallen empire, this mage\nemploys the frozen lightning of the dragonkin.\nFocus: INT - Lightning Damage"
 = 297141:"在陨落帝国的废墟中出生的魔法师，\n会使用龙人的冰雷力量。\n专精：智力 - 雷属性伤害"
 > 297142:"Persecuted for apocalyptic visions, this \npriest now calls the power of the flame.\nFocus: FTH - Fire Damage"
-= 297142:"因末日的幻象而糟迫害的圣职者，\n现在会呼唤火焰的力量。\n专精：信仰 - 火属性伤害"
+= 297142:"因末日的幻象而遭迫害的圣职者，\n现在会呼唤火焰的力量。\n专精：信仰 - 火属性伤害"
 > 297143:"Defender of the Golden Order, this\npriest remains devoted to the Erdtree.\nFocus: FTH - Holy Damage"
 = 297143:"拱卫黄金律法的圣职者，\n仍然维持着对黄金树的忠诚。\n专精：信仰 - 圣属性伤害"
 > 297144:"Wild and unkempt, this monk is capable\nof conjuring and manipulating stone.\nFocus: FTH - Physical Damage"
