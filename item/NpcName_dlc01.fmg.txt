@@ -1,4 +1,4 @@
 < 900000563:"Knight of the Solitary Gaol"
-> 900000563:"Night of  the Solitary Gaol"
+> 900000563:"Knight of  the Solitary Gaol"
 - 900000563:"孤牢骑士"
 = 900000563:"孤牢骑士"

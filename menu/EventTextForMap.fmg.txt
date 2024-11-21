@@ -22,6 +22,8 @@
 = 4020:"检测到普通游戏／非 Convergence Mod 角色。\n您可能无法获得稳定的游戏体验。\n建议创建新角色。"
 > 4021:"Outdated Convergence Character detected.\nYour game experience is likely to be unstable.\nIt is recommended to create a new character or start New Game+."
 = 4021:"检测到过时的 Convergence Mod 角色。\n您可能无法获得稳定的游戏体验。\n建议创建新角色，或开启新周目。"
+> 4022:"This rune has no spells yet.\nThese will be added in a future update of Convergence."
+= 4022:"该卢恩没有任何法术。\n将在Convergence Mod的未来更新中添加。"
 > 4201:"Seek my twin"
 = 4201:"寻找我的孪生亲人"
 > 4205:"The path of the Fundamentalist is now open"

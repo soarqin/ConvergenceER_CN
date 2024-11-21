@@ -68,6 +68,8 @@
 = 4120:"亵渎者徽章"
 > 4130:"Sigil of Freedom"
 = 4130:"自由印记"
+> 4140:"Quiver Talisman"
+= 4140:"箭袋护符"
 < 5010:"Cerulean Seed Talisman"
 > 5010:"Blessed Blue Dew Talisman"
 - 5010:"蓝种子护符"
