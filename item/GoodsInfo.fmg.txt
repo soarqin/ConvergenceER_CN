@@ -479,7 +479,7 @@
 > 6190:"Creates a stream of fire to burn the area before the caster"
 = 6190:"在施法者面前制造一股焰流灼烧该区域"
 > 6191:"An incantation of Messmer's Fire Knights.\n\nCreates a stream of fire serpents that seek out and burn enemies before the caster. This incantation can be cast while in motion. Hold to maintain the effect.\nImmolation: deals additional continuous fire damage to the target over 3 seconds.\n\nAn homage to their master's own power, the Fire Knights are as warrior-priests in the service of Messmer, seeing their role not only as loyal retainers but also champions of his sacred cause."
-= 6191:"制造一股火蛇喷流，追踪并灼烧面前的敌人。"
+= 6191:"制造一股蛇炎喷流，追踪并灼烧面前的敌人。"
 > 6200:"Quickly fling a small wisp of black flame at enemies"
 = 6200:"快速向敌人发射一缕黑焰"
 > 6201:"Momentarily produces a large burst of black flame from the caster's hand"
