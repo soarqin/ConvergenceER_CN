@@ -168,6 +168,8 @@
 = 4120:"能免疫熔岩环境伤害"
 > 4130:"Negates slowing effects and increases movement speed"
 = 4130:"无视减速效果，并提升移动速度"
+> 4140:"Allows the wearer to not consume ammunition when using a bow or crossbow"
+= 4140:"能在使用弓箭或弩箭时不消耗弹药"
 < 5010:"Boosts FP restoration from Flask of Cerulean Tears"
 > 5010:"Grants 1 FP recovery per second."
 - 5010:"能提升蓝露滴圣杯瓶的恢复量"

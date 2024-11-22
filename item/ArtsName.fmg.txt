@@ -214,3 +214,5 @@
 = 1202:"星空架势"
 > 1203:"Spiritshaper's Resplendence"
 = 1203:"塑灵者的辉煌"
+> 1204:"Rotten Slam"
+= 1204:"腐败震击"

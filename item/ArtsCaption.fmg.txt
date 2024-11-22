@@ -230,3 +230,5 @@
 = 1202:"专用战技：星空架势\n\n举起剑与地面平行，准备释放引力的能量。\n衔接轻攻击能将魔力化为“引力波”释放；\n衔接重攻击能用爆裂的重力星云横扫前方。"
 > 1203:"Unique Skill: Spiritshaper's Resplendence\n\nPerform an acrobatic forward assault that can be followed up with another skill attack to perform a leaping downward strike, this attack and the inital attack can be followed up with a heavy attack to perform a forward lunging slide. The initial skill input can be charged.\n\n"
 = 1203:"专用战技：塑灵者的辉煌\n\n初次发动战技：向前发动一次灵巧的攻击。衔接发动战技：会使出跳跃下砸。无论是否是衔接发动战技，都可以继续衔接重攻击，向前使出滑步刺击。初次发动战技时，还可以进行蓄力。"
+> 1204:"Unique Skill: Rotten Slam\n\nJump up high into the air and crash down on the ground ahead. The resulting pratfall sends rotten waves in all directions.\nThis is the most powerful of all the Ground Slam skills."
+= 1204:"专用战技：腐败震击\n\n轻盈前跳，并顺势用臀部用力向下砸落的战技。能引发剧烈的冲击波。\n这是所有坠落震击技能中最强大的一种。"
