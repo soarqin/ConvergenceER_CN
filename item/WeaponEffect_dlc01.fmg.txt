@@ -1,7 +1,3 @@
-< 1201:"Boosts golden ring of light incantations"
-> 1201:"Boosts Miquella's incantations"
-- 1201:"能强化黄金光环的祷告"
-= 1201:"能强化米凯拉的祷告"
 < 6800:"Causes eternal sleep buildup (<?sleepATKpwr?>)"
 > 6800:"Inflicts soul burn"
 - 6800:"累积永眠量表（<?sleepATKpwr?>）"

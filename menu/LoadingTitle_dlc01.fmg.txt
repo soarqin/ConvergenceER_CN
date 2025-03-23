@@ -1,0 +1,8 @@
+< 205:"Keeping Track of New Items"
+> 205:"Vanilla: Keeping Track of New Items"
+- 205:"初次获得的道具"
+= 205:"原版：初次获得的道具"
+< 206:"Keeping Track of Recent Items"
+> 206:"Vanilla: Keeping Track of Recent Items"
+- 206:"最近获得的道具"
+= 206:"原版：最近获得的道具"

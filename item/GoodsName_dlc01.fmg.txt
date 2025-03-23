@@ -1,3 +1,7 @@
+< 2000300:"Hefty Fire Pot"
+> 2000300:"Hefty Fire Pot"
+- 2000300:"大火焰壶"
+= 2000300:"大火焰壶"
 < 2004310:"Glintblade Trio"
 > 2004310:"Cragbolt Trio"
 - 2004310:"魔法三辉剑"

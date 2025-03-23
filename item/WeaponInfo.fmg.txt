@@ -1,3 +1,5 @@
+> 1200000:"A pair of long twin daggers imbued with the once golden lightning of Godwyn, now tainted with Deathblight.\n\nThese weapons are capable of releasing corrupted shards of lightning as projectiles. This innovation may have been employed to mirror the spread of Godwyn's corruption across the Land Between."
+= 1200000:"一对长型双匕首，注入了葛德温曾经的金色雷电，如今已被死咒污染。\n\n这些武器能够释放被腐蚀的雷电碎片作为投射物。这种创新可能是为了映射葛德温的腐化在交界地的蔓延。"
 > 50360000:"Fletched bone arrow with maddening tincture tip"
 = 50360000:"在箭头涂上发狂药膏的兽骨羽毛箭"
 > 50370000:"Animal bone arrow with maddening tincture tip"

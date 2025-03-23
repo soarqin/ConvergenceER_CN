@@ -82,7 +82,3 @@
 > 6000:"Thief's Bauble"
 - 6000:"克雷普的小瓶子"
 = 6000:"盗贼的饰品"
-< 6100:"[ERROR]Entwining Umbilical Cord"
-> 6100:"Entwining Umbilical Cord"
-- 6100:"[ERROR]纠缠脐带"
-= 6100:"纠缠脐带"
