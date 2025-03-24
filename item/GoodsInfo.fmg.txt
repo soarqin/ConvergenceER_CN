@@ -34,7 +34,7 @@
 > 196:"Increases total HP by 10% and adds HP on hit"
 - 196:"受到损伤的当下，能透过攻击恢复部分血量"
 = 196:"提升10%血量上限并在击中时回复血量"
-> 1250:"A glowing diffusion of scared tears, used to ward off death"
+> 1250:"A glowing diffusion of sacred tears, used to ward off death"
 = 1250:"散发神圣泪滴光芒的物品，用于抵御死亡"
 > 1295:"Restores HP, FP, Stamina and the Flask of Wondrous Physick"
 = 1295:"恢复生命值、集中值、精力值和灵药圣杯瓶"

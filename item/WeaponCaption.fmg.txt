@@ -224,6 +224,8 @@
 = 1170000:"曾用于刺客阶层的仪式\n已陨落的诺克斯帝国的短刀。\n\n这把武器能提升10%黑夜魔法攻击力。"
 > 1180000:"A fragment of one of the branches of the rune of death, made manifest. This blade acts as a source of the terrible blight that now plagues the Lands Between.\n\nCan be paired with a Spirit Sword in the right hand."
 = 1180000:"死亡卢恩的一个分支碎片的具象化。这把武器是在交界地传播可怕咒死的根源。\n\n可在右手装备灵魂剑，与之搭配使用。"
+> 1200000:"A pair of long twin daggers imbued with the once golden lightning of Godwyn, now tainted with Deathblight.\n\nThese weapons are capable of releasing corrupted shards of lightning as projectiles. This innovation may have been employed to mirror the spread of Godwyn's corruption across the Land Between."
+= 1200000:"一对长型双匕首，注入了葛德温曾经的金色雷电，如今已被死咒污染。\n\n这些武器能够释放被腐蚀的雷电碎片作为投射物。这种创新可能是为了模仿葛德温的腐败在交界地的蔓延。"
 > 2001300:"A straight sword with a double-edged blade.\n\nIn addition to its reliable standard damage, this weapon also boasts powerful piercing attacks. A superbly balanced armament.\n"
 = 2001300:"具有笔直剑身的双刃直剑。\n\n能使出通用性高的普通属性攻击，\n也能使出攻击力高的突刺属性攻击，\n是平衡性极佳的武器。"
 > 2001400:"A straight sword with a double-edged blade.\n\nIn addition to its reliable standard damage, this weapon also boasts powerful piercing attacks. A superbly balanced armament.\n"
