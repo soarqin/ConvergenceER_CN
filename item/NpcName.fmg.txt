@@ -46,6 +46,8 @@
 = 138686:"黄金律法斯奎拉"
 > 160110:"Erdtree Transporter"
 = 160110:"黄金树传送门"
+> 170000:"Selwyn the Owl"
+= 170000:"猫头鹰塞尔温"
 < 180102:"Nomadic Merchant"
 > 180102:"Woodsman Merchant"
 - 180102:"流浪民族的商人"
