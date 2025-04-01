@@ -397,7 +397,7 @@
 > 60520000:"A technique in the style of the Dryleaf Arts but mouldering with undeath and the rancorous spirits of necromancy.\n\nPerhaps a result of the meddling of putrescent sorcerers, many such oddities are hidden in the dark places of the Land of Shadows."
 = 60520000:"与落叶流相近，却与死灵术的咒魂和不死为伍，因而迈入腐朽的技艺。\n\n或许这正是墓地魔法师干预的结果。在幽影之地的暗处，还隐藏着许多类似的异物。"
 > 60530000:"A technique for hand-to-hand combat without the aid of a weapon. This martial art focuses on kicking techniques.\n\nAn ornament of the oathsworn Nox assassins, assisting them greatly to travel unseen. "
-= 60530000:"徒手而战的其中一种格斗术。\n以踢击为主的武术。\n\n誓约者诺克斯刺客们的装饰品，\n能大幅协助他们潜行。"
+= 60530000:"徒手而战的其中一种格斗术。\n以踢击为主的武术。\n\n立下誓约的诺克斯刺客们的装饰品，\n能大幅协助他们潜行。"
 > 60540000:"A technique for hand-to-hand combat without the aid of a weapon. This martial art combines fist strikes and kicks.\n\nA golden ring worn around the arm of certain berserker clans to symbolize a connection with their animalistic nature. "
 = 60540000:"徒手而战的其中一种格斗术。\n掌底打击搭配踢击的武术。\n\n某些狂战士部族佩戴在手臂上的金环，\n象征他们与兽性本源的连结。"
 > 62501300:"A \"thrusting shield,\" or combined weapon and shield.\nEnables the wielder to attack and guard simultaneously.\n\nAn armament once used in ritual combat performed to honor the Erdtree—a custom that had somehow remained within the realm of shadow."
