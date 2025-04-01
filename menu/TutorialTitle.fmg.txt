@@ -121,7 +121,7 @@
 > 403350:"Frost Witch: Frostbite Shatter"
 = 403350:"冰霜巫师：冻伤碎裂"
 > 403360:"Flame Prophet: Immolation"
-= 403360:"火焰预言家：献祭"
+= 403360:"火焰预言家：燔祭"
 > 403370:"Bestial Devout: Rend and Concussion"
 = 403370:"野兽虔敬者：撕裂与震荡"
 > 403371:"Bestial Devout: Rend and Concussion II"

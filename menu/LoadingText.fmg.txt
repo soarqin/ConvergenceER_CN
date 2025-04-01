@@ -85,7 +85,7 @@
 > 228:"You can eat Glass Shards for... questionable purposes."
 = 228:"你可以食用玻璃碎片……目的不明。"
 > 229:"Ammunition that deals holy damage will pacify the undead,\npreventing them from resurrecting once defeated."
-= 229:"造成神圣伤害的矢弹会净化不死生物，\n打倒后不会复活。"
+= 229:"造成圣属性伤害的矢弹会净化不死生物，\n打倒后不会复活。"
 > 230:"Dying during the night will no longer transition the time back to morning."
 = 230:"在夜晚死亡不再会将时间转回早晨。"
 > 231:"If you seek to travel to the corners of Liurnia, you can access a host of\nwaygates through the Lucarian Nexus, found east of the Academy of Raya Lucaria."
