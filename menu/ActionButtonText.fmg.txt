@@ -95,7 +95,7 @@
 > 10360:"Frost Witch: Frostbite Shatter"
 = 10360:"冰霜巫师：冻伤碎裂"
 > 10370:"Flame Prophet: Immolation"
-= 10370:"火焰预言家：献祭"
+= 10370:"火焰预言家：燔祭"
 > 10380:"Bestial Devout: Rend and Concussion"
 = 10380:"野兽虔敬者：撕裂与震荡"
 > 10390:"Dragon Cultist: Current"

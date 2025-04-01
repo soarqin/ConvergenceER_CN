@@ -971,7 +971,7 @@
 > 500022:"Cerulean Coast - Cerulean Bluffs"
 = 500022:"青蓝海岸 - 青蓝断崖"
 > 500023:"Scadu View - Shaman Village"
-= 500023:"幽影树瞭望处 - 巫者村"
+= 500023:"幽影树观景地 - 巫者村"
 > 500024:"Scadu Altus - Minor Erdtree Cave"
 = 500024:"幽影亚坛 - 小黄金树洞窟"
 > 500025:"Ancient Ruins of Rauh - Rauh Steppes"

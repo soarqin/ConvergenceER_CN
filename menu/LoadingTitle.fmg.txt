@@ -229,7 +229,7 @@
 > 228:"Convergence: Glass Shards"
 = 228:"Convergence：玻璃碎片"
 > 229:"Convergence: Holy Ammunition"
-= 229:"Convergence：神圣矢弹"
+= 229:"Convergence：圣属性矢弹"
 > 230:"Convergence: Persistent Night"
 = 230:"Convergence：永恒之夜"
 > 231:"Convergence: Lucarian Nexus"
