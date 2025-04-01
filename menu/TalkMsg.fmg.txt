@@ -50,7 +50,7 @@
 - 20860100:" "
 = 20860100:" "
 > 90000000:"Welcome to the Sanctuary of Lost Knowledge, Tarnished."
-= 90000000:"欢迎来到失智圣所，褪色者。"
+= 90000000:"欢迎来到失落知识圣所，褪色者。"
 > 90000100:"Here you can find knowledge of many topics once lost."
 = 90000100:"在这里你可以找到许多曾经失落的学识。"
 > 90000200:"Feel free to look around."
