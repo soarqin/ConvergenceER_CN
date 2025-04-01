@@ -182,3 +182,7 @@
 > 5050:"Critical hits restore HP and FP"
 - 5050:"使出致命一击能恢复血量"
 = 5050:"使出致命一击能恢复血量和专注值"
+< 6000:"Eliminates all sound made by the wearer during movement"
+> 6000:"Gives various abilities suited for a thief"
+- 6000:"能完全去除自己发出的声响"
+= 6000:"赋予各种适合盗贼的能力"
