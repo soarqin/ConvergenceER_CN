@@ -2386,7 +2386,7 @@
 > 31080000:"Emblazoned with a yellow scorpion, an homage to the mysterious Sealed God.\n\nThis shield increases the damage of Servants of Rot incantations by 10%."
 > 31080000:"Emblazoned with a yellow scorpion, a warning of surprise attacks and sudden strikes.\n\nThis shield increases the damage of Servants of Rot incantations by 10%."
 - 31080000:"标准规格的金属制中盾。\n坚固又稳定性高的武器。\n\n盾面绘有黄色蝎子的徽章，\n此为受到奇特手段偷袭的警告。"
-= 31080000:"盾面绘有黄色蝎子的徽章，作为突袭和突然攻击的警告。\n\n提升10%腐败祷告攻击力。"
+= 31080000:"盾面绘有黄色蝎子的徽章，\n此为受到奇特手段偷袭的警告。\n\n提升10%腐败祷告攻击力。"
 < 31130000:"On the larger side for a medium-sized shield, the face has been covered in brass.\n\nCommonly employed in the Shattering."
 > 31130000:"On the larger side for a medium-sized shield, the face has been covered in brass.\n\nReduces the FP cost of incantations by 5%.\n\nThis shield became an unofficial crest of the warriors of the golden order."
 - 31130000:"盾面覆满黄铜的盾。\n在中盾类武器中，体积偏大。\n\n在破碎战争中常被选用的盾牌。"
