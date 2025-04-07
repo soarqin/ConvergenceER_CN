@@ -79,7 +79,7 @@
 > 10280:"Removed Stonesword Keys"
 = 10280:"移除石剑钥匙"
 > 10290:"FP Regeneration"
-= 10290:"FP回复"
+= 10290:"专注值回复"
 > 10300:"Boss Resurrection"
 = 10300:"复活Boss"
 > 10310:"Alternative Mounts"
