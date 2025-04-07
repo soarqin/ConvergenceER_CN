@@ -43,7 +43,7 @@
 > 403021:"Crystal tear crafting remnants tend to be found near the base of minor Erdtrees, while talisman remnants can be found nearly everywhere.\n\nRare crafting remnants called Relic Remnants can be used for crafting powerful talismans, and are only obtained after defeating powerful foes that guard Keystones of the Forge."
 = 403021:"结晶露滴精炼遗物通常在小黄金树底部附近找到，而护符遗物几乎随处可见。\n\n被称为圣遗物的稀有精炼遗物可以用来制作强大的护符，只有在击败守护熔炉钥石的强大敌人后才能获得。"
 > 403030:"All armor provides passive bonuses while worn such as stat and damage increases.\n\nCertain armors will provide additional abilities that can be activated in various ways, i.e. using a Flask of Crimson Tears or using a consumable while the armor is equipped."
-= 403030:"所有防具在穿戴时都会提供被动补正，如属性提升和伤害增加。\n\n某些防具会提供额外的能力，可以通过各种方式激活，例如使用红露滴圣杯瓶或在装备防具时使用消耗品。"
+= 403030:"所有防具在穿戴时都会提供被动加成，如属性提升和伤害增加。\n\n某些防具会提供额外的能力，可以通过各种方式激活，例如使用红露滴圣杯瓶或在装备防具时使用消耗品。"
 > 403031:"These armor abilities always come with preconditions that will have to be met in advance.\n\nIf not met, then the armor abilities will not function.\n\nThese preconditions and ability details can be found in the extended item descriptions of the armor pieces.\n\nPress <?keyicon@31?> to read the extended description while in the Inventory menu."
 = 403031:"这些防具能力总是带有必须事先满足的先决条件。\n\n如果不满足，防具能力将无法发挥作用。\n\n这些先决条件和能力细节可以在防具物品的扩展描述中找到。\n\n在物品栏菜单中按<?keyicon@31?>可以阅读扩展描述。"
 > 403032:"Armor abilities are not compatible with spells that enhance your abilities.\n\nIf you have any spell enchantments active and attempt to activate an armor ability, all spell enchantments will be removed."
