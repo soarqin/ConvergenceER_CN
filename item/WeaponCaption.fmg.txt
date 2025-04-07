@@ -2343,7 +2343,7 @@
 > 23122100:"A great halberd of black stone crafted by a civilization now gone to ruin. Wielded by the Guardian Golem."
 = 23122100:"透过古遗迹文明的技术制成的黑石大戟。\n魔像守卫持有的武器。"
 > 23160000:"A sharpened rock perilously taken from the depths of Mt. Gelmir, infused with the fiery spirit of the mountain. The stone draws the molten flames to itself when wielded in battle."
-= 23160000:"冒着危险从格密尔火山深处取出的锐利石块，被注入了来自火山的炽热精髓。在战斗中挥舞时，这块大石能牵动熔火。"
+= 23160000:"冒着危险从格密尔火山深处取出的锐利石块，注入了来自火山的暴躁精魄。在战斗中挥舞时，这块大石能牵动熔火。"
 < 24020000:"Torch wound with metal wire. The flame can illuminate dark locales, or be used to attack enemies.\n\nHeavier than a normal torch, but the heated filament boosts fire damage dealt."
 > 24020000:"Torch wound with metal wire. The flame can illuminate dark locales, or be used to attack enemies.\n\nHeavier than a normal torch, but the heated filament emits great heat."
 - 24020000:"以钢丝编成的火把。\n能用来照亮暗处，也能用火攻击敌人。\n\n比一般的火把重量更重。\n加热后的钢丝能提升火焰的攻击力。"
