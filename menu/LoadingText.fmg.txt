@@ -73,7 +73,7 @@
 > 222:"Offensive spells of the Flame Prophet will inflict Immolation upon enemies.\nCharacters afflicted with Immolation will suffer continuous damage for a short duration.\n\nImmolation damage can be enhanced by gaining more faith."
 = 222:"火焰预言家的攻击性法术会对敌人造成“燔祭”。\n受到“燔祭”的角色会在短时间内持续受到伤害。\n\n通过提升信仰，可以增强燔祭伤害。"
 > 223:"Offensive spells of the Godskin Celebrant will inflict enemies with Soul Burn or Soul Annihilation.\nCharacters inflicted with Soul Burn or Soul Annihilation will suffer continuous damage relative to the character's maximum HP.\n\nSoul Annihilation will also inflict characters with Destined Death, lowering maximum health for a short time."
-= 223:"神皮庆典司仪的攻击性法术会对敌人造成“灵魂燃烧”或“灵魂湮灭”。\n受到“灵魂燃烧”或“灵魂湮灭”的角色会持续受到伤害，伤害会依照角色的生命值上限的比例。\n\n“灵魂湮灭”还会对角色附加命定之死，短时间内降低生命值上限。"
+= 223:"神皮庆典司仪的攻击性法术会对敌人造成“灵魂燃烧”或“灵魂湮灭”。\n受到“灵魂燃烧”或“灵魂湮灭”的角色，会根据生命值上限，按比例受到伤害。\n\n“灵魂湮灭”还会对角色附加命定之死，短时间内降低生命值上限。"
 > 224:"Offensive spells of the Frost Witch can Shatter to deal greatly increased damage to characters that suffer frostbite.\nFrost Witch spells that Shatter will not build frostbite."
 = 224:"冰霜巫师的攻击性法术能造成“碎裂”，对冻伤的角色造成大量伤害。\n能造成“碎裂”的冰霜巫师法术不会累积冻伤。"
 > 225:"Offensive spells of the Nox Oracle can inflict enemies with Quicksilver poisoning.\nCharacters with Quicksilver poisoning will take continuous damage relative to maximum health for a short time."
