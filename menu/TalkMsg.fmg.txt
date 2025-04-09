@@ -110,7 +110,7 @@
 > 90003100:"Welcome back, Lord of the Frenzied Flame."
 = 90003100:"欢迎回来，癫火之王。"
 > 90003200:"Welcome back, Consort of the Lunar Princess."
-= 90003200:"欢迎回来，月之公主的伴侣。"
+= 90003200:"欢迎回来，月之公主的王。"
 > 90003300:"Pickle-pee, pump-a-rum!"
 = 90003300:"哔哔哔，咚咚咚！"
 < 100021000:" "
