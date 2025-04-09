@@ -63,7 +63,7 @@
 < 20050:"Opens only to those carrying a finger"
 > 20050:"Only to those carrying a finger can leave"
 - 20050:"身上没有指头的，门不敞开。"
-= 20050:"只有持有指头的人才能离开。"
+= 20050:"身上没有指头的，不能离开。"
 > 20701:"Ensnared in a transporter trap!"
 = 20701:"触发了传送陷阱！"
 > 20800:"Sealed by the Erdtree Sentinel Duo"
