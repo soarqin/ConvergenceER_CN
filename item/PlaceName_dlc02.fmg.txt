@@ -687,7 +687,7 @@
 > 160007:"Subterranean Inquisition Chamber"
 = 160007:"地底拷问所"
 > 160008:"Manor Passage"
-= 160008:"城寨通道"
+= 160008:"官邸通道"
 > 160009:"Twin Maiden Husks"
 = 160009:"孪生老妪"
 > 160100:"Church of Dragon Communion"
