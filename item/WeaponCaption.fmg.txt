@@ -2398,7 +2398,7 @@
 > 31180000:"A kite shield adorned with a large shard of starlight in its center.\n\nGrants an additional 1 FP regeneration per second."
 = 31180000:"中心装饰着大块星光碎片的鸢形盾。\n\n每秒额外回复1点专注值。"
 > 31350000:"A conjured shield capable of channeling incantations.\n<u>Greater</u> Bestial Affinity\nPhysical - <font color=\"#3CC35A\">Optimal</font>\nMagic - <font color=\"#F94449\">Weak</font>\nFire - <font color=\"#FFA500\">Moderate</font>\nLightning - <font color=\"#FFA500\">Moderate</font>\nHoly - <font color=\"#FFFF00\">Good</font>"
-= 31350000:"能够引导祷告的召唤盾。\n<u>上级</u>野兽魔法亲和\n物理 - <font color=\"#3CC35A\">最佳</font>\n魔力 - <font color=\"#F94449\">弱</font>\n火 - <font color=\"#FFA500\">中等</font>\n雷 - <font color=\"#FFA500\">中等</font>\n圣 - <font color=\"#FFFF00\">良好</font>"
+= 31350000:"能够引导祷告的法术盾。\n<u>上级</u>野兽魔法亲和\n物理 - <font color=\"#3CC35A\">最佳</font>\n魔力 - <font color=\"#F94449\">弱</font>\n火 - <font color=\"#FFA500\">中等</font>\n雷 - <font color=\"#FFA500\">中等</font>\n圣 - <font color=\"#FFFF00\">良好</font>"
 < 33000000:"Staff with a glintstone embedded at the tip. A catalyst for casting sorceries.\n\nSorceries must be memorized first at a site of lost grace, and a staff must be equipped to cast them."
 > 33000000:"Staff with a glintstone embedded at the tip.\n<u>Lesser</u> Glint Affinity\nPhysical - <font color=\"#FFFF00\">Good</font>\nMagic - <font color=\"#3CC35A\">Optimal</font>\nFire - <font color=\"#FFA500\">Moderate</font>\nLightning - <font color=\"#F94449\">Weak</font>\nHoly - <font color=\"#FFA500\">Moderate</font>\n"
 - 33000000:"顶端嵌入辉石的手杖。\n施展魔法用的触媒。\n\n想要施展魔法，必须装备手杖，\n以及在赐福先行记忆魔法。"
