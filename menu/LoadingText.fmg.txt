@@ -91,7 +91,7 @@
 > 231:"If you seek to travel to the corners of Liurnia, you can access a host of\nwaygates through the Lucarian Nexus, found east of the Academy of Raya Lucaria."
 = 231:"如果你想前往利耶尼亚的角落，\n可以通过位于雷亚·卢卡利亚学院东边的“卢卡利亚枢纽”，使用对应的传送门。"
 > 232:"Nomadic Merchants no longer need to be killed in order to obtain their bell bearings.\nYou can interact with any Nomadic Merchant and receive their bell bearing through a dialogue option instead."
-= 232:"你不再需要杀死流浪民族商人来获取他们的铃珠。\n与他们交互就可以通过对话选项收取他们的铃珠。"
+= 232:"你不再需要杀死流浪民族商人来获取他们的铃珠。\n与任意流浪民族商人交互时，可通过对话选项收取他们的铃珠。"
 > 233:"You can craft all item recipes without the need for cookbooks.\nAll pots and perfumes no longer require containers to craft."
 = 233:"你可以制作所有物品，不需要制作笔记。\n所有壶和调香瓶不再需要容器来制作。"
 > 234:"Defeating a powerful enemy will merit the same benefit as activating a Rune Arc.\nThis will activate your Great Rune if you have one equipped,\nbut will not function when defeating a boss that has been revived."
