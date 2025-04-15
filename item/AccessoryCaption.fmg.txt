@@ -188,4 +188,4 @@
 = 5050:"形状蜿蜒，染上红色的凶刀。\n使出致命一击能恢复血量和专注值。\n\n带来半神初始死亡的黑刀，\n在阴谋之夜舞动，反射阵阵光芒──\n据说此为参考黑刀的形象制成。"
 < 6000:"Small mysterious bottle with a dark mist sealed within.\n\nEliminates all sound made by the wearer during movement.\n\nA ritual implement used by Roundtable Hold assassins. There was a time when Tarnished who had strayed from guidance feared nothing more than utter silence."
 > 6000:"Small mysterious bottle with a dark mist sealed within.\n\nEliminates all sound made by the wearer during movement, completely conceals the wearer's presence while crouching at a distance from foes, grants immunity to fall damage and prevents heavy landings but does not prevent death from a high fall.\n\nA ritual implement used by Roundtable Hold assassins. There was a time when Tarnished who had strayed from guidance feared nothing more than utter silence."
-= 6000:"封着暗雾的神秘小瓶子。\n\n能完全消去佩戴者在移动时发出的声响；保持蹲伏，且与敌人有一定距离时，可完全隐藏佩戴者的存在；还可使佩戴者免疫坠落伤害与落地硬直，但无法豁免因高空坠落而导致的死亡。\n\n据说是圆桌厅堂的刺客使用的诅咒器具。\n在过去，背离引导的褪色者，\n在一片寂静的时刻最为心慌。"
+= 6000:"封着暗雾的神秘小瓶子。\n\n能完全去除自己发出的声响；蹲伏且远离敌人时，可完全隐藏自己；落地时不会受到伤害和硬直，但无法豁免坠落死亡。\n\n据说是圆桌厅堂的刺客使用的诅咒器具。\n在过去，背离引导的褪色者，\n在一片寂静的时刻最为心慌。"
