@@ -1,7 +1,7 @@
 > 1050:"Only one damage type is used"
 = 1050:"只会造成一种类型的伤害"
 > 1051:"Applied damage is determined by ammo type"
-= 1051:"所用的伤害类型由弹药决定"
+= 1051:"所产生的伤害类型由弹药决定"
 > 6800:"Inflicts soul burn"
 = 6800:"造成灵魂燃烧"
 > 6801:"Inflicts immolation"
