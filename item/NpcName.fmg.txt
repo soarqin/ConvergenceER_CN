@@ -105,7 +105,7 @@
 > 904470002:"Twisted Abductor"
 = 904470002:"扭曲的掳人者"
 > 904470003:"Franken-Abductor-Stein"
-= 904470003:"弗兰肯-掳人者-斯坦因"
+= 904470003:"弗兰肯-掳人者-斯坦"
 > 904500602:"Bloodflame Dragon Sanguivaros"
 = 904500602:"“血焰龙”桑吉瓦罗斯"
 > 904630315:"Chanting Winged Dame"

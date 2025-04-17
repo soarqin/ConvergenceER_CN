@@ -11,7 +11,7 @@
 < 5290:"Unique Skill: Rancor Slash\n\nSpin around, slashing foes while summoning vengeful spirits which chase down foes. Additional input allows for a follow-up attack."
 > 5290:"Unique Skill: Rancor Flurry\n\nLeap into the air and perform a series of spinning slashes while summoning vengeful spirits which chase down foes. Additional input allows for a thrust of explosive ghostflame."
 - 5290:"专用战技：怨魂斩\n\n一边旋身砍向敌人，\n一边召唤穷追不舍的怨魂的战技。\n再次发动能使出追击。"
-= 5290:"专用战技：怨魂连斩\n\n跃至空中，一边旋转斩击，一边召唤穷追不舍的怨魂。\n再次发动能使出爆炸鬼火的突刺。"
+= 5290:"专用战技：怨魂连斩\n\n跃至空中，一边旋转斩击，一边召唤穷追不舍的怨魂。\n再次发动能使出爆炸灵火的突刺。"
 < 5370:"Unique Skill: Discus Hurl\n\nThrows the roundshield like a discus using the smithing arts. Once thrown, the shield will remain airbone for a moment before beginning a vertical rotation that chases down its target."
 > 5370:"Unique Skill: Discus Hurl\n\nThrows the roundshield like a discus using the smithing arts. Once thrown, the shield will remain airborne for a moment before beginning a vertical rotation that chases down its target."
 - 5370:"专用战技：飞盘投掷\n\n由锻造术催生的投掷战技。\n能将盾牌如飞盘般投掷出去。\n盾牌在空中短暂停留后，\n会以垂直方向旋转，飞向敌人。"
