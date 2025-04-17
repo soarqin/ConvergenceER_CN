@@ -23,7 +23,7 @@
 > 138675:"Nox Oracle Sadia"
 = 138675:"诺克斯神谕官萨蒂亚"
 > 138676:"Dragon Cultist Seki"
-= 138676:"龙信徒瑟奇"
+= 138676:"古龙信徒瑟奇"
 > 138677:"Frost Witch Dino"
 = 138677:"冰霜巫师狄诺"
 > 138678:"Ainrun the Mystic"
