@@ -905,7 +905,7 @@
 > 904470002:"Twisted Abductor"
 = 904470002:"扭曲的掳人者"
 > 904470003:"Franken-Abductor-Stein"
-= 904470003:"弗兰肯-掳人者-斯坦因"
+= 904470003:"弗兰肯-掳人者-斯坦"
 > 904480310:"Miranda the Blighted Bloom"
 = 904480310:"“病花”米兰达"
 > 904480311:"Miranda Blossom"
