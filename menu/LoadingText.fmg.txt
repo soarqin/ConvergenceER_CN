@@ -67,7 +67,7 @@
 > 219:"You will automatically regenerate FP at a rate of 1 FP per second\nwhich can be augmented further through the use of various talismans, crystal tears, armor abilities, and spell effects."
 = 219:"每秒自动速度1点专注值，\n这可以通过各种护符、灵药露滴、装备能力和法术效果进一步增强。"
 > 220:"Spells of the Dragon Cultist use a system called Current.\nEach spell when cast will either build up stacks of Current, up to a maximum of 15,\nor release built up stacks for more powerful effects.\n\nThese enhanced effects will vary from spell to spell and are listed within the spell descriptions."
-= 220:"龙信徒的法术使用一种名为“电流”的系统。\n每个法术施放时，会堆叠电流层数，最多15层，\n释放已堆叠的电流可以获得更强大的效果。\n\n这些增强效果会因法术而异，并在法术描述中列出。"
+= 220:"古龙信徒的法术使用一种名为“电流”的系统。\n每个法术施放时，会堆叠电流层数，最多15层，\n释放已堆叠的电流可以获得更强大的效果。\n\n这些增强效果会因法术而异，并在法术描述中列出。"
 > 221:"Offensive spells of the Bestial Devout can inflict Rend and Concussion.\n\nRend is a status inflicted on enemies that will lower resistance to physical damage from other sources.\nBestial spells that use claws tend to cause Rend.\n\nConcussion is a status inflicted on enemies that will lower enemy damage dealt to other sources.\nBestial spells that use stones tend to cause Concussion."
 = 221:"野兽虔敬者的攻击性法术能造成“撕裂”和“震荡”。\n\n“撕裂”是对敌人造成的异常状态，会降低对物理伤害的抵抗力。\n使用爪子的野兽法术通常会造成撕裂。\n\n“震荡”是对敌人造成的异常状态，会降低敌人造成的伤害。\n使用石头的野兽法术通常会造成震荡。"
 > 222:"Offensive spells of the Flame Prophet will inflict Immolation upon enemies.\nCharacters afflicted with Immolation will suffer continuous damage for a short duration.\n\nImmolation damage can be enhanced by gaining more faith."

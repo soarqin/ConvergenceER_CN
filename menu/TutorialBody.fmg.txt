@@ -155,7 +155,7 @@
 > 403371:"Concussion is a status inflicted on enemies that will lower enemy damage dealt to other sources.\n\nBestial spells that use stones tend to cause Concussion."
 = 403371:"“震荡”是一种施加给敌人的状态，会降低敌人对其他来源造成的伤害。\n\n使用石头的野兽法术往往会造成“震荡”。"
 > 403380:"Spells of the Dragon Cultist use a system called Current.\n\nEach spell when cast will either build up stacks of Current, up to a maximum of 15, or release built up stacks for more powerful effects."
-= 403380:"龙信徒的法术使用一个称为“电流”的系统。\n\n每个法术在施放时要么积累“电流”层数，最多叠到15层；要么释放出积累的层数，从而获得更强大的效果。"
+= 403380:"古龙信徒的法术使用一个称为“电流”的系统。\n\n每个法术在施放时要么积累“电流”层数，最多叠到15层；要么释放出积累的层数，从而获得更强大的效果。"
 > 403381:"Current enhanced effects will vary from spell to spell and are listed within the spell descriptions.\n\nPress <?keyicon@31?> to read the extended description while in the Inventory menu."
 = 403381:"电流增强效果因法术而异，并在法术描述中列出。\n\n在物品栏菜单中按<?keyicon@31?>阅读扩展描述。"
 > 403390:"Offensive spells of the Godskin Celebrant will inflict enemies with Soul Burn or Soul Annihilation.\n\nCharacters inflicted with Soul Burn will suffer continuous damage relative to the character's maximum HP."
