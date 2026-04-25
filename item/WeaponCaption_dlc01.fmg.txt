@@ -595,7 +595,7 @@
 > 66502100:"Large katana with a long, heavy blade.\nA weapon unique to warriors of the Land of Reeds.\n\nDesigned for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss."
 = 66502100:"具有沉重长刀身的大刀。\n芦苇之地的武士们持有的一种特殊武器。\n\n需运用全身挥舞，着重积极进攻的武器。\n斩击命中敌人时，能引发出血。"
 > 66530000:"A great katana of unique design, once wrought by the Tempestcallers exiled by the Erdtree.\n\nA weapon considered heretical to the Golden Order, it was once a great boon to the forces of Stormveil."
-= 66530000:"造型奇特的大太刀，原属于被黄金树一方流放的暴风召唤者。\n\n这种武器被黄金律法视作异端。但在史东薇尔军队的手中，它曾大放异彩。"
+= 66530000:"造型奇特的大太刀，原属于被黄金树一方流放的风暴敕令者。\n\n这种武器被黄金律法视作异端。但在史东薇尔军队的手中，它曾大放异彩。"
 > 67501300:"A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
 = 67501300:"与大剑相比，同样具有长剑身，\n但重量减轻到极限的轻大剑。\n冠以贵族妇女美称的优质武器。\n\n外型俐落，挥舞速度与直剑相当。"
 > 67501400:"A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.\nNicknamed after ladies of noble status for its refined appearance.\n\nWith cultivated form, one can wield this weapon as swiftly as one might a straight sword."
