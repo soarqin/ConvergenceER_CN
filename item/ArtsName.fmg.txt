@@ -131,7 +131,7 @@
 < 505:"Flame of the Redmanes"
 > 505:"Aeonian Rush"
 - 505:"红狮子火焰"
-= 505:"艾奥尼亚冲刺"
+= 505:"艾奥尼亚疾斩"
 < 506:"Ground Slam"
 > 506:"Concussive Smash"
 - 506:"坠落震击"
