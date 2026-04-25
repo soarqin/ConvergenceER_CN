@@ -7,7 +7,7 @@
 > 4003:"Seek Radahn, Rykard, Astel or Caimar."
 = 4003:"找到拉塔恩、拉卡德、艾丝缇或凯玛。"
 > 4004:"Seek Mohg, Malenia, Scion of the Sealed God, Fortissax or Placidusax."
-= 4004:"找到蒙格、玛莲妮亚、囚神之嗣、弗尔桑克斯或普拉顿桑克斯。"
+= 4004:"找到蒙格、玛莲妮亚、受囚神之嗣、弗尔桑克斯或普拉顿桑克斯。"
 > 4005:"Seek King Morgott."
 = 4005:"找到蒙葛特王。"
 > 4006:"Seek Maliketh, the Black Blade."
