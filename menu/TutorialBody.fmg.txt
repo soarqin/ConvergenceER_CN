@@ -175,6 +175,6 @@
 > 403501:"To obtain the Second Keystone of the Forge, you will need to defeat one of the following bosses:\n\n- Starscourge Radahn in Redmane Castle\n- Astel, Naturalborn of the Void deep in Sellia Crystal Tunnel\n- Rykard, Lord of Blasphemy in Volcano Manor\n- Spiritshaper Caimar in the Dreaming Spirit Grounds in upper Siofra River\n"
 = 403501:"要获得大锅的第二块钥石，你需要击败以下Boss的其中一个：\n\n- 红狮子城 “碎星”拉塔恩\n\n- 瑟利亚结晶坑道深处 “黑暗弃子”艾丝缇\n\n- 火山官邸 “亵渎君王”拉卡德\n\n- 希芙拉河上游 梦幻灵境 “塑灵者”凯玛"
 > 403502:"To obtain the Third Keystone of the Forge, you will need to defeat one of the following bosses:\n\n- Lichdragon Fortissax in Deeproot Depths\n- Dragonlord Placidusax in Crumbling Farum Azula\n- Mohg, Lord of Blood in Mohgwyn's Dynasty Palace\n- Malenia, Blade of Miquella at the root of the Haligtree\n- Scion of the Sealed God in the Lake of Rot"
-= 403502:"要获得大锅的第三块钥石，你需要击败以下Boss的其中一个：\n\n- 深根底层 “死龙”弗尔桑克斯\n\n- 逐渐崩毁的法姆·亚兹拉 “龙王”普拉顿桑克斯\n\n- 蒙格温王朝 “鲜血君王”蒙格\n\n- 圣树底部 “米凯拉的锋刃”玛莲妮亚\n\n- 腐败湖 封印之神的后裔"
+= 403502:"要获得大锅的第三块钥石，你需要击败以下Boss的其中一个：\n\n- 深根底层 “死龙”弗尔桑克斯\n\n- 逐渐崩毁的法姆·亚兹拉 “龙王”普拉顿桑克斯\n\n- 蒙格温王朝 “鲜血君王”蒙格\n\n- 圣树底部 “米凯拉的锋刃”玛莲妮亚\n\n- 腐败湖 囚神之嗣"
 > 403503:"To obtain the Fourth and Fifth Keystones of the Forge, you will need to defeat following bosses:\n\nFourth Keystone of the Forge:\n- Morgott, the Omen King in Leyndell\n\nFifth Keystone of the Forge:\n- Maliketh, the Black Blade in Crumbling Farum Azula"
 = 403503:"要获得大锅的第四和第五块钥石，你需要击败以下boss：\n\n第四块钥石：\n\n- 王城罗德尔 “恶兆王”蒙葛特\n\n第五块钥石：\n\n- 逐渐崩毁的法姆·亚兹拉 “黑剑”玛利喀斯"
