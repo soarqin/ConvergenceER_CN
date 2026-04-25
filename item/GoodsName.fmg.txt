@@ -27,7 +27,7 @@
 > 2966:"Remembrance of the Matriarch"
 = 2966:"女族长的追忆"
 > 2967:"Remembrance of the Scion of the Sealed God"
-= 2967:"封印之神后裔的追忆"
+= 2967:"囚神之嗣的追忆"
 > 2968:"Remembrance of the Scavenger King"
 = 2968:"剥尸王的追忆"
 > 2969:"Remembrance of the Ice Guardian"
