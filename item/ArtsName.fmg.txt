@@ -49,7 +49,7 @@
 > 160:"Hoarfrost Stomp"
 = 160:"冻霜踏地"
 > 165:"Impaling Vapors"
-= 165:"灵汽"
+= 165:"灵汽突刺"
 > 177:"Blighted Summoning"
 = 177:"唤起咒死"
 > 179:"Frozen Lightning Orb"
