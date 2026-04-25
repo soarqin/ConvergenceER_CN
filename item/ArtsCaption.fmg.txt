@@ -131,7 +131,7 @@
 < 505:"Skill: Flame of the Redmanes\n\nSkill of the Redmanes, who fought alongside General Radahn.\nProduce a powerful burst of flames in a wide frontward arc."
 > 505:"Unique Skill: Aeonian Rush\n\nAssume the stance of the dancing warrior in blue and then rush forward and perform two sweeping slashes.\nThe last strike produces an upwelling of aeonian rot."
 - 505:"战技：红狮子火焰\n\n与拉塔恩将军并肩作战的\n红狮子军队所使用的战技。\n能朝前方释放大范围的强烈火焰。"
-= 505:"专用战技：艾奥尼亚冲刺\n\n摆出蓝色舞娘的姿态，然后向前冲去并进行两次横扫。\n最后一击会绽放艾奥尼亚的腐败。"
+= 505:"专用战技：艾奥尼亚疾斩\n\n摆出蓝色舞娘的姿态，然后向前冲去并进行两次横扫。\n最后一击会绽放艾奥尼亚的腐败。"
 < 506:"Skill: Ground Slam\n\nJump up high into the air and crash down on the ground ahead.\nThe resulting pratfall sends a powerful shockwave in all directions."
 > 506:"Unique Skill: Concussive Smash\n\nSwing the hammer upward and deliver a staggering strike.\nThis attack deals a large amount of posture damage."
 - 506:"战技：坠落震击\n\n轻盈向前跳，再顺势用臀部\n用力向下坠落的战技。\n此攻击能引发剧烈的冲击波。"
