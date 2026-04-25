@@ -49,7 +49,7 @@
 > 160:"Skill: Hoarfrost Stomp\n\nStomp hard to unleash a freezing burst around you, follow up with another skill attack to perform a low sweep kick that spreads a trail of freezing spikes on the ground. This attack applies a frost status effect."
 = 160:"战技：霜冻踏地\n\n大力踏向地面，让冻霜在周围爆发，再次发动进行低位扫踢并在地面上形成一道冰尖刺。 此攻击会引发异常状态冻伤。"
 > 165:"Unique Skill: Impaling Vapors\n\nLeap into the air and thrust downward with an enchanted burst. Follow up with another skill attack to cast a trail of spirit vapor on the ground in front of you and then thrust forward.\n\n"
-= 165:"专用战技：灵汽\n\n跳跃至空中，同时向下突刺，并引发魔法爆炸。衔接发动战技后，会向前方洒下灵魂水雾，再向前突刺。"
+= 165:"专用战技：灵汽突刺\n\n跳跃至空中，同时向下突刺，并引发魔法爆炸。衔接发动战技后，会向前方洒下灵魂水雾，再向前突刺。"
 > 177:"Unique Skill: Blighted Summoning\n\nInfuse the weapon with deathblight and perform a sweeping slash, follow up with a heavy attack to perform an overhead slam that causes an explosion on impact and calls three ghostly skeletons to strike your foe."
 = 177:"专用战技：唤起咒死\n\n将咒死注入武器并进行横扫。衔接发动重攻击，会从上方发动猛击，在击中时引发爆炸，并召唤三个幽魂骷髅来攻击你的敌人。"
 > 179:"Unique Skill: Frozen Lightning Orb\n\nConjure a bubble of frozen lightning and project it forward toward foes. Charging increases damage and range."
