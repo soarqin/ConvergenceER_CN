@@ -99,7 +99,7 @@
 > 10380:"Bestial Devout: Rend and Concussion"
 = 10380:"野兽宗徒：撕裂与震荡"
 > 10390:"Dragon Cultist: Current"
-= 10390:"古龙祀者：充能"
+= 10390:"古龙祀者：电流"
 > 10400:"Godskin Celebrant: Soul Burn and Soul Annihilation"
 = 10400:"神皮庆典者：灵魂燃烧与灵魂湮灭"
 > 10410:"Convergence Wiki"
