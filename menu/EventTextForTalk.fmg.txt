@@ -383,7 +383,7 @@
 > 910000166:"Godskin Matriarch"
 = 910000166:"神皮女族长"
 > 910000167:"Scion of the Sealed God"
-= 910000167:"受囚神之嗣"
+= 910000167:"受封印神祇之嗣"
 > 910000168:"Dyru, Scavenger King"
 = 910000168:"“剥尸王”迪鲁"
 > 910000169:"Einar, Ice Guardian"

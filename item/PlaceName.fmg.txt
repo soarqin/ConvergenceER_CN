@@ -661,7 +661,7 @@
 > 902035000:"Godskin Matriarch"
 = 902035000:"神皮女族长"
 > 902036000:"Scion of the Sealed God"
-= 902036000:"受囚神之嗣"
+= 902036000:"受封印神祇之嗣"
 > 902036001:"Vessel of Rot"
 = 902036001:"腐败容器"
 > 902100300:"Black Knife Assassin"
