@@ -211,7 +211,7 @@
 > 219:"Convergence: FP Regeneration"
 = 219:"Convergence：专注值回复"
 > 220:"Convergence: Current"
-= 220:"Convergence：充能"
+= 220:"Convergence：电流"
 > 221:"Convergence: Rend and Concussion"
 = 221:"Convergence：撕裂和震荡"
 > 222:"Convergence: Immolation"
