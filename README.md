@@ -15,6 +15,13 @@
 ## 放到MOD中测试
 * 把几个文件复制到Convergence的`Convergence\msg\zhoCN`(如果没有这个目录则需要自己创建，大小写不敏感)下即可
 
+## 游戏更新后的改动文本提取
+* 创建一个 `update` 目录
+* 把英文版的 `item_dlc02.msgbnd.dcx` 和 `menu_dlc02.msgbnd.dcx` 复制进去
+* 运行 `extract_updates.bat`
+* 就会在当前目录生成所有改动过的 txt 条目，我暂时没有做合回去的功能，需要手动把他们的内容翻译完后合并回 `item` 和 `menu` 里的对应文本文件
+* 以后可能会制作一个工具完成自动合并的功能
+
 ## 贡献者
 * [KrukaL](https://github.com/KrukaL)
   + 1.2的大量翻译修正以及1.3绝大多数词条的翻译，没有他大家不可能快玩到这个完整的翻译版本
