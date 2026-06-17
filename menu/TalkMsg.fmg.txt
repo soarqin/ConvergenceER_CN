@@ -72,7 +72,7 @@
 > 90001100:"Starscourge Radahn, in Redmane Castle."
 = 90001100:"红狮子城的“碎星”拉塔恩"
 > 90001200:"Astel, Naturalborn of the Void, in Sellia Crystal Tunnel."
-= 90001200:"瑟利亚结晶坑道的“黑暗弃子”艾斯缇"
+= 90001200:"瑟利亚结晶坑道的“黑暗弃子”艾丝缇"
 > 90001300:"Rykard, Lord of Blasphemy, in Volcano Manor."
 = 90001300:"火山官邸的“亵渎君王”拉卡德"
 > 90001400:"Spiritshaper Caimar, in the Dreaming Spirit Grounds in upper Siofra River."
