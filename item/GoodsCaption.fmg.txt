@@ -17,7 +17,7 @@
 < 192:"A Great Rune of the shardbearer Radahn.\nIts blessing raises maximum HP, FP and Stamina.\n\nRadahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika.\n\nThe Great Rune burns, to resist the encroachment of the scarlet rot."
 > 192:"A Great Rune of the shardbearer Radahn.\nIncreases total HP by 10% and Increase Endurance by 5.\n\nRadahn was amongst the children of Rennala and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika.\n\nThe Great Rune burns, to resist the encroachment of the scarlet rot."
 - 192:"“碎片君王”拉塔恩的大卢恩。\n透过恩惠的效力，\n能提升血量、专注值、精力的上限。\n\n拉塔恩是蕾娜菈与拉达冈的其中一位子嗣。\n在拉达冈成为玛莉卡女王的王夫之后，\n那群孩子成为外戚，也成为半神。\n\n此大卢恩猛烈燃烧──\n为的是对抗猩红腐败的侵蚀。"
-= 192:"碎片君王”拉塔恩的大卢恩。\n提升10%血量上限并提升5点耐力。\n\n拉塔恩是蕾娜菈与拉达冈的其中一位子嗣。\n在拉达冈成为玛莉卡女王的王夫之后，\n那群孩子成为外戚，也成为半神。\n\n此大卢恩猛烈燃烧──\n为的是对抗猩红腐败的侵蚀。"
+= 192:"“碎片君王”拉塔恩的大卢恩。\n提升10%血量上限并提升5点耐力。\n\n拉塔恩是蕾娜菈与拉达冈的其中一位子嗣。\n在拉达冈成为玛莉卡女王的王夫之后，\n那群孩子成为外戚，也成为半神。\n\n此大卢恩猛烈燃烧──\n为的是对抗猩红腐败的侵蚀。"
 < 193:"A Great Rune of the shardbearer Morgott.\nIts blessing greatly raises maximum HP.\n\nThis Great Rune is the anchor ring that houses the base, and proves two things:\n\nThat the Omen King was born of the golden lineage, and that he was indeed the Lord of Leyndell."
 > 193:"A Great Rune of the shardbearer Morgott.\nIncreases total HP by 10% and increases Mind by 5.\n\nThis Great Rune is the anchor ring that houses the base, and proves two things:\n\nThat the Omen King was born of the golden lineage, and that he was indeed the Lord of Leyndell."
 - 193:"“碎片君王”蒙葛特的大卢恩。\n透过恩惠的效力，能大幅提升血量的上限。\n\n此大卢恩为重心法环，位在主干之上。\n这代表着两件事实──\n\n一是“恶兆王”为黄金一族的成员，\n二是这位王确实是罗德尔之王。"

@@ -51,7 +51,7 @@
 > 2966:"Take the power of its namesake via Finger Reader"
 = 2966:"透过解指的帮助，能获得追忆之主的力量"
 > 2967:"Take the power of its namesake via Finger Reader"
-= 2967:"通过解指的帮助，能获得追忆之主的力量"
+= 2967:"透过解指的帮助，能获得追忆之主的力量"
 > 2968:"Take the power of its namesake via Finger Reader"
 = 2968:"透过解指的帮助，能获得追忆之主的力量"
 > 2969:"Take the power of its namesake via Finger Reader"
