@@ -290,6 +290,8 @@
 = 1990200:"上流随从手套"
 > 1990300:"High Page Trousers"
 = 1990300:"上流随从长裤"
+> 2000200:"Rotten Duelist Wraps"
+= 2000200:""
 > 3020000:"Carian Golem Helm"
 = 3020000:"卡利亚魔像头盔"
 > 3020100:"Carian Golem Armor"

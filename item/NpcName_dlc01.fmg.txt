@@ -1,0 +1,6 @@
+> 90000:"<font color=\"#3AE400\">Alive</font>"
+= 90000:""
+< 905070400:"Death Knight"
+> 905070400:"Idris, Godskin Deceiver"
+- 905070400:"死骑士"
+= 905070400:""

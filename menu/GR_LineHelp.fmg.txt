@@ -1,3 +1,7 @@
+< 230100:"Select remembrance to duplicate"
+> 230100:"Select a jewel to craft. This will consume 1 of each of the Remnants."
+- 230100:"请选择要复制的追忆"
+= 230100:""
 < 236200:"Select which remembrance to plumb for power"
 > 236200:"Select which item to plumb for power"
 - 236200:"请选择要使用的追忆，将其力量化为己有"

@@ -17,6 +17,10 @@ rd /s /q item_dlc02-msgbnd-dcx menu_dlc02-msgbnd-dcx
 popd
 
 tools\fmgcarry mod\engUS\item_dlc02 update\engUS\item_dlc02 mod\zhoCN\item_dlc02
+mkdir update\item >NUL
+move *.txt update\item\
 tools\fmgcarry mod\engUS\menu_dlc02 update\engUS\menu_dlc02 mod\zhoCN\menu_dlc02
+mkdir update\menu >NUL
+move *.txt update\menu\
 
 endlocal
