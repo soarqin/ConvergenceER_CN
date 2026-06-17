@@ -39,7 +39,7 @@
 > 1091:"Raises faith and arcane by 3."
 = 1091:"能提升3点信仰和感应。"
 > 1095:"A talisman engraved with the lore of an outer god.\nRaises arcane by 6.\n\nThe clan, who lost everything in the great fires, peered upon the corpse of their ancestor, normally an act of sanctity, and saw in its shadow a twisted deity.\n\nThe clan had suffered such torment that the horrible thing was taken as an object of worship."
-= 1095:"雕制关于外在神祇传说的护符。\n能提升6点感应。\n\n人民蒙受火难、被夺去一切后，\n从他们尊贵祖先的遗体影子里，\n发现了异样的神性本质。\n\n在备受折磨、走投无路的情况下，\n他们还是向不祥的异形求助。"
+= 1095:"雕制关于外在神祇传说的护符。\n能提升6点感应。\n\n人民蒙受火难、被夺去一切后，\n从他们尊贵祖先的遗体影子里，\n发现了异样的为神本质。\n\n在备受折磨、走投无路的情况下，\n他们还是向不祥的异形求助。"
 < 1160:"An accoutrement worn by the ancestral followers.\nRaises robustness.\n(Robustness governs resistance to blood loss and frost.)\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit."
 > 1160:"An accoutrement worn by the ancestral followers.\nGrants immunity to bleed, but lowers vigor by 5.\n\nSaid to be a budding horn. The ancestral followers believe that the horns of a long-lived beast continue to bud like antlers, over and over again, until the beast one day becomes an ancestral spirit."
 - 1160:"祖灵之民的装饰品。\n能提升健壮度。\n（健壮度是对出血、冻伤的抵抗力。）\n\n据说此为即将萌发的角。\n长命野兽的角会长出新芽，\n在不停萌发新芽之后，野兽会成为祖灵。"
