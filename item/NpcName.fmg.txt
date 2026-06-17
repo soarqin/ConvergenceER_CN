@@ -1,7 +1,7 @@
 > 120100:"Godskin Matriarch"
 = 120100:"神皮女族长"
 > 121850:"Boss Resurrection Altar"
-= 121850:"Boss复活圣坛"
+= 121850:"BOSS复活圣坛"
 > 121860:"Training Grounds Statue"
 = 121860:"训练场雕像"
 > 121870:"Forgotten Warrior"

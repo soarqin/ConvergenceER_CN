@@ -2377,7 +2377,7 @@
 - 30150000:"将永不冷却的熔岩固定在盾面上的小圆盾。\n据说是在格密尔火山制成。\n\n因为带有热气，对冻伤有抵抗力。\n作为武器挥舞能给予火属性攻击力。"
 = 30150000:"以永不冷却的灰灭火焰锻造\n在巨人火焰大锅中铸成的小圆盾。\n\n提升10%巨人火焰祷告攻击力。"
 > 30160000:"A small round buckler adorned with leaves.\n\nGrants an additional 8 stamina recovery. \n"
-= 30160000:"装饰着树叶的小圆盾。\n\n精力回复额外提升8点。。"
+= 30160000:"装饰着树叶的小圆盾。\n\n精力回复额外提升8点。"
 > 30170000:"A small metal shield in the shape of a wreath of feathers.\n\nGrants 30 additional spell casting speed.\n"
 = 30170000:"装饰着环状羽毛的小型金属盾。\n\n额外提升30点施法速度。"
 > 30300000:"A gravelstone kite shield emblazoned with the golden sigil of the Dragon Cult of Leyndell.\n\nThis shield increases the damage of Dragon Cult incantations by 10%."

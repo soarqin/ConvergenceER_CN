@@ -533,7 +533,7 @@
 > 2530007:"Ashen remains in which spirits yet dwell.\nUse to summon the spirit of a Catacomb Sorcerer.\n"
 = 2530007:"寄宿着灵魂的骨灰。\n能够召唤墓地魔法师的灵魂。"
 > 2530008:"Ashen remains in which spirits yet dwell.\nUse to summon the spirit of a Catacomb Sorcerer.\n"
-= 2530008:"寄宿着灵魂的骨灰。\n能够召唤墓地魔法师的灵魂。。"
+= 2530008:"寄宿着灵魂的骨灰。\n能够召唤墓地魔法师的灵魂。"
 > 2530009:"Ashen remains in which spirits yet dwell.\nUse to summon the spirit of a Catacomb Sorcerer.\n"
 = 2530009:"寄宿着灵魂的骨灰。\n能够召唤墓地魔法师的灵魂。"
 > 2530010:"Ashen remains in which spirits yet dwell.\nUse to summon the spirit of a Catacomb Sorcerer.\n"

@@ -97,7 +97,7 @@
 > 403270:"Removed Stonesword Keys"
 = 403270:"移除石剑钥匙"
 > 403280:"FP Regeneration"
-= 403280:"FP回复"
+= 403280:"专注值回复"
 > 403290:"Boss Resurrection"
 = 403290:"复活Boss"
 > 403300:"Alternative Mounts"
