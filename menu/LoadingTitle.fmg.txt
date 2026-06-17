@@ -191,7 +191,7 @@
 > 209:"Convergence: Status: Immunity Talismans"
 = 209:"Convergence：异常状态：免疫护符"
 > 210:"Convergence: Spell Catalyst Affinities"
-= 210:"Convergence：法术触媒适应性"
+= 210:"Convergence：法术触媒亲和"
 > 211:"Convergence: Spell Catalyst Scaling"
 = 211:"Convergence：法术触媒补正"
 > 212:"Convergence: Linear Scaling"

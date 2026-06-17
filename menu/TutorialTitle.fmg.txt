@@ -135,7 +135,7 @@
 > 403391:"Godskin Celebrant: Soul Burn and Soul Annihilation II"
 = 403391:"神皮庆典者：灵魂燃烧与灵魂湮灭 II"
 > 403400:"Shattering Miquella's Great Rune"
-= 403400:"粉碎米凯拉的大卢恩"
+= 403400:"破碎的米凯拉的大卢恩"
 > 403401:"Crumbling Farum Azula"
 = 403401:"逐渐崩毁的法姆·亚兹拉"
 > 403402:"Moonlight Altar"
