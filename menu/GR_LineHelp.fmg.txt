@@ -23,7 +23,7 @@
 > 297116:"An inductee in the service of luminary Mohg,\nadept in the use of Bloodflame incantations.\nFocus: FTH/ARC - Fire Damage"
 = 297116:"为蒙格大人效力的新晋者，\n擅长使用血焰祷告。\n专精：信仰/感应 - 火属性伤害"
 > 297117:"A worshiper of the Sealed God and skilled \nin the powers of rot and corruption.\nFocus: FTH/ARC - Physical Damage"
-= 297117:"被封印之神的信徒，\n熟练掌握腐败之力。\n专精：信仰/感应 - 物理属性伤害"
+= 297117:"受封印神祗的信徒，\n熟练掌握腐败之力。\n专精：信仰/感应 - 物理属性伤害"
 > 297118:"A wretched prisoner locked in a dungeon,\nan inauspicious path."
 = 297118:"被锁在监牢里的可怜囚徒，\n一条不详的道途。"
 > 297123:"Using techniques lost long ago, this \nsage controls the power of the wind.\nFocus: INT/FTH - Physical Damage"

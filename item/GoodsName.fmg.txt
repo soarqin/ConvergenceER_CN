@@ -591,7 +591,7 @@
 > 7290:"Aspect of the Scorpion"
 = 7290:"毒蝎的面貌"
 > 7291:"Blessing of the Sealed God"
-= 7291:"封印之神的祝福"
+= 7291:"受封印神祗的祝福"
 > 7301:"Touch of Frenzy"
 = 7301:"癫狂的接触"
 > 7312:"Chaos Beam"

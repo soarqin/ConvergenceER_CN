@@ -69,7 +69,7 @@
 < 5010300:"Greaves made from an unusual metal known as verdigris.\n\nVerdigris is said to be the gift of an outer god.\nPossessed of an enormously hefty yet supple strength thanks to its rusted nature."
 > 5010300:"Greaves made from an unusual metal known as verdigris.\n\nIncreases STR by 2 and increases weapon damage by 2%.\nIf you do not have a weapon equipped with INT/FTH scaling, this item has the following effect:\nSealed God's Kinship - When you drink a Cerulean Flask, you gain an effect that increases your STR, VIG and END by 10 for 1 minute.\n\nVerdigris is said to be the gift of an outer god.\nPossessed of an enormously hefty yet supple strength thanks to its rusted nature."
 - 5010300:"以特殊金属铜绿制成的腿甲。\n\n据说铜绿是外在神祇带来的赠礼。\n带有锈蚀的特性，即使重量沉重，\n仍具备延展性。"
-= 5010300:"以特殊金属铜绿制成的腿甲。\n\n提升2点力气，提升2%武器攻击力。\n若未装备智力/信仰补正的武器，则会获得如下效果：\n封缄神的眷族 - 饮下蓝露滴后1分钟内，提升10点力气、生命力、耐力。\n\n据说铜绿是外在神祇带来的赠礼。\n带有锈蚀的特性，即使重量沉重，\n仍具备延展性。"
+= 5010300:"以特殊金属铜绿制成的腿甲。\n\n提升2点力气，提升2%武器攻击力。\n若未装备智力/信仰补正的武器，则会获得如下效果：\n受封印神祗的眷族 - 饮下蓝露滴后1分钟内，提升10点力气、生命力、耐力。\n\n据说铜绿是外在神祇带来的赠礼。\n带有锈蚀的特性，即使重量沉重，\n仍具备延展性。"
 < 5020000:"The pelt of Ralva the Great Red Bear, worn upon the head without modification.\n\nEnhances incantations of what is jokingly called \"Bear Communion.\"\n\nThis untreated hide, won at the end of a bloody bout, is just the thing to make a wild bear out of a warrior."
 > 5020000:"The pelt of Ralva the Great Red Bear, worn upon the head without modification.\n\nIncreases STR, FTH, END and VIG by 3.\n\nThis untreated hide, won at the end of a bloody bout, is just the thing to make a wild bear out of a warrior."
 - 5020000:"将大红熊拉鲁瓦的毛皮，\n直接披在头上的物品。\n\n能强化人称熊飨的祷告。\n\n只有战士赌命缠斗，获胜后取得的外皮，\n才能让他化为野生的熊。"

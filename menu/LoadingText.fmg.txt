@@ -95,7 +95,7 @@
 > 233:"You can craft all item recipes without the need for cookbooks.\nAll pots and perfumes no longer require containers to craft."
 = 233:"你可以制作所有物品，不需要制作笔记。\n所有壶和调香瓶不再需要容器来制作。"
 > 234:"Defeating a powerful enemy will merit the same benefit as activating a Rune Arc.\nThis will activate your Great Rune if you have one equipped,\nbut will not function when defeating a boss that has been revived."
-= 234:"打倒强大的敌人会获得与激活卢恩弯弧相同的效果。\n如果你装备了大卢恩，这会激活你的大卢恩，\n但击败被复活的boss无法触发此效果。"
+= 234:"打倒强大的敌人会获得与激活卢恩弯弧相同的效果。\n如果你装备了大卢恩，这会激活你的大卢恩，\n但击败被复活的Boss无法触发此效果。"
 > 235:"Several weapons have unique powerstance opportunities that will allow you to use powerstance attacks with weapons from separate categories.\n\nThe Spirit Sword can be paired with the Deathrite Dagger in the left hand.\nThe Cleanrot Spear and the Halo Scythe can be paired with the Cleanrot Knight's Sword in the left hand."
 = 235:"一些武器有独特的双持逻辑，可以让你使用不同类别的武器进行双持攻击。\n\n灵魂剑可以与左手持有的死亡仪式匕首搭配。\n尊腐骑士矛和光环镰刀可以与左手持有的尊腐骑士剑搭配。"
 > 236:"The Four Belfries in Liurnia host four separate waygates to important locations.\n\nEach waygate can only be activated by the use of an Imbued Sword Key, and one can be found in each of\nthe four Keystone I dungeons: Stormveil Castle, Castle Morne, Caria Manor, and the Academy of Raya Lucaria.\n\nAdditionally, one can be chosen as a starting Keepsake,\nand another can be found in Castle Ensis within the Realm of Shadows."
