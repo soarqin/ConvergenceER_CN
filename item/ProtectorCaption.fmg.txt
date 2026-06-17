@@ -2421,7 +2421,7 @@
 > 1940200:"The bracelets of deathbed companions.\n\nIncreases INT and FTH by 2, reduces FP cost of sorcery by 2% and increases damage of Death Sorcery by 1%."
 = 1940200:"死眠少女的手环。\n\n提升2点智力和信仰，降低2%魔法专注值消耗并提升1%死亡魔法攻击力。"
 > 1940300:"Trousers of black cloth worn by traveling deathbed companions.\n\nIncreases INT and FTH by 2, reduces FP cost of sorcery by 2% and increases damage of Death Sorcery by 1%.\n\nThe fabric itself is soft as silk and thin enough that those embraced can feel every pulse; every bit of her warmth."
-= 1940300:"死眠少女旅行时穿戴的的黑色布质长裤。\n\n提升2点智力和信仰，降低2%魔法专注值消耗并提升1%死亡魔法攻击力。\n\n质地有如薄丝一般柔软，\n能透过衣服感受到温暖与心跳。"
+= 1940300:"死眠少女旅行时穿戴的黑色布质长裤。\n\n提升2点智力和信仰，降低2%魔法专注值消耗并提升1%死亡魔法攻击力。\n\n质地有如薄丝一般柔软，\n能透过衣服感受到温暖与心跳。"
 < 1941100:"Robe of black cloth that covers the entire body.\nWorn by Fia, the Deathbed Companion, on her journey after being exiled from her home.\n\nThe fabric itself is soft as silk and thin enough that those embraced can feel every pulse; every bit of her warmth."
 > 1941100:"Robe of black cloth that covers the entire body.\nWorn by Fia, the Deathbed Companion, on her journey after being exiled from her home.\n\nIncreases INT and FTH by 4, reduces FP cost of sorcery by 4% and increases damage of Death Sorcery by 2%.\n\nThe fabric itself is soft as silk and thin enough that those embraced can feel every pulse; every bit of her warmth."
 - 1941100:"覆盖全身的黑色布质长袍。\n被赶出故乡的死眠少女──\n菲雅的旅行服装。\n\n质地有如薄丝一般柔软，\n能透过衣服感受到温暖与心跳。"

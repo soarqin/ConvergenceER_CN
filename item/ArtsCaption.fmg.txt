@@ -95,7 +95,7 @@
 < 219:"Skill: Carian Greatsword\n\nCarian royal prestige embodied in a skill.\nTransform blade into a magical greatsword and swing it down.\nCan be charged to increase its power."
 > 219:"Unique Skill: Celestial Ascension\n\nInvoke the power of the stars imbuing the weapon with power, while active, your heavy attacks will use different techniques.\nA single skill attack will cause you to teleport forward and cleave your foes with a release of celestial energy.\nCharging the skill attack will cause you the release a massive lateral arc of energy towards foes."
 - 219:"战技：卡利亚大剑\n\n喻为卡利亚王室象征的战技。\n将剑身化为魔力大剑，再向下挥舞。\n借由蓄力发动，能提升威力。"
-= 219:"专用战技：天启\n\n利用星辰之力为武器注入力量，激活时，你的重击将变成不同的动作。\n战技普通攻击会前传送并释放星辰之力分裂你的敌人。\n战技蓄力攻击则向敌人释放巨大的横向弧形能量。"
+= 219:"专用战技：天启\n\n利用星辰之力为武器注入力量，激活时，重击会变成不同的动作。\n战技普通攻击会向前传送，并释放星辰之力撕裂敌人。\n战技蓄力攻击则会向敌人释放巨大的横向弧形能量。"
 > 229:"Unique Skill: Erdtree Mastery\n\nTap the skill to swap between the two weapon forms.\nSword Form: Perform two slicing uppercut attacks and then follow up with a heavy attack to perform a leaping downward slam that causes a holy explosion on impact.\nSpear Form: Perform two lateral slash attacks and then follow up with a heavy attack to perform an upward thrust that causes a holy explosion on the tip of the spear at its full extension."
 = 229:"专用战技：黄金树绝招\n\n轻击发动战技，可在两种武器形态间切换。\n剑形态：进行两次反身上旋斩，然后衔接重攻击，可进行跳跃下劈，在击中时造成圣属性爆炸。\n矛形态：进行两次横向斩击，然后衔接重攻击，可进行上刺，在矛尖完全伸展时造成圣属性爆炸。"
 > 231:"Unique Skill: Magma Splash\n\nSwing armament with wild abandon sending magma spraying in all directions.\nHold to continue swinging. Can be followed up with a normal or strong attack. When followed up with a strong attack, the head of the flail will detonate with a great explosion of magma."
