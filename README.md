@@ -34,6 +34,7 @@
   * [KrukaL](https://github.com/KrukaL)
   * Cinderella小辛
   * [名侦探的锋刃灰原哀](https://github.com/terrsia)
+  * 破坏
 
 ## 鸣谢
 * [Convergence MOD for Elden Ring](https://www.nexusmods.com/eldenring/mods/3419): 原MOD
