@@ -217,5 +217,6 @@
 < 401002:"©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc."
 O 401002:"©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc. / Convergence Ver. 2.2.3A"
 > 401002:"©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc. / Convergence Ver. 3.0"
+- 401002:"©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc."
 C 401002:"©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc. / Convergence Ver. 2.2.3A"
 = 401002:"©Bandai Namco Entertainment Inc. / ©2024 FromSoftware, Inc. / Convergence Ver. 3.0"

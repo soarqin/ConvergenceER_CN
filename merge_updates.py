@@ -11,7 +11,7 @@ location in original_dir according to the following rules:
 - For duplicate entry numbers:
   - '<' lines: keep original if exists, otherwise use update
 - '>' lines: original's '>' becomes 'O', placed below '<'; update's '>' kept as '>'
-- '-' lines: original's '-' becomes 'C', placed below '>'; update's '-' kept as '-'
+- '-' lines: keep original's '-' if exists, otherwise use update's '-'
   - '=' lines: use update's '=' directly
 """
 
@@ -88,9 +88,11 @@ def merge_entries(orig_entries, update_entries):
             if '>' in update_map:
                 result.append(('>', update_map['>']))
 
-            # '-' - use update's '-'
+            # '-' - use update's '-' if available, otherwise keep original's '-'
             if '-' in update_map:
                 result.append(('-', update_map['-']))
+            elif '-' in orig_map:
+                result.append(('-', orig_map['-']))
 
             # 'C' - original's '=' renamed (old MOD Chinese translation)
             if '=' in orig_map:

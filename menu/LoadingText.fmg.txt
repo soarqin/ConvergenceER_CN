@@ -29,6 +29,7 @@
 < 74:"When the sleep gauge is full, you will become drowsy.\nWeaker characters will fall asleep entirely.\nThe higher your focus, the longer it takes for the sleep gauge to fill."
 O 74:"When the sleep gauge is full, you will become drowsy.\nWeaker characters will fall asleep entirely.\n\nCharacters afflicted by sleep will deal less damage and take increased damage from other sources.\nThe higher your focus, the longer it takes for the sleep gauge to fill."
 > 74:"When the sleep gauge is full, you will become drowsy.\nWeaker characters will fall asleep entirely.\n\nPowerful foes that are sleep resistant will become drowsy momentarily.\n\nCharacters afflicted by sleep will deal less damage and take increased damage from other sources.\nThe higher your focus, the longer it takes for the sleep gauge to fill."
+- 74:"催眠的量表会持续累积，\n突破界限后会引发异常状态“催眠”。\n不敌睡意的人物会陷入酣眠。\n\n理智度越高，量表累积的速度就越慢。"
 C 74:"催眠的量表会持续累积，\n突破界限后会引发异常状态“催眠”。\n不敌睡意的人物会陷入酣眠。\n\n受到催眠状态的人物，造成的伤害会减少，且受到攻击时的损伤会增加。\n理智度越高，量表累积的速度就越慢。"
 = 74:"睡眠的量表会持续累积，\n突破界限后会引发异常状态“睡眠”。\n\n较弱的角色会完全陷入沉睡。\n\n对睡眠有抗性的强敌会短暂陷入昏沉。\n\n受到睡眠状态的角色，造成的伤害会减少，受到攻击时的损伤会加剧。\n理智度越高，量表累积的速度就越慢。"
 < 75:"When the madness gauge is full, you will go mad and lose a great deal of both HP and FP.\nOnly humans can be afflicted with madness.\nThe higher your focus, the longer it takes for the madness gauge to fill."

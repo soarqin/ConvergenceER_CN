@@ -2411,6 +2411,7 @@
 < 30110000:"Small metal roundshield depicting a sinister rift.\n\nAn antiquated charm that glares back at an enemy, it boosts focus."
 O 30110000:"Small metal roundshiled depicting a sinister rift to the depths of the cosmos.\n\nThis shield increases the damage of Gravity sorceries by 10%."
 > 30110000:"Small metal roundshield depicting a sinister rift to the depths of the cosmos.\n\nThis shield increases the damage of Gravity sorceries by 10%."
+- 30110000:"盾面刻有充满灾厄气息裂缝的\n金属制小圆盾。\n\n那是名为“回瞪”的古老魔咒，\n具有提升理智度的效果。"
 C 30110000:"盾面刻有通往深空的，充满灾厄气息的裂缝，\n以金属制作的小圆盾。\n\n提升10%重力魔法攻击力。"
 = 30110000:"描绘着通往宇宙深渊的险恶裂隙的金属小圆盾。\n\n提升10%重力魔法攻击力。"
 < 30140000:"Small metal roundshield. Heavier than a wooden shield, but boasts higher damage negation.\n\nThe ice crest originates from a Carian princess. Though the effect is slight, it boosts magic damage negation and resistance to frost."

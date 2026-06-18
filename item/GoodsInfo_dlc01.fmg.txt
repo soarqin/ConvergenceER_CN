@@ -45,7 +45,7 @@
 > 2006330:"Travel a short distance and release an explosion of Bloodflame at your destination"
 = 2006330:"短距离移动并在目的地释放血焰爆炸"
 > 2006340:"Applies a curse to all enemies around you which causes life loss when it expires"
-= 2006340:"对周围所有敌人施加诅咒，诅咒到期时造成生命损失"
+= 2006340:"对周围所有敌人施加诅咒，诅咒到期时造成生命流失"
 > 2006350:"Launches a projectile that causes bleed and converts any Bloodflame curse on the foe into a beneficial effect"
 = 2006350:"发射造成出血的飞弹，并将敌人身上的血焰诅咒转化为增益效果"
 < 2006680:"Fires a hail of golden projectiles toward foes"
