@@ -1536,7 +1536,7 @@
 > 14070000:"Made at the same time as the Glintstone Kris, this axe was not gifted to Leyndell but retained by the Carians, fearful that if their newfound truce were to break, that this weapon might be used against them with terrible results."
 = 14070000:"这把斧头与辉石克力士同时制造，没有被赠予罗德尔，而是由卡利亚皇室保留，因其担心若是新达成的休战协议被打破，这把武器可能会被用来对付自身，并造成可怕的后果。"
 > 14090000:"A stout double-bladed axe, forged of gold. A weapon crafted for the now defunct Tree Sentinel Infantry.\n\nNamed in reverence to the epiphany of Queen Marika that brought about the first Golden Order orthodoxy."
-= 14090000:"一把坚固的双刃斧，由黄金锻造而成。为现已不存的步战大树守卫制作的武器。\n\n这是为铭记玛丽卡女王的显圣——她带来了第一个黄金律法正统信仰。"
+= 14090000:"一把坚固的双刃斧，由黄金锻造而成。为现已不存的步战大树守卫制作的武器。\n\n这是为铭记玛莉卡女王的显圣——她带来了第一个黄金律法正统信仰。"
 < 14100000:"Single-sided axe used by the warriors of the highlands.\n\nBrave combatants begin battle by crying out their names. Roars are enhanced by this weapon."
 > 14100000:"Single-sided axe used by the warriors of the highlands.\n\nBrave combatants begin battle by crying out their names."
 - 14100000:"高地战士使用的单头斧。\n\n在自报名号的同时，\n战士的战斗也随之开始。\n此武器能强化咆哮。"
