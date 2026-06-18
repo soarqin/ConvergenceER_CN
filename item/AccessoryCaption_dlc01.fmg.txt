@@ -34,7 +34,7 @@
 O 8100:"A quaint bouquet of dried flowers, offered to a small grave.\n\nRaises attack power by 15% for 20 seconds when a spirit you have summoned dies.\n\nThe sorrow that flows from the untimely demise of a loved one is a tenderness shared by all, regardless of birthplace."
 > 8100:"A quaint bouquet of dried flowers, offered to a small grave.\n\nRaises attack power by 15% for 20 seconds when a spirit you have summoned dies. The wearer also becomes 30% harder to target for foes.\n\nThe sorrow that flows from the untimely demise of a loved one is a tenderness shared by all, regardless of birthplace."
 C 8100:"惹人怜爱的干枯花束。\n供养在小墓碑前的物品。\n\n当自己召唤的灵魂死亡时，能提升15%攻击力，持续20秒。\n\n对深爱之人的不幸感到心伤──\n这情感不论身处何地，皆是如此。"
-= 8100:"惹人怜爱的干枯花束。\n供养在小墓碑前的物品。\n\n当自己召唤的灵魂死亡时，能提升15%攻击力，持续20秒。\n佩戴者被敌人锁定的概率也会降低30%。\n\n对深爱之人的不幸感到心伤──\n这情感不论身处何地，皆是如此。"
+= 8100:"惹人怜爱的干枯花束。\n供养在小墓碑前的物品。\n\n当自己召唤的灵魂死亡时，能提升15%攻击力，持续20秒。佩戴者被敌人锁定的概率也会降低30%。\n\n对深爱之人的不幸感到心伤──\n这情感不论身处何地，皆是如此。"
 < 8110:"A talisman depicting an ancient smithing hammer.\nInscribed with a smithscript.\n\nEnhances weapon-throwing attacks.\n\nIn ancient times, smithing was a divine act, and blacksmiths interpreted the script they perceived in the wrinkles of molten steel to imbue weapons with souls."
 > 8110:"A talisman depicting an ancient smithing hammer.\nInscribed with a smithscript.\n\nEnhances weapon-throwing attacks by 10%.\n\nIn ancient times, smithing was a divine act, and blacksmiths interpreted the script they perceived in the wrinkles of molten steel to imbue weapons with souls."
 - 8110:"以老旧锻造铁锤的形象制成的护符。\n表面刻着流纹文字。\n\n能强化投掷武器时的攻击。\n\n在远古时代，锻造是敬神的仪式。\n据说在熔化的钢铁中，一层层的皱褶内刻有文字。\n铁匠会找出文字，用于固定武器的灵魂。"

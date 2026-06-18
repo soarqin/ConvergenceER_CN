@@ -7,7 +7,7 @@
 < 5110:"Unique Skill: Mists of Eternal Sleep\n\nReleases a velvety purple mist that spreads across a wide frontal area. Afflicts foes with eternal sleep."
 > 5110:"Unique Skill: Velvet Flurry\n\nTwist to build power, then unleash a flurry of thrusts. On the final thrust, release a velvety purple mist that spreads across a wide frontal area. Afflicts foes with eternal sleep."
 - 5110:"专用战技：永眠烟雾\n\n朝前方形成大范围暗紫色烟雾的战技。\n暗紫色烟雾具有引发异常状态永眠的效果。"
-= 5110:"专用战技：柔紫连击\n\n蓄力后发动一连串刺击。\n于最后的刺击当下，会朝前方大范围形成暗紫色的烟雾。\n暗紫色烟雾具有引发异常状态永眠的效果。"
+= 5110:"专用战技：柔紫连击\n\n蓄力后发动一连串刺击。于最后的刺击当下，会朝前方大范围形成暗紫色的烟雾。暗紫色烟雾具有引发异常状态永眠的效果。"
 < 5150:"Unique Skill: Promised Consort\n\nImbue the two greatswords with the light of Miquella, then deliver a slashing attack accompanied by columns of light. Additional input allows for up to two follow-up attacks."
 > 5150:"Unique Skill: Waves of Madness\n\nUse the skill attack to perform two lateral slashes that emit waves of frenzied flame in front of you, follow up with another skill attack to continue the slashes another two times and then follow up with a final skill attack to deliver powerful slash."
 - 5150:"专用战技：约定之王\n\n在两把大剑的剑身缠绕米凯拉的光，\n使出伴随光柱的连续斩击。\n再次发动，能使出最多两次的连击。"
