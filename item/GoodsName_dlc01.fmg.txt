@@ -1,7 +1,3 @@
-< 2000300:"Hefty Fire Pot"
-> 2000300:"Hefty Fire Pot"
-- 2000300:"大火焰壶"
-= 2000300:"大火焰壶"
 > 2002040:"Daergraf's Heart"
 = 2002040:"达格拉夫的心脏"
 < 2004310:"Glintblade Trio"
