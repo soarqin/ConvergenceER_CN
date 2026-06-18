@@ -48,7 +48,7 @@
 = 297132:"身穿重甲的战士，\n是抵御敌人的铜墙铁壁。\n专精：力气 - 近战"
 < 297133:"A dangerous bandit who strikes for\nweak points. Excels at ranged combat\nwith bows."
 > 297133:"A nomadic mercenary who fights\nwielding two blades at once. A master of bladed techniques.\nStarts at Stormhill."
-- 297133:"专挑致命一击攻击的危险游荡者\n会用弓箭，能进行远距离攻击"
+- 297133:"专挑致命一击攻击的危险盗贼\n会用弓箭，能进行远距离攻击"
 = 297133:"游牧民族出身的佣兵，\n会同时挥舞两柄剑，精于剑术。\n以风暴山丘作为出发地。"
 < 297134:"A scholar who reads fate in the stars.\nHeir to the school of glintstone sorcery."
 > 297134:"A capricious mercenary, displaying expertise \nin the use of double-bladed weaponry.\nFocus: DEX - Melee Combat"

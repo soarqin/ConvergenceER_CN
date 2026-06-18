@@ -22,7 +22,7 @@
 = 5431:"月之轨道"
 < 5540:"Horn Calling: Storm"
 > 5540:"Tempest Cleave"
-- 5540:"่角降临之风暴"
+- 5540:"角降临之风暴"
 = 5540:"้风暴劈击"
 > 5610:"Transcendant Stance"
 = 5610:"超凡架势"
