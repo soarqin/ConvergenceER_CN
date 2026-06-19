@@ -95,7 +95,7 @@
 < 2060:"Enhances counterattacks unique to thrusting weapons"
 > 2060:"Enhances the guard attacks that are unique to thrusting weapons and boosts guarding ability."
 - 2060:"能强化突刺攻击特有的反击攻击"
-= 2060:"能强化突刺攻击特有的盾戳，并提升防御能力"
+= 2060:"能强化盾戳攻击，并提升防御能力"
 < 2150:"Raises attack power of arrows and bolts"
 > 2150:"Increases effective range of bows and increases damage"
 - 2150:"能提升射出箭、弩箭时的攻击力"

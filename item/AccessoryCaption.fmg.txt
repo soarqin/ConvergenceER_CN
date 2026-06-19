@@ -135,7 +135,7 @@ O 2060:"A talisman depicting a spear and a soldier.\nEnhances the guard attacks 
 > 2060:"A talisman depicting a spear and a soldier.\nEnhances the guard attacks that are unique to thrusting weapons by 15% and boosts guarding ability by 20%.\n\nSpears are standard weapons for soldiers in the Lands Between. They made it possible to respond to a ferocious foe with an equally ferocious counterattack."
 - 2060:"以矛与士兵的形象制成的护符。\n能强化突刺攻击特有的反击攻击。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
 C 2060:"以矛与士兵的形象制成的护符。\n能强化突刺攻击特有的反击攻击，并提升防御能力。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
-= 2060:"以矛与士兵的形象制成的护符。\n能使突刺攻击特有的盾戳强化15%，并提升20%防御能力。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
+= 2060:"以矛与士兵的形象制成的护符。\n能使盾戳攻击强化15%，并提升20%防御能力。\n\n在交界地之中，常见士兵用矛。\n遇上强敌时，有时能给予有效反击。"
 < 2070:"A talisman depicting a hammer and a knight.\nEnhances stamina-reducing attacks against a blocking opponent.\n\nHammers are highly effective against shield-bearing foes, so much so that they are known as \"knight-killers.\""
 > 2070:"A talisman depicting a hammer and a knight.\nEnhances stamina-reducing attacks against a blocking opponent by 20%.\n\nHammers are highly effective against shield-bearing foes, so much so that they are known as \"knight-killers.\""
 - 2070:"以大槌与骑士的形象制成的护符。\n当敌人防御，攻击时能增加对方消耗的精力。\n\n槌在对上持盾敌人时相当有效，\n为狩猎骑士时的知名武器。"
