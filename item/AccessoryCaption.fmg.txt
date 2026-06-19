@@ -43,7 +43,7 @@
 > 1091:"Raises faith and arcane by 3."
 = 1091:"能提升3点信仰和感应。"
 > 1095:"A talisman engraved with the lore of an outer god.\nRaises arcane by 6.\n\nThe clan, who lost everything in the great fires, peered upon the corpse of their ancestor, normally an act of sanctity, and saw in its shadow a twisted deity.\n\nThe clan had suffered such torment that the horrible thing was taken as an object of worship."
-= 1095:"雕制关于外在神祇传说的护符。\n能提升6点感应。\n\n人民蒙受火难、被夺去一切后，\n从他们尊贵祖先的遗体影子里，\n发现了异样的为神本质。\n\n在备受折磨、走投无路的情况下，\n他们还是向不祥的异形求助。"
+= 1095:"雕制关于外在神祇传说的护符。\n能提升6点感应。\n\n人民蒙受火难、被夺去一切后，\n从他们尊贵祖先的遗体影子里，\n发现了异样的为神本质。\n\n在备受折磨、走投无路的情况下，\n他们还是将那不祥的异形奉为膜拜的对象。"
 < 1100:"A talisman facsimile of a scarab, the carrier of treasures and precious things.\n\nThis silver scarab enhances item discovery."
 > 1100:"A talisman facsimile of a scarab, the carrier of treasures and precious things.\n\nThis silver scarab enhances item discovery by 75."
 - 1100:"各种宝藏、贵重物品的搬运工──\n以粪金龟的形象制成的护符。\n\n银色的护符能提升观察力。"

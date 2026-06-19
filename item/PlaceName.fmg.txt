@@ -811,7 +811,7 @@
 > 903181000:"Red Wolf of Radagon"
 = 903181000:"拉达冈的红狼"
 > 903181300:"Red Wolf of the Champion"
-= 903181300:"拉达冈的红狼"
+= 903181300:"英雄的红狼"
 > 903250600:"Draconic Tree Sentinel"
 = 903250600:"龙装大树守卫"
 > 903251600:"Tree Sentinel"
