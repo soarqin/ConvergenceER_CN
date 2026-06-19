@@ -301,7 +301,7 @@
 > 16502100:"Spear engraved with a smithscript.\nA throwing weapon created through the smithing arts.\n\nExecute a strong attack, a dashing strong attack, or a mounted strong attack to throw the spear."
 = 16502100:"表面刻有流纹文字的矛。\n由锻造术催生的其中一种投掷武器。\n\n使出重攻击，或冲刺重攻击，\n以及骑马时的重攻击，能投掷矛。\n\n"
 > 16560000:"A polearm mounted with a spiked steel ring at the end, carried as a spear.\n\nThe gaolers of Noxumbra tirelessly hunted the streets to fuel Daergraf's grizzly experiments. The silver tears were hounded to almost complete extinction."
-= 16560000:"末端装有带刺钢环的长柄武器，作为矛来使用。\n\n诺克斯安布拉的狱卒们不知疲倦地在街道上追猎，为达格拉夫的残酷实验提供素材。银泪几乎被猎杀至灭绝。"
+= 16560000:"末端装有带刺钢环的长柄武器，作为矛来使用。\n\n诺克斯安布拉的狱卒们不知疲倦地在街道上追猎，为达格拉夫的残酷实验提供素材。银色泪滴几乎被猎杀至灭绝。"
 > 17511300:"Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."
 = 17511300:"侍奉“穿刺者”梅瑟莫的士兵们持有的武器。\n经过长久使用，具有铁制刀刃的大矛。\n\n为了严峻的侵略战争而有的武器。\n蓄力攻击会变成连续攻击。"
 > 17511400:"Weapon used by the soldiers who serve Messmer the Impaler.\nA greatspear with a steel blade worn from use.\n\nBeing made for overwhelming onslaughts, attacks with this weapon can be charged to unleash consecutive strikes."

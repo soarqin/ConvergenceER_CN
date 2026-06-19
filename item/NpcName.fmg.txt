@@ -85,7 +85,7 @@
 < 180103:"Nomadic Merchant"
 > 180103:"Survivalist Merchant"
 - 180103:"流浪民族的商人"
-= 180103:"荒野商人"
+= 180103:"求生商人"
 < 180104:"Nomadic Merchant"
 > 180104:"Herbalist Merchant"
 - 180104:"流浪民族的商人"
