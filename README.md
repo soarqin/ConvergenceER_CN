@@ -30,11 +30,12 @@
     * 2.0.1之后的部分文本修正和大量翻译用词统一工作
     * 2.1.0的全部翻译工作
     * 2.2.3的部分修正
-* 3.0 的讨论、翻译、校对、修正工作
+* 3.0 的讨论、翻译、校对、修正工作 (贡献排名不分先后)
   * [KrukaL](https://github.com/KrukaL)
   * Cinderella小辛
   * [名侦探的锋刃灰原哀](https://github.com/terrsia)
   * 破坏
+  * [Lery](https://github.com/pgain2004)
 
 ## 鸣谢
 * [Convergence MOD for Elden Ring](https://www.nexusmods.com/eldenring/mods/3419): 原MOD
