@@ -1,0 +1,21 @@
+## 使用说明
+
+1. 将 `mod` 目录解压到 `Start_Convergence.bat` 所在的目录
+2. 进入 `mod\msg\zhocn` 确认文件是否已经被替换 (看修改时间)
+3. Steam 里确保把法环的语言设为 `简体中文` 后启动游戏
+
+
+## 贡献者
+* 2.2.3A版本及以前
+  * [KrukaL](https://github.com/KrukaL)
+    * 1.2的大量翻译修正以及1.3绝大多数词条的翻译，没有他大家不可能快玩到这个完整的翻译版本
+    * 1.4.2之后提供了大量翻译问题的修正
+    * 2.0.1之后的部分文本修正和大量翻译用词统一工作
+    * 2.1.0的全部翻译工作
+    * 2.2.3的部分修正
+* 3.0 的讨论、翻译、校对、修正工作 (贡献排名不分先后)
+  * [KrukaL](https://github.com/KrukaL)
+  * Cinderella小辛
+  * [名侦探的锋刃灰原哀](https://github.com/terrsia)
+  * 破坏
+  * [Lery](https://github.com/pgain2004)
