@@ -13,7 +13,7 @@
 > 30210:"Vulgar Militia Stronghold"
 = 30210:"恶兵要塞"
 > 31810:"Church of Unification"
-= 31810:"统合教堂"
+= 31810:"合一教堂"
 > 31811:"Ritual Amphitheatre"
 = 31811:"仪式斗技场"
 > 31830:"Raya Crystalia"
