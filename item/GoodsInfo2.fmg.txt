@@ -49,7 +49,7 @@
 > 11054:"Enhances guard counter attacks"
 = 11054:"强化防御反击"
 > 11055:"Enhances mounted attacks"
-= 11055:"强化骑马攻击"
+= 11055:"强化骑乘攻击"
 > 11056:"Steadily restores FP for a time"
 = 11056:"一定时间内持续恢复专注值"
 > 11057:"Temporarily boosts max FP"
