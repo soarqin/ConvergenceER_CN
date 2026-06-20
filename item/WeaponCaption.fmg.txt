@@ -1631,7 +1631,7 @@
 > 14150000:"A steel hand-axe tainted with blood with a distinctive shape. Part of the original kit of the order of Bloodhound Knights. This weapon has mostly fallen out of use among them, now replaced in favor of hooked claws."
 = 14150000:"沾有血迹，形状奇特的铁质手斧。这原本是属于猎犬骑士的装备——他们已几乎不再使用此种武器，以钩爪取而代之。"
 > 14160000:"An axe and shield considered sacred to the elusive coven of snow witches, the blade coated in frost. \n\nOnce wielded by barbaric men of the north, sworn to the service of the witches, it was often wondered if their implacable loyalty was freely given or the result of some meddling sorcery."
-= 14160000:"对神出鬼没的雪魔女们来说神圣的盾斧，刃上覆盖着寒霜。\n\n北方蛮族所挥舞的武器。他们为雪魔女效力，人们常常想知道他们不移的忠诚是出于自愿还是某种干预法术的结果。"
+= 14160000:"对神出鬼没的雪魔女们来说神圣的盾斧，刃上覆盖着寒霜。\n\n北方蛮族所挥舞的武器。他们为雪魔女效力，人们常常想知道他们不移的忠诚是出于自愿还是某种干预魔法的结果。"
 > 14170000:"A pair of sickle-like light axes tainted with the power of tainted blood.\n\nOnce held by a nameless warrior from the Land of Reeds, this weapon speaks to the extent of the blood corruption that has overtaken that distant land."
 = 14170000:"一对镰刀状的轻斧，沾染了污秽之血的力量。\n\n这把武器曾为芦苇之地的一位无名战士所持有，它反映了那片遥远土地上鲜血腐化的程度。"
 > 15001300:"Greataxe akin to a huge lump of iron. Recognized as the weapon of choice of badland chieftains.\n\nToo heavy to be wielded by those of merely ordinary strength, blows from this axe will flatten enemies, and the force of its charged attack is a sight to behold."

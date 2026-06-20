@@ -1,7 +1,7 @@
 < 2002010:"Turns human frame into ancient dragon and boosts Dragon Communion incantations"
 > 2002010:"Turns human frame into ancient dragon and boosts Dragon Communion Spells"
 - 2002010:"能以人身化为古龙，并强化龙飨的祷告"
-= 2002010:"能以人身化为古龙，并强化龙飨魔法"
+= 2002010:"能以人身化为古龙，并强化龙飨法术"
 < 2002020:"Turns human frame into ancient dragon and boosts Dragon Cult incantations"
 > 2002020:"Turns human frame into ancient dragon and boosts Dragon Cult Incantations"
 - 2002020:"能以人身化为古龙，并强化王城古龙信仰的祷告"
