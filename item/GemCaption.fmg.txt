@@ -319,7 +319,7 @@
 - 60700:"能赋予武器属性、战技的战灰。\n属性为“厚重”，战技如下：\n\n\u3000战技：岩石剑\n\u3000以重力招式为人知晓的战技。\n\u3000将武器敲向地面，让岩石攀附其上。\n\u3000能提升攻击力，也容易让敌人失去平衡。\n\n能在近战武器使用。\n（不含软鞭类武器）"
 = 60700:"能赋予武器战技的战灰。\n战技如下：\n\n\u3000战技：岩石剑\n\u3000以重力招式为人知晓的战技。\n\u3000将武器敲向地面，让岩石攀附其上。\n\u3000能提升攻击力，也容易让敌人失去平衡。\n\n能在近战武器使用。\n（不含软鞭类武器）"
 > 60800:"This Ash of War grants an armament the following skill:\n\n\"Stormbreaker's Deflection: Flick your wrist to conjure the power of the storm on the armament for 1 minute. \nWhile active, the weapon gains Spontaneous Guard. \nDamage negation and guard poise will be heightened in the moment immediately after assuming a guarding stance.\"\n\nUsable on all melee armaments."
-= 60800:"能赋予武器战技的战灰。\n战技如下：\n\n\u3000战技：破风暴者偏折\n\u3000轻弹手腕，将风暴之力赋予武器，持续1分钟。\n\u3000有效期间，武器获得瞬间防御效果。\n\u3000刚摆出防御架势的瞬间，\n\u3000减伤率与防御强韧度将大幅提升。\n\n能在所有的近战武器使用。"
+= 60800:"能赋予武器战技的战灰。\n战技如下：\n\n\u3000战技：破风暴者偏折\n\u3000轻弹手腕，将风暴之力赋予武器，持续1分钟。\n\u3000有效期间，武器获得瞬间防御效果。\n\u3000刚摆出防御架势的瞬间，\n\u3000减伤率与防御强度将大幅提升。\n\n能在所有的近战武器使用。"
 < 65000:"This Ash of War grants an armament the Heavy affinity and the following skill:\n\n\"Barbaric Roar: Let loose a bestial roar to rally the spirit and increase attack power. While active, strong attacks change to savage combo attacks.\"\n\nUsable on melee armaments (daggers, thrusting swords, and whips excepted)."
 > 65000:"This Ash of War grants an armament the following skill:\n\n\"Barbaric Roar: Let loose a bestial roar to rally the spirit and increase attack power. While active, strong attacks change to savage combo attacks.\"\n\nUsable on melee armaments (daggers, thrusting swords, and whips excepted)."
 - 65000:"能赋予武器属性、战技的战灰。\n属性为“厚重”，战技如下：\n\n\u3000战技：野蛮咆哮\n\u3000发出野兽般的咆哮，\n\u3000借此激励自己，提升攻击力的战技。\n\u3000在战技有效期间内，重攻击会变成野蛮连击。\n\n能在近战武器使用。\n（不含短剑、刺剑、软鞭类武器）"

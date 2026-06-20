@@ -167,7 +167,7 @@
 - 4530000:"拉塔恩的大剑（王）"
 = 4530000:"拉塔恩的大剑"
 > 8530000:"Demi-Dragon Cleaver"
-= 8530000:"半龙大柴刀"
+= 8530000:"亚龙大柴刀"
 < 12500400:"Fire Smithscript Greathammer"
 > 12500400:"Glint Smithscript Greathammer"
 - 12500400:"火焰流纹大槌"

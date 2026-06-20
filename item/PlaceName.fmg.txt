@@ -15,7 +15,7 @@
 > 31810:"Church of Unification"
 = 31810:"统一教会"
 > 31811:"Ritual Amphitheatre"
-= 31811:"仪式圆形剧场"
+= 31811:"仪式斗技场"
 > 31830:"Raya Crystalia"
 = 31830:"雷亚结晶地"
 > 64003:"Dragonbarrow Port"
