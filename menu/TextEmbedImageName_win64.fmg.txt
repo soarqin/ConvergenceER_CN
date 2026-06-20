@@ -1,3 +1,0 @@
-> 3001:"KG_TEX_NewItem_mark"
-= 3001:"KG_TEX_NewItem_mark"
-
