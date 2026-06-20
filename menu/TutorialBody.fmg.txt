@@ -70,7 +70,7 @@ C 403032:"防具能力与增强你能力的法术不兼容。\n\n如果你有任
 > 403080:"Scadutree Fragments and Revered Spirit Ashes have been removed from the Realm of Shadows, the blessings having been replaced with Shadow Smithing and Shadow Somber Stones."
 = 403080:"幽影之地的幽影树碎片和灵灰已被移除，庇佑被替换为幽影锻造石和幽影失色锻造石。"
 > 403081:"Shadow Stones are upgrade materials that can reinforce weapons above that of Ancient Stones.\n\nYou can only find Shadow Stones in the Realm of Shadows, and the reinforcements applied to your weapons will remain effective even when used in the Lands Between."
-= 403081:"幽影锻造石是比古龙锻造石更高级的强化材料。\n\n你只能在幽影之地找到幽影锻造石，对武器的强化效果在交界地依然有效。"
+= 403081:"幽影锻造石与幽影失色锻造石是比古龙级锻造石更高级的强化材料。\n\n你只能在幽影之地找到幽影锻造石，对武器的强化效果在交界地依然有效。"
 > 403090:"Status effects have received balancing adjustments and changes in order to present the player with more viable options for offense.\n\nPoison, scarlet rot, blood loss, and frostbite have adjusted damage values, while the damage of poison and scarlet rot applied by you have been made universal across all sources respectively."
 = 403090:"状态效果进行了平衡调整和改动，为玩家提供更多可行的进攻选择。\n\n中毒、猩红腐败、出血和冻伤调整了伤害值，而你能造成的中毒和猩红腐败则各自统一了所有来源的伤害。"
 > 403091:"Deathblight, madness, and sleep now have new effects when applied to foes that aren't tarnished.\n\nStatus buildup inflicted by you does not scale with any stats, but will instead increase with weapon reinforcement on certain weapons."

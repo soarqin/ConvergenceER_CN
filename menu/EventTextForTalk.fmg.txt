@@ -144,7 +144,7 @@ C 13040253:"<font size=\"20\"><u>托雷特</u></font>\n速度：100%丨冲刺无
 - 22000000:"重新诞生"
 = 22000000:"重生 （重新分配属性）"
 < 22000003:"Greater Rebirth (Refund <?evntAcquittalPrice?> Levels)"
-= 22000003:"大重生 （返还<?evntAcquittalPrice?>级的卢恩）"
+= 22000003:"大重生 （返还<?evntAcquittalPrice?>级）"
 > 22001010:"Greater Rebirth will give you back <?evntAcquittalPrice?> Runes and reverts your Levels and Attributes\nto the starting values of your class."
 = 22001010:"大重生将返还<?evntAcquittalPrice?>卢恩，并将等级和属性还原为职业的初始值。"
 > 22001011:"Using Greater Rebirth comes with a cost, Runes equal to your last level up will be consumed\nin the process and will not be returned. This is equal to <?evntAcquittalPrice?> Runes.\nDo you wish to proceed?"

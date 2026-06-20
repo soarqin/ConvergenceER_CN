@@ -18,7 +18,7 @@
 = 403030:"防具能力"
 > 403031:"Armor Abilities II"
 = 403031:"防具能力 II"
-> 403032:"Armor Abilities III
+> 403032:"Armor Abilities III"
 = 403032:"防具能力 III"
 > 403040:"Spell Runes"
 = 403040:"法术卢恩"

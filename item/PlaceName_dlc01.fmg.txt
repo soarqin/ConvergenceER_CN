@@ -1,7 +1,7 @@
 > 31810:"Ritual Amphitheatre"
 = 31810:"仪式斗技场"
 > 140200:"Empyrean Grandam"
-= 140200:"天空老妪"
+= 140200:"神人老妪"
 > 140300:"Igon"
 = 140300:"埃贡"
 > 140301:"Drake Warrior Igon"
