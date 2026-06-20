@@ -37,8 +37,6 @@
 = 890200:"囚犯链铐"
 > 960200:"Gloves of Tanith, Lady of the Volcano Manor"
 = 960200:"火山官邸的主人塔妮丝的手套"
-> 963200:"Noble's waistcloth woven with sturdy fabric"
-= 963200:"地方贵族穿戴，用坚固的布料制成的腕套"
 > 964200:"Noble's manchettes woven with sturdy fabric"
 = 964200:"地方贵族穿戴，用坚固的布料制成的腕套"
 > 964300:"Noble's legwraps woven with sturdy fabric"

@@ -2096,7 +2096,6 @@
 > 19020000:"War scythe of the Cleanrot Knights who fought alongside Malenia, Blade of Miquella.\n\nThis was the weapon of commanders in Malenia's army, and the half-halo blade deals holy damage.\nCan be used in combination with the Cleanrot Knight's Sword"
 - 19020000:"与“米凯拉的锋刃”玛莲妮亚\n并肩作战的尊腐骑士们持有的战镰。\n\n骑士们的指挥官持有的武器。\n半环状的光环刀刃，具有圣属性攻击力。"
 = 19020000:"与“米凯拉的锋刃”玛莲妮亚\n并肩作战的尊腐骑士们持有的战镰。\n\n骑士们的指挥官持有的武器。\n半环状的光环刀刃，具有圣属性攻击力。\n可以和尊腐骑士剑搭配使用。"
-= 19030000:"与“米凯拉的锋刃”玛莲妮亚并肩作战的尊腐骑士们持有的战镰。\n\n骑士们的指挥官持有的武器。\n半环状的光环刀刃，具有圣属性攻击力。\n可以和尊腐骑士剑搭配使用。"
 > 19040000:"A bulky scythe forged exclusively for battle. The blade is blunted from repeated use in combat and is exceptionally heavy, allowing for greater impact while striking foes."
 = 19040000:"专为战场铸造的笨重大镰刀。由于在战斗中反复使用，刀刃已经变钝；此外还非常沉重，可以在攻击敌人时造成更严重的打击。"
 < 19050000:"Scythe used both for collecting\nand offering up the dead.\nThe blade itself seems to be\na tortured, maddened thing."

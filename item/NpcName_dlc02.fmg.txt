@@ -1,2 +1,0 @@
-> 90000:"<font color=\"#3AE400\">Alive</font>"
-= 90000:"<font color=\"#3AE400\">尚存</font>"
