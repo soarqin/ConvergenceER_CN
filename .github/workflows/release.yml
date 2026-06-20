@@ -1,0 +1,33 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare package contents
+        run: |
+          mkdir -p mod/msg/zhocn
+          cp stage/item_dlc02.msgbnd.dcx mod/msg/zhocn/
+          cp stage/menu_dlc02.msgbnd.dcx mod/msg/zhocn/
+          cp stage/使用说明.txt 使用说明.txt
+
+      - name: Create release archive
+        run: |
+          zip -r "ConvergenceER_${{ github.ref_name }}.zip" mod/msg/zhocn/item_dlc02.msgbnd.dcx mod/msg/zhocn/menu_dlc02.msgbnd.dcx 使用说明.txt
+
+      - name: Upload release archive
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ConvergenceER_${{ github.ref_name }}.zip
+          generate_release_notes: true
