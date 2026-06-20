@@ -9,7 +9,7 @@
 > 121880:"Erdtree Nursery"
 = 121880:"黄金树苗圃"
 > 121890:"Rauh Reliquary"
-= 121890:"劳弗圣匣"
+= 121890:"劳弗圣龛"
 > 121910:"Forgotten Ritekeeper of Rauh"
 = 121910:"被遗忘的劳弗仪卫"
 > 121911:"Refined Ritekeeper of Rauh"
