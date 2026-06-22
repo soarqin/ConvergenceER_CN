@@ -36,6 +36,7 @@
   * [名侦探的锋刃灰原哀](https://github.com/terrsia)
   * 破坏
   * [Lery](https://github.com/pgain2004)
+  * 慕笔
 
 ## 鸣谢
 * [Convergence MOD for Elden Ring](https://www.nexusmods.com/eldenring/mods/3419): 原MOD
