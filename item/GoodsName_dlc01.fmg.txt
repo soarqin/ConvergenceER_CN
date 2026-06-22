@@ -39,7 +39,7 @@
 > 2006340:"Fiendish Ritual"
 = 2006340:"恶魔仪式"
 > 2006350:"Blood of the Maiden"
-= 2006350:"巫女之血"
+= 2006350:"女巫之血"
 < 2006650:"Aspects of the Crucible: Thorns"
 > 2006650:"Crucible Quills"
 - 2006650:"熔炉百相之针"
