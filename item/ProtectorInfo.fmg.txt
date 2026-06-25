@@ -69,6 +69,8 @@
 = 1160200:"荒地狂战士穿戴的护腕"
 > 1160300:"Legwraps of a berserker of the badlands"
 = 1160300:"荒地狂战士穿戴的裹腿"
+> 1161000:"Headwear of a berserker of the badlands"
+= 1161000:""
 > 1170000:"The heavy armor of an unknown warrior"
 = 1170000:"无名勇士穿戴的头盔"
 > 1170100:"The heavy armor of an unknown warrior"
