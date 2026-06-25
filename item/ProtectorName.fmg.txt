@@ -124,7 +124,7 @@
 > 1160300:"Berserker Legwraps"
 = 1160300:"狂战士裹腿"
 > 1161000:"Berserker Leather Helm (Altered)"
-= 1161000:""
+= 1161000:"狂战士皮盔（轻装）"
 > 1170000:"Dreadnought Helm"
 = 1170000:"无畏者头盔"
 > 1170100:"Dreadnought Armor"

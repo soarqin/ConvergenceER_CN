@@ -117,7 +117,7 @@
 < 903181300:"Red Wolf of the Champion"
 > 903181300:"Red Wolf of Eiglay"
 - 903181300:"英雄的红狼"
-= 903181300:""
+= 903181300:"艾格蕾的红狼"
 > 903310000:"Stormcaller Taran"
 = 903310000:"风暴呼召者塔兰"
 > 903310501:"Tempestcaller Corwynt"

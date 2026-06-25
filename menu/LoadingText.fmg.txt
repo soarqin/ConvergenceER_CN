@@ -68,7 +68,7 @@ C 74:"催眠的量表会持续累积，\n突破界限后会引发异常状态“
 O 218:"Instead of sacrificing health or fp to summon,\nyou will suffer Summoning Sickness while using Spirit Ashes\nwith the potency of the sickness dependent on the type of summon.\n\nSummoning Sickness will reduce your maximum HP, FP, and stamina,\nbut this can be circumvented by using certain spells, equipment, or Baldachin's Blessings."
 > 218:"Instead of sacrificing HP or FP to summon,\nyou will suffer Summoning Sickness while using Spirit Ashes\nwith the potency of the sickness dependent on the type of summon.\n\nSummoning Sickness will reduce your maximum HP, FP, and stamina,\nbut this can be circumvented by using certain spells, equipment, or Baldachin's Blessings."
 C 218:"不再消耗血量或专注值召唤，\n取而代之的是召唤灵魂骨灰时会受到召唤疲劳。\n召唤疲劳的强度取决于召唤的类型。\n\n召唤疲劳会降低你的血量、专注值和精力的上限，\n但可以通过某些法术、装备或床帘的祝福来规避。"
-= 218:""
+= 218:"不再消耗血量或专注值召唤，\n取而代之的是使用灵魂骨灰时会受到召唤疲劳，\n召唤疲劳的强度取决于召唤的类型。\n\n召唤疲劳会降低你的血量、专注值和精力的上限，\n但可以通过某些法术、装备或床帘的祝福来规避。"
 > 219:"You will automatically regenerate FP at a rate of 1 FP per second\nwhich can be augmented further through the use of various talismans, crystal tears, armor abilities, and spell effects."
 = 219:"每秒会自动恢复1点专注值，\n这个效果可以通过各种护符、结晶露滴、装备能力和法术效果进一步增强。"
 > 220:"Spells of the Dragon Cultist use a system called Current.\nEach spell when cast will either build up stacks of Current, up to a maximum of 15,\nor release built up stacks for more powerful effects.\n\nThese enhanced effects will vary from spell to spell and are listed within the spell descriptions."

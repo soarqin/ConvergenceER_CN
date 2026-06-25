@@ -28,4 +28,4 @@
 O 5610:"Transcendant Stance"
 > 5610:"Transcendent Stance"
 C 5610:"超凡架势"
-= 5610:""
+= 5610:"超凡架势"

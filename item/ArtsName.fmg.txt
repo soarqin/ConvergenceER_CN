@@ -86,7 +86,7 @@
 O 204:""
 > 204:"Bloody Slash"
 C 204:"鲜血斩击"
-= 204:""
+= 204:"鲜血斩击"
 > 206:"Titanic Cleave"
 = 206:"巨人劈击"
 > 229:"Erdtree Mastery"
