@@ -62,7 +62,7 @@ O 151:"Unique Skill: Death Rune's Invocation\n\nPlunge the sword into the ground
 C 151:"专用战技：死亡卢恩的祈唤\n\n将剑刺入地面，在前方呼唤一阵猛烈斩击，并赋予剑刃命定之死，持续1分钟。\n附魔后，追加的战技攻击会发生变化。向前移动或静止时使出前劈；横向或向后移动时使出旋转空翻，释放死亡之波。\n以上任何攻击的派生均可衔接闪避。"
 = 151:"专用战技：死亡卢恩的祈唤\n\n将剑刺入地面，在前方呼唤一阵猛烈斩击，并赋予剑刃命定之死，持续1分钟。\n附魔后，追加的战技攻击会发生变化。向前移动或静止时使出前劈；横向或向后移动时使出旋转空翻，释放死亡之波。\n以上任何攻击的派生均可衔接闪避。"
 > 154:"Unique Skill: Runic Stance\n\nHold to enter into the stance of heroic Radagon. \nFollow up with three light attacks to repeatedly slam the ground to cause upheavals of gold in front of you. \nAlternatively, follow up with a heavy attack to launch into the air and fly forward to deliver a powerful blow to an enemy."
-= 154:"专用战技：卢恩架势\n\n按住进入英雄拉达冈的架势。\n可三次衔接轻攻击，反复猛击地面，在前方引发黄金的剧变。\n亦可衔接重攻击，腾空飞向敌人并给予强力一击。"
+= 154:"专用战技：卢恩架势\n\n按住进入英雄拉达冈的架势。\n可三次衔接轻攻击，反复猛击地面，在前方引发黄金震荡。\n亦可衔接重攻击，腾空飞向敌人并给予强力一击。"
 > 155:"Unique Skill: Finger Severer\n\nLunge forward through the shadows to slice foes leaving behind a fine quicksliver mist. This attack can be repeatedly performed. \nCharge to augment the attack and hold to detonate all quicksilver mists in the area, causing damage to enemies."
 = 155:"专用战技：断指\n\n穿越阴影向前猛冲斩击敌人，并在身后留下水银薄雾。此攻击可反复执行。\n蓄力可增强攻击，长按可引爆区域内所有水银薄雾，对敌人造成伤害。"
 > 160:"Skill: Hoarfrost Stomp\n\nStomp hard to unleash a freezing burst around you, follow up with another skill attack to perform a low sweep kick that spreads a trail of freezing spikes on the ground. This attack applies a frost status effect."
