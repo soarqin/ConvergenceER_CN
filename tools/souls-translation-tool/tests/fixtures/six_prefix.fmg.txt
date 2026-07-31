@@ -1,0 +1,8 @@
+< 10:"game A"
+O 10:"old mod A"
+> 10:"new mod A"
+- 10:"game B"
+C 10:"old mod B"
+= 10:"译文"
+> 20:"only mod A"
+= 20:""

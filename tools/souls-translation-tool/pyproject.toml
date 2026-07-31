@@ -1,0 +1,28 @@
+[project]
+name = "souls-translation-tool"
+version = "0.1.0"
+description = "Translation tooling for FromSoftware FMG and DCX files"
+readme = "README.md"
+authors = [
+    { name = "Soar Qin", email = "soarchin@gmail.com" }
+]
+license = "GPL-3.0-or-later"
+requires-python = ">=3.11"
+dependencies = [
+    "soulstruct==2.3.2",
+]
+
+[project.scripts]
+souls-translation-tool = "souls_translation_tool:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

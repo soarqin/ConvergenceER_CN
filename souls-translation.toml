@@ -1,0 +1,18 @@
+[project]
+language_a = "engUS"
+language_b = "zhoCN"
+
+[paths]
+game_a = "origin/engUS"
+game_b = "origin/zhoCN"
+mod_a = "mod/engUS"
+mod_b = "mod/zhoCN"
+translation = "."
+update = "update"
+stage = "stage"
+output = "build"
+oodle = "tools/lib/oo2core_6_win64.dll"
+
+[archives]
+item = "item_dlc02"
+menu = "menu_dlc02"

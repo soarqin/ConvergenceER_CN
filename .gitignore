@@ -4,3 +4,8 @@
 /*/*/*/*.xml
 *.zip
 *.7z
+/.venv/
+/.pytest_cache/
+/tools/souls-translation-tool/.venv/
+/tools/souls-translation-tool/.pytest_cache/
+**/__pycache__/
