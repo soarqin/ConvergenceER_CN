@@ -14,6 +14,8 @@
 
 通用魂游翻译工具位于 `tools/souls-translation-tool`，作为独立 Python 子项目维护。实施计划和本项目的格式约定见 [`TOOL_PLAN.md`](TOOL_PLAN.md)。当前工具已提供 `FMG`、`DCX`、BND4、三方/五方翻译文本处理，以及项目级更新提取和构建。
 
+安装 `uv`： 运行 `install_uv.bat`
+
 使用 `uv` 运行命令：
 
 ```powershell
