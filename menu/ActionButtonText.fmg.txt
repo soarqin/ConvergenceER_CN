@@ -54,8 +54,6 @@
 = 9413:"复原亵渎圣剑（当前禁用）"
 > 9414:"Salvage Blasphemous Blade"
 = 9414:"拆解亵渎圣剑"
-> 9560:"Summon Knight Leontiel"
-= 9560:"召唤骑士里翁提耶"
 > 10000:"Leave"
 = 10000:"离开"
 > 10010:"Class Path"

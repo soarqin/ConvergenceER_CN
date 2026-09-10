@@ -1,5 +1,3 @@
-> 401132:"Tarnished Pack"
-= 401132:"褪色者礼包"
 < 401170:"Starting in offline mode.\n\nTo use network features, check to see \nif your connection is set up properly, \nand select \"LOG IN\" from title menu."
 > 401170:"<font size=\"32\">Alternative Save File</font>\nConvergence: Elden Ring uses an alternate save file, \nthis means that your characters from base-game Elden Ring are inaccessible in the mod and vice-versa. \nThis feature is to protect players from potential action being taken against \ntheir accounts for using modified characters in base-game."
 - 401170:"将以脱机模式开始游玩。\n\n如要使用互联网功能，\n请确定联机环境后，选择标题选单的“登录”。"
