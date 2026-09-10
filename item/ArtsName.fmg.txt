@@ -234,7 +234,7 @@
 > 1166:"Cragbolt Slash"
 = 1166:"冰雷斩"
 > 1200:"Muleta"
-= 1200:"穆莱塔"
+= 1200:"诱敌红布"
 < 1201:"Aromatic Chain-Whip"
 O 1201:"Aromatic Chain-Whip"
 > 1201:"Causality's Wrath"

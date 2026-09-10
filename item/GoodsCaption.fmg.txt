@@ -2297,4 +2297,4 @@ C 143:"辉石戒指，能作为哨笛使用。\n吹响哨笛召唤卡利亚骑�
 > 2009619:""
 = 2009619:""
 > 2009620:"A smaller version of the sable attire used to adorn and conceal the warhorses of the Night's Cavalry.\n  \nOne of several liveries once prepared for spectral steeds, which allows Torrent, through grace, to change his appearance.\n  \nThough a spectral steed's form will change when vested in this garb, their heart will remain the same"
-= 2009620:"用于装饰并遮掩黑夜骑兵战马的黑色装束的缩小版。\n  \n曾为灵马准备的众多装束之一，能让托雷特通过赐福改变外观。\n  \n尽管灵马披上此装束后形态会改变，其内心始终如一"
+= 2009620:"黑夜骑兵们骑乘的军马，\n用于覆盖马身，较小件的漆黑装饰。\n\n其中一种为灵马准备的装饰，\n能在赐福为灵马托雷特替换。\n\n灵马的体型会根据装饰出现变化，\n但即使外表不同，内心依旧是托雷特。"
