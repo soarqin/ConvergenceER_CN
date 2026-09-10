@@ -1,7 +1,5 @@
 < 1001:"Revisit the Santuary of Lost Knowledge?"
-O 1001:"Revisit the Santuary of Lost Knowledge?"
 > 1001:"Revisit the Sanctuary of Lost Knowledge?"
-C 1001:"再次访问失落知识圣所？"
 = 1001:"是否要返回失落知识圣所？"
 > 1002:"The stone lies dormant."
 = 1002:"石头沉睡中。"
