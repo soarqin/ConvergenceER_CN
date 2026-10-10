@@ -743,6 +743,8 @@
 = 5080000:"流氓同伴的手剑，他在被监禁期间遭遇了可怕的命运。\n\n它锯齿状的刀刃会撕裂出可怕的伤口，导致大量出血。"
 > 5090000:"A flowing weapon of the Nox. This rapier's touch strikes with a subtle curse that increases the magic damage that affected enemies receive by 5% for a short duration."
 = 5090000:"诺克斯的流体武器。这把细剑的刺击带有轻微的诅咒，使受影响的敌人在短时间内受到的魔力属性伤害提升5%。"
+> 5100000:"A sturdy branch of the forest from the Siofra River, treated into a fine blade by the followers of the Ancestral Spirit.\n\nFlowing waters propogate sentience throughout the inhabitants of the underground, imbuing them with spiritual energy.\n\nCan be used in conjunction with the Spear of the Dreaming."
+= 5100000:"希芙拉河森林中的一截扎实树枝，经祖灵之民之手加工成精良的刀刃。\n\n流动的水将知觉传遍地底的居民，赋予他们灵性的能量。\n\n可与梦之矛配合使用。"
 > 6021300:"Large rapier featuring a thin, sharp blade.\nCommonly used in life or death duels.\n\nLike its smaller counterparts, it is made for thrusting attacks, and can be used while guarding with a shield."
 = 6021300:"剑身细长又尖锐的大型刺剑。\n专为残酷决斗而准备的武器。\n\n和刺剑一样适合用于突刺攻击，\n能在持盾防御的状态下进行攻击。"
 > 6021400:"Large rapier featuring a thin, sharp blade.\nCommonly used in life or death duels.\n\nLike its smaller counterparts, it is made for thrusting attacks, and can be used while guarding with a shield."

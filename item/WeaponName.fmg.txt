@@ -2013,6 +2013,8 @@
 = 5080000:"卡多克的花剑"
 > 5090000:"Quicksilver Rapier"
 = 5090000:"水银细剑"
+> 5100000:"Huntress's Estoc"
+= 5100000:"女猎手的刺剑"
 < 6010400:"Fire Godskin Stitcher"
 > 6010400:"Glint Godskin Stitcher"
 - 6010400:"火焰神皮缝针"

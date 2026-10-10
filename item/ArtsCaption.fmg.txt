@@ -291,5 +291,7 @@
 < 1207:"Unique Skill: Telekinetic Butchery\n\nTap the skill to fling the spear forwards in a corkscrew attack, continuously dealing damage while violently spinning.\nOr hold the skill cause the spear to weave through the air in a pattern in front of you, piercing foes multiple times."
 > 1207:"Unique Skill: Telekinetic Butchery\n\nTap the skill to fling the spear forwards in a corkscrew attack, continuously dealing damage while violently spinning.\nOr hold the skill to cause the spear to weave through the air in a pattern in front of you, piercing foes multiple times."
 = 1207:"专用战技：念动屠宰\n\n轻击发动战技可将长矛向前螺旋投掷，在剧烈旋转的同时持续造成伤害。\n长按发动战技可使长矛在前方空气中穿梭编织，多次贯穿敌人。"
+> 1208:"Unique Skill: Vapor-fly Ignition\n\nSkill that emits volatile vapor-flies in a wide frontward arc.\nFollow up with a strong attack to perform a lunging, sweeping strike that detonates the vapor-flies early."
+= 1208:"专用战技：灵蜓焰燃\n\n能朝前方大范围散发挥发性灵蜓的战技。\n再使出重攻击，能突进使出横扫斩击，提前引爆灵蜓。"
 > 1209:"Unique Skill: Aromatic Chain-Whip\n\nTap the skill to swap the elemental core of the Pomander. Charge the attack to engage the chain of the mace and perform a combination of aromatic spinning attacks that leave a bursting trail of perfume."
 = 1209:"专用战技：香药链鞭\n\n轻击发动战技，可以改变香炉的元素核心。蓄力发动战技，会释放战锤的链部，施展一连串甩击，轨迹会引发香药爆炸。"

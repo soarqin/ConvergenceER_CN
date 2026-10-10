@@ -242,5 +242,7 @@
 = 1206:"血焰踏地"
 > 1207:"Telekinetic Butchery"
 = 1207:"念动屠宰"
+> 1208:"Vapor-fly Ignition"
+= 1208:"灵蜓焰燃"
 > 1209:"Aromatic Chain-Whip"
 = 1209:"香药链鞭"
