@@ -9,6 +9,7 @@ from .config import ProjectConfig
 from .errors import ToolError
 from .fmg import FmgDocument, dump_fmg_text, load_fmg_text
 from .project import build_project, extract_update
+from .ods import update_ods
 from .translation import (
     build_directory,
     compare_directories_five_way,
@@ -70,6 +71,14 @@ def build_parser() -> argparse.ArgumentParser:
     _directory_argument(build, "translation")
     _directory_argument(build, "output")
 
+    ods_update = translation_commands.add_parser(
+        "ods-update",
+        help="Update the Convergence Translation.ods workbook from local FMG translations",
+    )
+    ods_update.add_argument("--ods", type=Path, required=True)
+    _directory_argument(ods_update, "translation")
+    ods_update.add_argument("--output", type=Path, required=True)
+
     project = commands.add_parser("project", help="Run project-level workflows")
     project_commands = project.add_subparsers(dest="project_command", required=True)
     project_commands.add_parser("extract-update", help="Extract update archives and generate translation text")
@@ -120,6 +129,8 @@ def _run(args: argparse.Namespace) -> dict[str, object] | None:
             )
         if args.translation_command == "merge":
             return merge_directories(args.original, args.update, args.output)
+        if args.translation_command == "ods-update":
+            return update_ods(args.ods, args.translation, args.output)
         return build_directory(args.game_a, args.game_b, args.mod_a, args.translation, args.output)
 
     if args.command == "project" and args.project_command == "extract-update":

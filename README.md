@@ -27,11 +27,14 @@ uv run --project tools/souls-translation-tool souls-translation-tool --config so
 uv run --project tools/souls-translation-tool souls-translation-tool translation generate --game-a <game-a-dir> --game-b <game-b-dir> --mod-a <mod-a-dir> --output <translation-dir>
 uv run --project tools/souls-translation-tool souls-translation-tool translation update --game-a <game-a-dir> --game-b <game-b-dir> --previous-mod-a <previous-mod-a-dir> --previous-mod-b <previous-mod-b-dir> --current-mod-a <current-mod-a-dir> --existing <translation-dir> --output <translation-dir>
 uv run --project tools/souls-translation-tool souls-translation-tool translation merge --original <translation-dir> --update <update-dir> --output <translation-dir>
+uv run --project tools/souls-translation-tool souls-translation-tool translation ods-update --ods Translation.ods --translation . --output Translation.updated.ods
 uv run --project tools/souls-translation-tool souls-translation-tool --config souls-translation.toml project extract-update
 uv run --project tools/souls-translation-tool souls-translation-tool --config souls-translation.toml project build --output <output-dir>
 ```
 
 FMG 中的 null 槽位会在中间文本格式中保存为 `%null%`，与实际存在但为空的字符串区分。构建时沿用旧版 `fmgcarry` 的兼容规则：普通文本去除尾部空白，纯空白文本原样保留，比较时将空字符串、纯空白字符串和 `[ERROR]` 视为同类空文本。三方和五方对比会分别生成 `removed.json` 与 `null.json`。项目当前使用的 Oodle DLL 路径由根目录的 `souls-translation.toml` 配置，工具不会重新分发该 DLL。
+
+`translation ods-update` 用 `Translation Data` 页的 `Category + Type + ID` 定位本地 FMG 条目：`Convergence (English)` 写入本地 `>` 行，`Convergence (Simplified Chinese)` 写入本地 `=` 行。ODS 中本地不存在的有效数据行会删除，本地新增条目会按 `Category`、ID 和条目类型顺序插入；同一道具的条目顺序为 `Name`、`Summary`、`Description`、`Secondary Summary`。武器的名称、概要和描述只保留未质变的基础 ID（ID 为 10000 的整倍数），`Infusion` 和 `Weapon Effect` 不受此规则影响。骨灰通过描述文本识别，并只保留每个升级组的基础 ID，删除 `+1` 至 `+10` 条目。命令会在官方 7 列后追加 `Old Convergence (English)` 和 `Old Convergence (Simplified Chinese)` 两列；如果更新前的英文与本地当前英文不一致，则保存更新前的英文及其已有中文译文作为参考，并按最终数据行范围更新未翻译/已翻译条件格式。
 
 ## 重新打包
 * 运行 `update_fmg.bat`，根据 `item` 和 `menu` 下的翻译文本更新 `mod/zhoCN` 中的 FMG 文件；也可以直接运行对应的 `translation build` 命令
