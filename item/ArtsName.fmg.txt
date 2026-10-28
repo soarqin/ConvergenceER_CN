@@ -83,7 +83,7 @@
 > 194:"Virulent Slice"
 = 194:"致命切割"
 > 195:"Ritekeeper's Splendor"
-= 195:"仪卫的辉煌"
+= 195:"仪式守卫的辉煌"
 > 206:"Bloody Slash"
 = 206:"鲜血斩击"
 > 229:"Erdtree Mastery"

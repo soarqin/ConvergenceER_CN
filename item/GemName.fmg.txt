@@ -1,5 +1,5 @@
 > 10400:"Ash of War: Ritekeeper's Splendor"
-= 10400:"战灰：仪卫的辉煌"
+= 10400:"战灰：仪式守卫的辉煌"
 < 10600:"Ash of War: Stamp (Upward Cut)"
 > 10600:"Ash of War: Stamp"
 - 10600:"战灰：箭步（上砍）"

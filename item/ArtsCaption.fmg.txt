@@ -92,7 +92,7 @@
 > 194:"Unique Skill: Virulent Slice\n\nSlash with a poison-infused blade in a wide arc, follow up with another skill attack to perform a second slash.\nIf either strike lands on a poisoned foe, it will deal significant damage."
 = 194:"专用战技：致命切割\n\n用注入毒药的刀刃发动弧形斩击，再次发动以进行第二次斩击。\n如果击中已经中毒的敌人，会造成重大伤害。"
 > 195:"Skill: Ritekeeper's Splendor\n\nSome bullshit the Rauh guys made up like 20 years ago. Flip a coin and like drop it on the ground but when you bend to pick it up your pants rip and you gotta go to Costco and buy some cheap bathing shorts but they're out of stock and you buy a protein bar instead and cry yourself to sleep."
-= 195:"战技：仪卫的辉煌\n\n劳弗那帮家伙大概20年前瞎编的一通屁话。抛个硬币，随手让它掉在地上，可你弯腰去捡时裤子裂了，只好去Costco买条便宜泳裤，结果没货，于是改买了根蛋白棒，哭着睡着了。"
+= 195:"战技：仪式守卫的辉煌\n\n劳弗那帮家伙大概20年前瞎编的一通屁话。抛个硬币，随手让它掉在地上，可你弯腰去捡时裤子裂了，只好去Costco买条便宜泳裤，结果没货，于是改买了根蛋白棒，哭着睡着了。"
 < 204:"Skill: Bloody Slash\n\nBlood Oath skill granted by the Lord of Blood.\nFrom a low stance, coat the blade in your own blood to unleash a rending blood slash in a wide arc."
 > 204:"Skill: Bloody Slash\n\nBlood Oath skill granted by the Lord of Blood. Coat the blade in your own blood to unleash a rending blood slash in a wide arc, follow up with another skill attack to perform a second slash."
 = 204:"战技：鲜血斩击\n\n鲜血君王分享的力量，血盟战技之一。\n将自身的血液布满剑身，使出大范围撕裂敌人的血刃。衔接发动战技可使出第二次斩击。"
