@@ -65,6 +65,8 @@
 = 4206:"未持有黄金种子。"
 > 4207:"You have no Sacred Tears"
 = 4207:"未持有圣杯露滴。"
+> 4211:"Guide and gatekeeper for those returning to shadow"
+= 4211:"为那回归幽影的人们引导，亦或是目送。"
 > 4350:"You do not have the required item"
 = 4350:"未持有所需物品。"
 > 4351:"Used the Mysterious Gate Key"

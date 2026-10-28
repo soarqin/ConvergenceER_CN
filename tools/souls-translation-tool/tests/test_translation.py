@@ -57,17 +57,18 @@ def test_translation_text_roundtrip_preserves_all_prefixes(tmp_path: Path) -> No
 
 
 @pytest.mark.skipif(not HOST_TRANSLATION_FIXTURE.is_file(), reason="Host project fixture is unavailable")
-def test_parse_repository_six_prefix_sample() -> None:
+def test_parse_repository_translation_sample() -> None:
     source = TranslationDocument.read(REPOSITORY_ROOT / "item/AccessoryCaption.fmg.txt")
     entry = source.entries[2020]
 
-    assert tuple(entry.values) == ("<", "O", ">", "-", "C", "=")
-    assert entry.values["O"] != entry.values[">"]
-    assert entry.values["C"] != entry.values["="]
+    assert tuple(entry.values) == ("<", ">", "-", "=")
+    assert all(entry.values.values())
+    assert entry.values["<"] != entry.values[">"]
+    assert entry.values["-"] != entry.values["="]
 
 
 def test_golden_fixture_preserves_six_prefix_format() -> None:
-    source = TranslationDocument.read(Path(__file__).parent / "fixtures/six_prefix.fmg.txt")
+    source = TranslationDocument.read(Path(__file__).parent / "fixtures/six_prefix.fmg.sample")
 
     assert source.entries[10].values["O"] == "old mod A"
     assert source.entries[10].values["C"] == "old mod B"

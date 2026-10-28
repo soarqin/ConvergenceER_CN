@@ -14,6 +14,8 @@
 > 10300:"This Ash of War grants an armament the following skill:\n\n\"Spinning Slash: Skill favored by dexterous warriors. Slash foes as your body spins. Additional input allows for a follow-up attack.\"\n\nUsable on swords, axes, and polearms (colossal weapons excepted)."
 - 10300:"能赋予武器属性、战技的战灰。\n属性为“锋利”，战技如下：\n\n\u3000战技：回旋斩\n\u3000拥有高灵巧的剑士们使用的战技。\n\u3000能大幅旋转身体，砍向敌人。\n\u3000再次发动能使出追击。\n\n能在剑、斧类武器，以及长柄武器使用。\n（不含特大型武器）"
 = 10300:"能赋予武器战技的战灰。\n战技如下：\n\n\u3000战技：回旋斩\n\u3000拥有高灵巧的剑士们使用的战技。\n\u3000能大幅旋转身体，砍向敌人。\n\u3000再次发动能使出追击。\n\n能在剑、斧类武器，以及长柄武器使用。\n（不含特大型武器）"
+> 10400:"This Ash of War grants an armament the following skill:\n\n\"Ritekeeper's Splendor: Do a thing and then some stuff happens idk.\"\n\nUsable only on the Keystone Sword."
+= 10400:"能赋予武器战技的战灰。\n战技如下：\n\n\u3000战技：仪卫的辉煌\n\u3000做点什么，然后就会发生些事，我也不知道。\n\n仅能在钥石剑使用。"
 < 10500:"This Ash of War grants an armament the Quality affinity and the following skill:\n\n\"Charge Forth: Quickly charge forward with the armament at the hip, carrying the momentum into a thrust. Hold to cover a greater distance.\"\n\nUsable on polearms capable of thrusting, heavy thrusting swords, and twinblades."
 > 10500:"This Ash of War grants an armament the following skill:\n\n\"Charge Forth: Quickly charge forward with the armament at the hip, carrying the momentum into a thrust. Hold to cover a greater distance.\"\n\nUsable on polearms capable of thrusting, heavy thrusting swords, and twinblades."
 - 10500:"能赋予武器属性、战技的战灰。\n属性为“优质”，战技如下：\n\n\u3000战技：突击\n\u3000武器及腰摆出架式，再一口气向前冲的战技。\n\u3000前进到极限后能使出突刺攻击。\n\u3000持续发动能增加移动距离。\n\n能在可突刺的长柄武器，\n以及重刺剑、双头剑类武器使用。"

@@ -976,7 +976,6 @@
 < 7410:"An enchantment of the order of mystics, granting a buff"
 > 7410:"An enchantment of the order of mystics, granting a buff.\nCheck detailed description."
 = 7410:"一种密契的强化，赋予增益。\n查看详细描述以获取更多信息。"
-= 7411:"向敌人释放飞弹，使其产生幻痛"
 > 7412:"Release a projectile at an enemy that makes them go berserk"
 = 7412:"向敌人发射飞弹，使其发狂"
 < 7413:"Makes the caster immune to spirit summon debuffs and grants 1 FP recovery per second"

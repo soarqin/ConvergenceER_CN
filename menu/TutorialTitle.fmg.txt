@@ -88,7 +88,7 @@
 = 403240:"圣杯守护"
 > 403250:"Spirit Ash Resummoning"
 = 403250:"灵魂骨灰重新召唤"
-> 403251:"Sp Spirit Ash Resummoning II"
+> 403251:"Spirit Ash Resummoning II"
 = 403251:"灵魂骨灰重新召唤 II"
 > 403252:"Spirit Ash Summoning Ranges"
 = 403252:"灵魂骨灰召唤范围"

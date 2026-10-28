@@ -140,6 +140,8 @@
 = 130014:"失落部族灵地"
 > 130015:"Tanith, Volcano Manor Proprietress"
 = 130015:"“火山官邸之主”塔妮丝"
+> 130016:"Defiled Shrine"
+= 130016:"污秽圣坛"
 > 130100:"White Mask Varré"
 = 130100:"“白面具”梵雷"
 > 130200:"Gatekeeper Gostoc"
