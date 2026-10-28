@@ -2499,7 +2499,7 @@
 < 31080000:"A standard medium-sized metal shield. Highly reputed for its solid build and reliability.\n\nEmblazoned with a yellow scorpion, a warning of surprise attacks and sudden strikes."
 > 31080000:"Emblazoned with a yellow scorpion, a warning of surprise attacks and sudden strikes.\n\nThis shield increases the damage of Servants of Rot incantations by 10%."
 - 31080000:"标准规格的金属制中盾。\n坚固又稳定性高的武器。\n\n盾面绘有黄色蝎子的徽章，\n此为受到奇特手段偷袭的警告。"
-= 31080000:"盾面绘有黄色蝎子的徽章，\n警示突如其来的袭击。\n\n提升10%腐败祷告伤害。"
+= 31080000:"盾面绘有黄色蝎子的徽章，\n此为受到奇特手段偷袭的警告。\n\n提升10%腐败祷告伤害。"
 < 31090000:"Shield featuring a vividly painted twinbird.\nThe twinbird is said to be the envoy of an outer god, and mother of the Deathbirds.\n\nAt dwindling levels of HP, this shield slightly boosts both attack and defense."
 > 31090000:"Shield featuring a vividly painted twinbird.\nThe twinbird is said to be the envoy of an outer god, and mother of the Deathbirds.\n\nWhile at or below 20% HP, this shield boosts attack by 5% and all absorptions by 10%."
 - 31090000:"绘有鲜艳双鸟的盾。\n据说双鸟是外在神祇的使者，\n也是众多死之鸟的母亲。\n\n当血量偏低时，\n能些微提升攻击力与防御力。"
