@@ -1384,7 +1384,7 @@
 > 3181400:"Death Claymore"
 = 3181400:"死亡大剑"
 > 3181500:"Godslayer Claymore"
-= 3181500:"大剑（狩猎神祇）"
+= 3181500:"狩猎神祇大剑"
 > 3181600:"Frost Claymore"
 = 3181600:"冰霜大剑"
 > 3181700:"Aberrant Claymore"
